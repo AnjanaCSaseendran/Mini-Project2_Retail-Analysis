@@ -1,0 +1,1201 @@
+Transaction_ID,Customer_Name,Customer_Age,Store_Location,Store_Type,Product_Category,Product_Name,Quantity,Purchase_Amount,Discount_Applied,Payment_Method,Purchase_Date,Customer_Satisfaction_Rating,Return_Status
+46685257-bdd6-40fb-8667-1ad11c80317f,Charles Garcia,26.0,New Roberttown,Rural,Stationery,Better,2.0,222.55,0%,Credit Card,2024-08-16,2.0,No
+06cb0fb3-9a1d-4644-815e-f6d13b8faa18,Michelle Miles,56.0,Robinsonshire,Rural,Groceries,Fall,2.0,246.01,10%,Debit Card,24/09/2023,1.0,Returned
+ce4a2bbd-c241-430b-81a9-e71fde8a774b,Jay Ramirez,,Port Matthew,Suburban,Clothing,Best,0.0,2987.4,none,Cash,26/12/2024,6.0,Yes
+580d7b71-d8f5-4413-9be6-128e18c26797,Renee Blair,,South Christianport,Urban,Home Decor,Themselves,1.0,600.83,15%,Debit Card,28/01/2024,,Y
+5c941cf0-dc98-42c1-a2ac-f72f9e574f7a,Michele Williams,,Port Keith,Rural,Groceries,Base,0.0,486.12,0%,Credit Card,08/08/2024,0.0,Not Returned
+614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,Mark Diaz,,Michaelview,Suburban,Home Decor,Science,0.0,3888.03,5%,UPI,31/01/2025,4.0,No
+9bf00273-1247-4f57-a5e5-a5abaefcfad8,Kimberly Sanchez,59.0,Grayside,Rural,Groceries,Discuss,,1126.58,0%,Debit Card,2025-04-04,,Not Returned
+c6a7ee39-c4b0-42cc-97c5-24a55304317f,Rodney Trujillo,53.0,Adamsborough,Rural,Clothing,White,,2365.08,0%,Credit Card,20/09/2024,3.0,Not Returned
+366eb16f-508e-4ad7-b7c9-3acfe059a0ee,Jennifer Rocha,,Thomasberg,Urban,Home Decor,Employee,3.0,4044.72,15%,Wallet,2024-06-21,1.0,Yes
+bf3c4c06-4343-48bc-89fa-6a688fb5d27b,Stephanie Ross,,East William,Rural,Stationery,Benefit,2.0,800.07,10%,Wallet,2024-11-06,6.0,Not Returned
+27209bdf-1c11-4735-9c71-3d960c0fd195,Rebecca Henderson,23.0,South Patrickmouth,Urban,Groceries,Newspaper,5.0,1873.78,10%,Cash,2024-11-15,0.0,N
+f143262f-dc5c-4eed-8da0-365bf89897b9,Nathan Maldonado,,Kaylamouth,Rural,Electronics,Brother,4.0,3022.4,15%,Credit Card,2023-10-20,0.0,Returned
+00d4af59-7427-4ca3-a87d-06ca6f4cc69a,Sherri Baker,45.0,New Rita,Suburban,Electronics,Truth,1.0,3866.13,0%,UPI,2023-11-21,5.0,Y
+81f631d4-a392-41a7-9777-a4774c66e0a8,Brittany Farmer,37.0,New Mariotown,Urban,Clothing,Brother,0.0,2587.64,5%,Cash,2024-08-05,3.0,Not Returned
+d4e80839-fc3e-458b-a0f3-eab05cec4eb5,Cynthia Allen,,North Jessicaland,Urban,Electronics,Soon,1.0,3034.83,15%,Cash,2025-03-29,1.0,Yes
+a8e56e0c-20de-435d-a031-d750c40db9b4,Joshua Baker,52.0,Brandtside,Urban,Home Decor,Someone,0.0,519.7,15%,Debit Card,25/05/2024,2.0,Yes
+4fcca39a-b683-42e6-b37e-a2dfb09b2a5c,Michael Brooks,62.0,Martinezbury,Rural,Clothing,Attack,0.0,4825.38,20%,Wallet,2024-10-25,0.0,Not Returned
+3ae8cc93-8dcd-4d03-969b-666205628059,Adrienne Zimmerman,33.0,East Carloston,Urban,Clothing,Trade,4.0,2246.69,20%,Credit Card,2023-12-26,,Yes
+474a493b-3ced-4f2d-839f-bc501223b513,Cindy Anderson,58.0,Sanchezfort,Urban,Electronics,Surface,1.0,2983.36,5%,Credit Card,2023-12-20,4.0,Not Returned
+a8b317fa-18d0-452b-9825-bc5430beb45f,Jeff Owens,31.0,Lake Deniseville,Rural,Stationery,Ask,,2619.36,0%,Debit Card,18/02/2024,2.0,N
+dc96925e-ccf3-4171-96dc-8907ba6c34ab,Corey Herrera,,South Isaiah,Suburban,Home Decor,Maintain,1.0,4056.74,10%,Wallet,14/02/2024,6.0,Yes
+71710434-134c-4c92-ac5b-227cdfde4fbf,Savannah Garcia,,North Sarabury,Urban,Groceries,Compare,1.0,3399.49,0,Cash,19/10/2023,1.0,Yes
+dd59ba71-36b8-4481-bb3a-4e3e7c52fa17,Anthony Gray,33.0,Bakermouth,Suburban,Stationery,Feeling,3.0,786.89,10%,Credit Card,17/02/2024,6.0,N
+fed4057d-bb02-4576-b512-c4c3b253d218,Mary Tucker,,West Jeff,Suburban,Home Decor,Article,0.0,4848.08,none,Cash,2024-03-01,1.0,No
+bf7b539b-0f9a-4a4b-8acd-4e10bc594585,Anthony Woods,,North Susan,Suburban,Stationery,Be,4.0,906.72,5%,Wallet,30/06/2024,1.0,Y
+1165e210-9854-4881-918a-9d292f923996,Cynthia Wilson,52.0,New Brooke,Rural,Clothing,President,5.0,1166.73,5%,Credit Card,28/01/2025,5.0,Not Returned
+90b2b633-956b-4c0c-a849-9b926b5252e3,Taylor Harris,21.0,Johnfurt,Urban,Electronics,Catch,5.0,2563.97,none,Debit Card,10/06/2023,6.0,No
+50f0fd0a-750c-4b75-8ccc-9bc2a53f8a28,Taylor Smith,56.0,North Amandahaven,Rural,Electronics,Evidence,2.0,2078.5,20%,Wallet,2024-09-10,4.0,Returned
+119c4ea3-e180-4081-9958-a499eeea163e,Jaclyn Moore,38.0,Cherylhaven,Suburban,Home Decor,Across,,4680.06,10%,Cash,2023-07-19,,Not Returned
+ee87905e-4ca4-45ea-8dfa-6a56d12dbc9a,Teresa Taylor,47.0,North Juliaberg,Urban,Stationery,Expert,1.0,2340.4,none,Cash,2024-09-07,5.0,Yes
+57c700aa-b7b5-4ea7-b5eb-d32d9ad620ab,Mark Baker,36.0,Kington,Suburban,Stationery,Best,2.0,4672.97,5%,UPI,2023-11-12,3.0,Y
+0b49452d-46d4-43f3-9450-281c6c6f7633,Ray Walsh,24.0,Evanmouth,Suburban,Electronics,Ok,3.0,3372.53,20%,Credit Card,2024-08-12,1.0,Not Returned
+1ca3c448-0279-46a6-8f97-97b06d7ce3c9,Stephen Mckee,39.0,Port Mikeside,Rural,Clothing,Choose,2.0,1434.51,20%,Debit Card,07/10/2024,3.0,Not Returned
+5d59cd2a-4eea-44e7-8ab5-4bde20a04502,Rebecca Valencia,20.0,Jasonbury,Suburban,Groceries,Reflect,0.0,552.26,15%,UPI,06/03/2024,1.0,Y
+e256a6dc-8f54-46b7-87b5-b2bc5a8aaeca,Valerie Brady,25.0,Port Francisco,Rural,Groceries,Such,5.0,2803.23,15%,Debit Card,26/06/2023,6.0,Yes
+0658663a-698c-406f-a1a4-7e102d534dd0,Tim Patton,,Phambury,Suburban,Electronics,Example,4.0,2954.3,10%,UPI,27/12/2024,,No
+61ee411a-1bac-47a7-b386-f7a4c991603f,Shannon Walker,44.0,Baileybury,Urban,Groceries,Dog,0.0,3367.97,0%,Cash,2023-08-09,4.0,Returned
+5408f9ac-6601-4dd0-b170-f437a8f7ef5a,Benjamin Ayala,60.0,Darlenefurt,Suburban,Groceries,Respond,0.0,978.87,0%,Credit Card,26/04/2023,1.0,N
+0710d430-f071-4879-94c6-3cd889456f27,Wesley White,,Benjaminchester,Urban,Groceries,Hair,2.0,4307.11,10%,Credit Card,2025-01-22,1.0,N
+9b3080d5-6fb7-4271-904d-281fc9535b63,Mrs. Stephanie Lee,,Lake Ryanhaven,Rural,Stationery,Wish,1.0,1708.48,none,UPI,2024-10-24,0.0,Y
+f0b5156b-b82c-4074-afd5-dea589d7fd6c,Megan Diaz,34.0,Lake Samanthamouth,Urban,Stationery,Record,2.0,4397.49,0%,Wallet,24/12/2024,2.0,Returned
+4ce1eb90-e669-4833-b841-d0a01fe771d6,Mary Nguyen,54.0,Angelaborough,Suburban,Electronics,Kitchen,1.0,2238.33,20%,Wallet,25/01/2025,,N
+bf85bf0e-ad64-456c-a10f-aa3ff0bbac67,Lisa Turner,,West Justinchester,Rural,Electronics,Stock,,1884.69,5%,UPI,2024-09-05,4.0,Y
+77097749-527e-4cfa-a79a-c9aa9b4e2c24,Michael Dixon,26.0,Lake Christopher,Suburban,Home Decor,Myself,3.0,1698.3,0,Cash,2024-07-01,0.0,Returned
+17e8392a-55ce-45db-9e87-e04ca2086977,Nicole Chambers,36.0,Port James,Suburban,Stationery,Ago,1.0,2089.77,none,Debit Card,2024-09-04,5.0,Y
+9c7c7377-79a2-4903-bbe3-3b243eae0032,Angel Perry,48.0,Lake Heather,Rural,Electronics,Miss,2.0,2264.75,0,UPI,2023-05-13,6.0,Returned
+b00805cc-a7f3-4ae9-a5c7-3c443e75c3b4,Paul Carrillo,37.0,Port Ronaldburgh,Urban,Groceries,Summer,2.0,557.6,none,Credit Card,12/02/2024,,Not Returned
+8eb22579-0cdb-4ca4-b6ec-bdd68498e113,Ryan Bryant,44.0,Contrerasside,Rural,Home Decor,Physical,1.0,3095.24,none,Wallet,29/09/2024,6.0,N
+714c7df4-e434-4d51-8158-1092f335cba3,Michelle Wagner,45.0,Merrittfort,Urban,Stationery,Listen,0.0,3314.68,5%,Wallet,10/12/2023,3.0,Yes
+a33dc7af-d701-410d-bf4b-1a70c074718e,Richard Washington,,West Scott,Suburban,Stationery,Sell,4.0,4595.6,5%,Debit Card,26/10/2023,4.0,No
+51d87c64-55fa-4ab8-858f-1f193c07c574,Angela Hernandez,,Bensonborough,Urban,Clothing,Attack,0.0,4496.32,0,Debit Card,15/11/2023,6.0,N
+7746d0ba-8ae8-405b-94b4-a48268586eba,Daniel Fisher,,Port Nicoleshire,Suburban,Clothing,Husband,,1445.53,5%,Debit Card,24/02/2024,4.0,Y
+4c71e0fe-5a0c-4d7c-b157-8470018267c4,Sarah Ashley,31.0,Medinaside,Suburban,Home Decor,Such,2.0,1233.18,0,UPI,2024-04-12,3.0,Not Returned
+382c043f-7cfc-4b79-b875-394ce5d6f6e6,John Price,55.0,Ramseymouth,Rural,Home Decor,Wide,4.0,405.1,none,Wallet,19/07/2024,0.0,N
+06e745f9-88bc-439c-9f4c-3b79fb10987f,Leslie Alvarado,52.0,Lake Roymouth,Suburban,Groceries,Court,0.0,1563.2,15%,UPI,16/07/2023,,N
+362f5e5c-53cd-4268-a10c-f37342999aa4,George Hobbs,64.0,Karenchester,Suburban,Groceries,Entire,,2005.4,0,Debit Card,2023-05-17,1.0,N
+bfc00dc8-04f6-4d86-b866-076514f7ce8d,Zoe Bell,,Port Susanton,Urban,Home Decor,Somebody,1.0,3000.27,0,Cash,15/01/2025,0.0,Yes
+d6d7b3b8-3309-4d35-bf4d-f561f319c125,Christian Martinez,,New Staciemouth,Suburban,Clothing,Scene,3.0,1704.03,15%,Credit Card,02/05/2023,0.0,Y
+9b1bc895-2af4-4ab7-9e6f-ea07c4536f1d,Nicole Wilson,22.0,West Daniel,Urban,Groceries,Agree,2.0,4999.55,0%,Cash,2023-10-24,1.0,Not Returned
+e87466d7-ad66-41bd-9367-6a024fdc6e1b,Jennifer Espinoza,54.0,New Hannahbury,Suburban,Clothing,Blue,,1268.87,15%,UPI,29/03/2025,3.0,Yes
+af2b99b4-d9ac-4158-8d34-85c5c5c14eb4,Barbara Riggs,55.0,West Amandastad,Suburban,Stationery,Authority,3.0,3911.18,10%,Wallet,30/09/2024,2.0,Yes
+d97dc9cd-033d-4bce-975a-ed2ca5c5650c,John Hamilton,33.0,Cynthiamouth,Rural,Clothing,Second,0.0,472.38,0,Debit Card,2024-05-04,4.0,Not Returned
+859131d2-bbda-4242-ad17-4fc96f7c15ea,Debra Morton,,Marshallshire,Urban,Home Decor,Executive,,1801.3,15%,Wallet,04/08/2023,1.0,Y
+ef43613c-d4aa-49a3-bed8-c56cda09dfa0,Stephen Sanchez,,Hudsonfurt,Urban,Stationery,Great,4.0,3214.37,none,UPI,2023-12-14,,Not Returned
+2e8d0e87-5334-40e6-99d8-0b8d7e8adee7,Mr. David Ramirez,,Angelahaven,Urban,Electronics,Yourself,,2377.88,none,UPI,2023-04-30,6.0,Returned
+680bac63-b856-4035-bdc9-829015eabb27,Peter Vaughn DDS,,Westtown,Urban,Home Decor,Better,5.0,3777.33,20%,UPI,03/09/2023,4.0,Not Returned
+3e493f43-b118-468d-a786-d50638ba8abc,Kevin Kennedy,,Ronaldside,Rural,Electronics,Give,3.0,1838.64,0%,Debit Card,2023-11-22,4.0,Y
+4e7ed827-455a-4762-b428-a656b3ee4d3b,Bryan Lee,,Lake Amandaburgh,Rural,Home Decor,Dark,4.0,1282.64,15%,Wallet,2024-01-06,2.0,Returned
+b97e6703-46c8-4dfe-bbf4-7042bd1531c8,Paige Carlson,,Port Jamesbury,Suburban,Stationery,Herself,,1541.75,15%,Debit Card,23/09/2023,2.0,No
+88bd13d1-b540-430e-839f-3a254d6168bd,Angel Brown,34.0,Heidiberg,Urban,Groceries,Pull,3.0,1823.87,15%,UPI,25/08/2023,,Y
+df6a8f93-1a43-4f0a-bdaa-39f0c0b6fce2,Duane Mendoza,,Jackton,Urban,Groceries,Entire,4.0,1038.55,0,UPI,10/02/2025,3.0,Y
+d2762bdc-1d34-408e-ba4c-75d4dc99e04c,John Ray,35.0,East Edwardshire,Urban,Stationery,Fly,5.0,1581.11,0,UPI,2025-04-07,3.0,No
+8edddfcd-1e52-4770-bf89-7142fe716b14,Lisa Gibbs,,Port Alexandra,Suburban,Home Decor,Little,4.0,3225.56,none,Wallet,13/06/2023,3.0,Yes
+96a9954f-dc33-41f9-8c1f-55ab715629ee,Elizabeth Oliver DDS,,Port Jaredborough,Suburban,Electronics,Everything,4.0,1337.14,none,Debit Card,2025-03-13,1.0,Yes
+2c7f0b79-3d67-4de9-a834-e4c014c8b3b4,Brooke Ortiz,23.0,Carterbury,Urban,Stationery,Fight,5.0,843.46,none,Wallet,2024-09-01,1.0,Y
+743b65a2-dc0f-4fcf-b3f6-fe0d48603b32,David Baker,,South Danny,Suburban,Stationery,Down,4.0,3900.9,15%,Debit Card,08/10/2024,4.0,N
+d39e198b-4400-4d5a-a88d-a71926242b40,Anthony Sparks,34.0,Scottmouth,Urban,Groceries,Risk,,4743.19,10%,Cash,2024-08-23,2.0,No
+45b1ed25-f153-4ae8-a70a-cc5cb321bf21,Katherine Miller,,South Jessicaview,Urban,Groceries,Agree,,113.11,15%,UPI,2023-11-30,3.0,Returned
+d6016237-ac9e-4156-b63f-ce413a9aca5e,Laurie Smith,55.0,Barbaraburgh,Suburban,Electronics,Many,3.0,448.78,10%,Debit Card,17/06/2023,6.0,Not Returned
+473544f9-ea83-4f00-b135-f221a6c9537f,Kevin Walters,21.0,Costafort,Suburban,Stationery,Happen,2.0,4551.22,none,Debit Card,2024-05-15,3.0,Yes
+1ac70ec0-ab8d-4eb4-9230-dfbd5553b2fe,Erin Steele,,Elainefurt,Rural,Stationery,Teach,3.0,709.33,0,Wallet,19/02/2024,6.0,Not Returned
+168b1625-746f-4891-8964-fbbf8cd321b0,Frank Cordova,34.0,Hancocktown,Urban,Groceries,Really,3.0,4458.17,0,Debit Card,2024-11-18,1.0,Returned
+0de051a6-69ca-47d2-b644-14fd8ae769ed,Isaiah Avila,54.0,Wolfborough,Urban,Home Decor,Example,0.0,4997.9,0,Debit Card,2025-02-11,1.0,Y
+70286046-49bc-473f-ad7b-f656218a1536,Kari Johnson,49.0,Lake Eric,Suburban,Clothing,Ok,4.0,989.3,20%,Wallet,07/06/2024,5.0,Not Returned
+3985fb62-17dc-4eff-a872-13f98d605936,Susan Murray MD,,South Sarah,Rural,Home Decor,Film,4.0,4302.89,0%,Debit Card,18/04/2023,2.0,Not Returned
+d5b077e0-6a5d-432b-85ff-2c83b495db4e,Mr. Jesus Thomas,50.0,New William,Rural,Stationery,Until,1.0,1641.13,0%,Wallet,07/05/2024,2.0,N
+c5ce099c-46b8-4659-91df-12d7dd30de89,Jennifer Villa,,Loriport,Urban,Groceries,She,0.0,2640.35,20%,UPI,2023-07-23,4.0,N
+ffb8102d-9475-4bc9-9641-8cedd664d264,Sharon Griffin,19.0,Reedside,Rural,Groceries,Source,4.0,2246.77,0,UPI,2023-11-25,5.0,Yes
+5260001e-eecf-47d2-b491-76f46090d697,Veronica Allen,25.0,Hallchester,Suburban,Clothing,Animal,1.0,556.73,none,Debit Card,2024-06-03,0.0,N
+e9d68f23-b489-4070-b914-f8a8bea4ff31,Jasmin Alvarado,53.0,South Tammie,Suburban,Groceries,Card,2.0,4190.15,15%,Debit Card,2023-12-11,0.0,N
+dea4ae17-54fd-4ad3-9716-108ef72169bb,Ryan Garcia,,Smithberg,Urban,Clothing,It,0.0,4333.73,0%,UPI,2024-05-02,3.0,N
+1327f1bc-2784-478f-b84f-16b3a79fbfaf,Wayne Morgan,,Santosmouth,Rural,Stationery,Together,5.0,4339.78,15%,Wallet,12/02/2025,6.0,N
+f4427e0b-6148-4bb3-889b-78d5dbfdd97e,Nathan Malone,42.0,New Caseyport,Suburban,Electronics,Dream,2.0,4361.05,0,UPI,2024-09-12,,Returned
+1933918c-fa74-4761-af18-c1081723199d,Michele Garcia,,Lake Kevin,Urban,Groceries,Air,0.0,1991.79,0,Debit Card,2024-11-08,0.0,Not Returned
+4b1a269b-0e5d-4462-8bd0-0ef2530a37df,Jeffrey Sanchez,,Knightburgh,Urban,Groceries,Conference,0.0,4361.53,none,Wallet,2023-05-13,,N
+61ee6c5b-deef-480f-9c07-a75114374509,Cynthia Durham,,East Steven,Rural,Electronics,Environmental,3.0,466.66,none,UPI,2023-08-21,3.0,Y
+e61ede90-0267-4eb3-aab6-12c9415d174a,Stephanie Byrd,52.0,North Scott,Rural,Electronics,Hair,,4775.28,0,Cash,2024-03-29,0.0,N
+6c9f82b9-f647-4986-a391-7c994c955f6a,Joyce Turner,24.0,Castanedaville,Suburban,Groceries,Economic,1.0,4987.39,0,UPI,2024-07-07,5.0,N
+4bbe4aff-9326-4ffd-9be4-bf5192698698,Elizabeth Spence DDS,,Alanton,Urban,Groceries,Whether,3.0,1689.44,5%,Debit Card,29/01/2024,1.0,Y
+e776b886-d534-4e1d-bf29-84f5bec39a37,Patricia Hall,57.0,Jefferyborough,Suburban,Stationery,Pressure,5.0,932.92,5%,Cash,22/07/2024,3.0,N
+c478f6f1-b88e-4318-816d-83edad81f8bd,Sara Fuller,36.0,West Kristinaton,Urban,Home Decor,Particularly,1.0,2351.9,0,UPI,2023-10-19,5.0,N
+e8dd5e5a-1712-4b16-a1a4-344fbb7bee03,Paul Thompson,,Port Amber,Urban,Home Decor,History,,3230.8,15%,Wallet,16/01/2024,5.0,Y
+d499da99-45c4-4a3e-a9da-484a80759f1f,Thomas Raymond,36.0,Juliemouth,Rural,Home Decor,Summer,3.0,2902.42,20%,UPI,24/05/2024,0.0,Not Returned
+2408a6dc-1346-41a9-b680-2cdb77e490c7,Courtney Rhodes,,Coffeyside,Urban,Groceries,History,4.0,4562.02,0,Debit Card,06/07/2023,1.0,Y
+43b38eb4-0390-4c5d-a502-d6a2ca6a2224,Jordan Chambers,,Brendastad,Urban,Stationery,Box,,3178.42,0,UPI,2023-06-17,3.0,Yes
+9e9a9f83-0668-43ee-b8b2-b5493bdbc09e,Kristina Herman,29.0,Lake Bryan,Urban,Stationery,Than,,4557.18,0%,UPI,2024-09-13,2.0,N
+a6348e78-4d5c-45c7-b379-cb1ee8cda0cc,Charles Shah,,Wendyville,Urban,Home Decor,Bill,0.0,4169.32,0%,Credit Card,02/04/2024,5.0,N
+637e4b01-22ba-410e-899c-a782e3236d1a,Michael Paul,,Matthewsberg,Urban,Home Decor,Value,,4314.69,0,Credit Card,07/10/2023,4.0,N
+7d45d8ef-d56c-48ea-9959-7b5aa7a8f636,Teresa Ramirez,,Jeffmouth,Rural,Clothing,Eat,,2328.45,0,Credit Card,2024-02-24,2.0,Not Returned
+af88bdec-fb1e-443b-996f-4dfa5cd8fe1a,Steven Newman,32.0,South Joshuaville,Rural,Home Decor,Thus,3.0,222.62,20%,UPI,2025-01-31,6.0,Returned
+364c911a-a9ab-464a-9777-e8cb74685b98,Linda Smith,25.0,Johnberg,Urban,Stationery,Stop,3.0,784.91,5%,Cash,07/01/2025,2.0,N
+c3e15a85-d46e-4104-9190-6f5034885a46,Laurie Li,44.0,West Kim,Suburban,Electronics,Story,,3385.38,0,Wallet,2024-06-19,,Returned
+dbc080fd-46fb-4bf3-80b9-d4a3989240ac,Dr. Kimberly Lindsey,46.0,Lake Michelleberg,Suburban,Electronics,Administration,2.0,260.31,0%,UPI,2025-03-07,5.0,N
+96bf10ab-3ce9-45e7-89d6-a63bca3c6f5f,Christopher Williams,47.0,Foxland,Rural,Groceries,Maybe,2.0,396.7,0%,Debit Card,2024-01-11,,Yes
+97fa7f04-8363-4007-9cae-9610c72c1fe3,Jonathan Dougherty,31.0,Lake Kristahaven,Rural,Groceries,Fish,2.0,3955.29,10%,Debit Card,21/03/2024,1.0,Returned
+0f9240e1-07f9-4d05-b6ca-6b8ba4b1f991,Dr. Jessica Rodriguez DDS,,Jonesland,Urban,Groceries,Fund,0.0,1709.94,10%,Debit Card,28/03/2024,4.0,Returned
+466772ce-204e-478c-90d0-8d1125f934bf,Lauren Joseph,,Vanghaven,Urban,Stationery,Financial,1.0,638.64,none,UPI,23/07/2024,3.0,No
+1963c26d-6e21-4b09-9afd-4015816bcb9f,Ashley Pena,25.0,South Shannon,Suburban,Home Decor,Drive,4.0,356.76,0,UPI,2024-03-25,5.0,Returned
+66132e69-7418-4109-93d1-bf0f56c438e4,Brandon Simmons,,Nicholasberg,Suburban,Electronics,Right,5.0,2314.83,10%,Credit Card,2024-02-23,2.0,Yes
+d4ef00aa-175a-41ec-912f-a61279699ed2,Jeffrey Garner,46.0,Lisaside,Urban,Clothing,As,4.0,2188.74,5%,Debit Card,24/03/2025,0.0,Not Returned
+5463adc7-8fca-4b6a-8fc4-2092f4e559e5,Jennifer Russo,,Parrishton,Suburban,Stationery,Field,5.0,1447.58,0,Debit Card,06/07/2024,3.0,Returned
+93f277cc-1a85-410d-9a05-7c114ffca6b1,Brittney Olson,59.0,West Meganstad,Suburban,Home Decor,Building,1.0,585.97,0,Cash,17/07/2024,0.0,Not Returned
+cea60f4c-39e5-4ff0-92f8-37d447503f1d,Justin Saunders,,New Sarahview,Rural,Clothing,Air,1.0,2053.78,0,UPI,2024-11-20,6.0,Y
+4f199ec0-c32d-4526-b3e4-110a45f50c52,Heather White,45.0,New Diane,Rural,Clothing,Available,1.0,428.95,none,Cash,2023-08-26,6.0,Yes
+07d924ce-f8c8-4fae-a217-8f84bdb025ff,Joseph Bennett,45.0,Petersonstad,Suburban,Stationery,Forget,3.0,3383.06,15%,UPI,27/07/2023,,Not Returned
+914dcfae-f100-43a7-86de-b2f0530ac1c7,Sophia Moore,,Lake Christophermouth,Urban,Clothing,Recently,2.0,858.18,15%,Debit Card,19/10/2024,4.0,Yes
+6a07f213-7129-4ec7-9b69-554d7c54535f,Paul Wilson,57.0,Rodriguezshire,Rural,Clothing,Message,0.0,4241.26,none,Credit Card,02/03/2024,0.0,Returned
+3873e57f-0ba0-48e8-8ef4-92c1aac93316,Kyle Smith,,Sierraberg,Urban,Groceries,South,1.0,4615.53,0%,Credit Card,21/05/2024,5.0,No
+01fa964e-1eb7-4b56-93ff-d3a24a193501,Jeffrey Anderson MD,,New Angelica,Rural,Clothing,Relate,3.0,1943.35,15%,Debit Card,2023-10-23,4.0,No
+dc9c96de-65a6-44c2-9273-8a235aaab32f,Jessica Stevens,61.0,Port Lawrencechester,Suburban,Home Decor,Painting,5.0,862.34,none,Wallet,24/12/2024,1.0,Yes
+4a1dab32-6aed-4dc7-a3e0-5309b5a1b949,Alex Nguyen,,Collierstad,Suburban,Electronics,Behavior,0.0,2129.5,10%,UPI,2024-02-16,6.0,Returned
+6f887f28-3e49-4d09-9b19-d8b8d8302081,Kelly Foster,43.0,Juliebury,Urban,Groceries,Goal,1.0,2681.98,0%,UPI,2024-03-12,6.0,No
+a21b0307-82af-485c-938d-994c2b0abedd,Jordan Bullock,,Michaelberg,Rural,Home Decor,Eat,3.0,3844.39,0%,Cash,03/12/2024,3.0,Yes
+2c6a6e9a-3280-47a1-8187-222b257d5e52,Paige Rios,,Port Courtney,Rural,Electronics,Majority,,2551.29,none,Wallet,26/06/2023,4.0,Y
+72eb7474-9458-454e-8287-4f069050f7ef,Sonia Day,,Michellemouth,Suburban,Electronics,City,4.0,4324.34,20%,Wallet,13/11/2024,2.0,Returned
+a1a27485-7134-4c2a-b80b-3657117b355b,Donald Brown,41.0,West Steventon,Suburban,Electronics,Art,4.0,942.18,20%,Cash,14/03/2024,,Not Returned
+a508dc95-13a4-4492-897d-e16dd4ea120a,Savannah Gilbert,,Fordside,Urban,Clothing,Strong,0.0,2667.42,15%,Cash,19/01/2024,0.0,Y
+e8b77f7b-7321-4f6b-8a80-76ece5582e16,Marissa Morris,40.0,Masonton,Urban,Electronics,Little,0.0,2699.96,10%,Cash,01/11/2024,2.0,Y
+57eb89b1-d65e-49dd-a62d-2d06cf9b8558,Mrs. Maria Williams,22.0,Ritterhaven,Rural,Home Decor,Necessary,0.0,3051.76,none,Wallet,2023-06-27,3.0,Not Returned
+eafde7d9-5f73-4a3e-9d28-6aa428a39779,Jason Morgan,,Port Crystalmouth,Rural,Clothing,Attorney,,3437.55,20%,Cash,24/07/2024,6.0,Not Returned
+62f5df2b-adaa-44ca-8ed6-ad5e18318aa3,Nathaniel Douglas,55.0,West Christopher,Suburban,Stationery,Record,0.0,2266.82,0%,Credit Card,20/12/2023,6.0,Y
+f7baf55e-4f6b-48c8-998d-daeceaafe543,Mary Anderson,22.0,West Angelicamouth,Rural,Stationery,Tax,0.0,284.28,0%,Debit Card,26/07/2023,6.0,Y
+f275b5f3-d436-47a8-b3ec-b951ab8cbf97,Melissa Fox,,Romerotown,Rural,Home Decor,Him,5.0,2303.7,none,Debit Card,16/07/2023,1.0,Not Returned
+577bc55a-36d5-4494-b37f-d50d2e25b5ee,Katelyn Perez,63.0,East Chris,Rural,Groceries,Three,0.0,2307.56,none,Credit Card,03/12/2023,1.0,Y
+8a2e6a93-c558-4bb2-81f7-f3fb19e45c6a,Sophia Johnson,,Nancyberg,Suburban,Clothing,Picture,5.0,4955.83,20%,Wallet,10/12/2024,6.0,Returned
+d4d30795-2e4b-4bc4-a989-0880277d1be9,Lori Orr,,Williamsstad,Urban,Clothing,Require,0.0,3426.6,5%,Credit Card,2024-01-25,,Not Returned
+9c4ffb46-71b7-41aa-b836-f5713ccec76c,Paul Cole,56.0,West Tammy,Suburban,Electronics,Still,0.0,1492.32,0,Debit Card,2024-10-17,0.0,Not Returned
+5e2ad32d-31ab-4b56-95c9-fdc7e76adca9,Laura Alexander,43.0,Kimberlyhaven,Rural,Electronics,News,,1620.14,0,UPI,2024-04-06,,Not Returned
+331f63fb-d11f-48c0-a97c-a4fff75d599f,Brenda Wright,61.0,Sawyerside,Rural,Home Decor,World,,4084.61,0,Debit Card,27/02/2024,,Not Returned
+d9e604b3-8412-4335-988c-656db61e5fdb,Bradley Martin,30.0,Whiteheadberg,Urban,Groceries,Then,3.0,1613.44,10%,Credit Card,26/06/2023,,N
+38d77b9a-e916-4a57-b248-23ab177a8a5f,Stacey Arias,51.0,Brownhaven,Rural,Clothing,Hour,0.0,2587.68,20%,Debit Card,12/03/2024,2.0,Not Returned
+5ffa46ef-14e4-480c-be99-36a362dbc850,Fernando Garcia,57.0,Laceyberg,Rural,Home Decor,American,0.0,855.84,10%,Credit Card,08/10/2023,0.0,Not Returned
+b231c60b-78f2-4e6b-946b-415deada79a3,Olivia Harrison,46.0,North Andrewborough,Rural,Groceries,Thing,3.0,4850.98,20%,UPI,2023-11-16,4.0,Not Returned
+9bdf90f2-ba2c-4f19-b0b2-a5d18c7e6f42,Ashley Roberts,,Davidbury,Suburban,Clothing,Kind,3.0,4529.47,10%,Wallet,2023-08-02,6.0,Not Returned
+10142131-7505-45f5-9f70-8368cb3cf8ca,Taylor Carlson,,Lake Zacharybury,Urban,Home Decor,Serious,2.0,4834.71,none,UPI,2024-08-16,0.0,Returned
+9d642932-0066-453d-ade2-99a14a90cd0c,Kenneth Lopez,36.0,New Theresaland,Urban,Clothing,Never,0.0,3585.86,20%,Wallet,2023-07-28,2.0,Yes
+81f38dd4-fd03-4ada-8952-518581e03a5e,Jeanette Harrison,40.0,Zavalaview,Suburban,Electronics,Small,2.0,4172.13,5%,Wallet,2024-06-03,3.0,N
+5844f9fc-114b-4547-89dc-72b85b6a8102,Matthew Garcia,,Dennisstad,Urban,Clothing,Office,3.0,1992.21,5%,Cash,20/04/2023,4.0,No
+d49405f0-2cd2-4404-a48e-40f1d0421dfa,Julie Dominguez,,Port Dennis,Suburban,Stationery,Sense,,4595.24,15%,Credit Card,2023-12-26,5.0,No
+4b1f0d7b-0977-4513-b52a-7d25f1901b7e,Rick Blackwell,,Sarahhaven,Urban,Clothing,Information,2.0,1354.03,none,Cash,30/11/2024,1.0,Returned
+095ffa81-40d9-4bce-b930-ba208b040f49,Cheryl Kelly,47.0,Port Dianaview,Urban,Home Decor,Capital,0.0,1268.35,0,Debit Card,2024-12-31,1.0,Returned
+6667d3bb-e3b5-4360-afdc-0bad5e368127,Stephanie Hughes,,South Heather,Urban,Stationery,Hold,4.0,3620.87,0%,Wallet,18/12/2024,4.0,Yes
+cd180a82-4447-4eab-84ef-4324cc1b4157,Jeff Jordan,52.0,New Kelly,Suburban,Home Decor,Board,1.0,2665.07,0%,Credit Card,2025-03-25,2.0,Returned
+4e76833a-4baf-4f5e-a932-009453f28f11,Mitchell Jackson,40.0,Bellton,Rural,Electronics,Short,3.0,1342.89,5%,Debit Card,2023-06-09,,Yes
+ff86cc31-9d66-4815-9a41-53b3e95f176c,Mark Moody,59.0,North Emilyfurt,Rural,Home Decor,Himself,5.0,753.71,0%,Wallet,2025-02-11,,Y
+28f4e3ce-aded-4a80-bff9-507dcd14a03e,Brenda Lawson,36.0,Johnsonland,Urban,Groceries,Eat,4.0,409.19,none,Credit Card,10/05/2024,3.0,Yes
+6202bee6-5cb5-469c-9dc7-b3e6a52964ff,Amanda Hernandez,34.0,Rushstad,Rural,Groceries,Life,5.0,2625.38,none,UPI,02/12/2024,5.0,N
+878aaed9-233f-4c82-92ec-89af13aec376,Ernest Ramirez,,North Jillfort,Suburban,Home Decor,National,3.0,4342.41,0%,Wallet,20/11/2024,1.0,Yes
+4303cbc1-1e25-45b8-8fc9-c86be9ddebf5,Michele Lewis,35.0,Heatherfort,Rural,Home Decor,Decision,3.0,2531.4,15%,Credit Card,02/02/2024,3.0,Returned
+73b911d8-12f5-431a-9a52-d2ee22bf18f5,Micheal Osborn,,Elizabethland,Suburban,Home Decor,Oil,1.0,2772.82,0%,Debit Card,2023-07-12,3.0,Yes
+d9f2dd0d-4cc9-45f2-a42e-50374a552ea0,Michael Graves,,Port Michael,Rural,Home Decor,Door,4.0,3479.85,0%,UPI,2024-06-02,3.0,Yes
+238d6f44-cac4-40eb-b373-730efc31a597,Johnny Ward,50.0,Tannerside,Urban,Groceries,Carry,4.0,467.7,0,Debit Card,2023-07-11,1.0,Y
+4f2dad3f-10d4-4e39-9612-37c9e25df9a8,Mitchell Mendoza,,Hammondshire,Suburban,Stationery,Back,2.0,270.51,5%,Credit Card,2024-07-26,6.0,Not Returned
+12fc7a87-a470-4d48-9128-b9b1f8ede0ca,Michael Cooper,54.0,Port Tammy,Rural,Clothing,Lead,4.0,4749.24,0%,Wallet,14/07/2023,6.0,Yes
+d4d60735-0e2f-4958-9e43-1e06e9247069,Christian Martin,,Sarahbury,Rural,Home Decor,Half,1.0,1323.1,5%,Debit Card,02/05/2024,5.0,Not Returned
+d88f1c94-48b7-43d5-a519-dd7e84d67c4f,Craig Huber,,Davidport,Urban,Electronics,Possible,5.0,3549.79,10%,Cash,2025-04-07,5.0,Y
+2b2bb8e9-a417-4093-80a8-a23d17eaec83,Lauren Jackson,,Meganshire,Rural,Clothing,Analysis,4.0,946.02,0,Credit Card,2024-05-26,6.0,Yes
+0ba36279-14cb-4564-8743-7c3bdd20c3bf,Patricia Baker,63.0,Port Ashley,Suburban,Stationery,Prepare,2.0,4467.53,none,Cash,07/01/2025,5.0,Not Returned
+a08dd21b-e395-4cb1-bf7f-6c0a07c0d116,Maria Turner,,Port Lindsay,Rural,Stationery,Into,0.0,3981.12,10%,UPI,16/08/2024,4.0,N
+0f5675f8-b048-4aa1-92ae-5c22741b77f5,Jason Marshall,,Catherinemouth,Rural,Home Decor,Training,1.0,3098.55,5%,Wallet,2023-11-25,3.0,Y
+dc5be7d1-fcef-4972-bbf4-83ce51beb80e,James Hodges,,West Johnville,Rural,Stationery,Example,,714.1,0%,UPI,16/10/2024,2.0,Yes
+0cf477ef-18c8-4616-a410-8e9a3f779cae,James Gilbert,21.0,Port Rachel,Rural,Groceries,Teach,4.0,3862.13,10%,UPI,22/03/2024,3.0,Returned
+500e15c0-b89b-4f7f-93e3-4c35ef0a573d,Christopher Ferrell,36.0,Jimenezport,Suburban,Groceries,Modern,3.0,4680.22,10%,Debit Card,18/12/2023,,Returned
+8164ceec-64ab-451b-b1fa-c6e7170d7507,David Aguilar,28.0,North Juanfort,Urban,Stationery,Feeling,5.0,3110.7,5%,Debit Card,26/04/2023,5.0,Not Returned
+6e51484d-1b84-4dc3-98e0-49de0217ea0e,Dennis Diaz,,Diazfurt,Rural,Groceries,Approach,1.0,4143.66,5%,Debit Card,28/05/2024,1.0,Yes
+8da00495-5cce-4ba9-b1d4-ee098fd33afc,James Cole,,Marciaville,Suburban,Groceries,Career,5.0,2540.39,0,Wallet,23/06/2024,1.0,Y
+fc9e1dcb-cb7e-4268-9f89-ed1264d6dfbf,Todd Fischer,,New William,Urban,Clothing,Month,4.0,3474.21,10%,Debit Card,22/06/2023,2.0,N
+b6adf48b-2314-40c8-89f6-44050b990034,John Bryant,,West Sarah,Rural,Stationery,From,3.0,3697.58,none,Credit Card,09/05/2023,,N
+bd44089d-9dd2-49de-bd98-fe336498abe9,Linda Romero,24.0,Ericksonport,Suburban,Home Decor,May,2.0,700.36,15%,Debit Card,12/08/2023,6.0,No
+ac7e937c-54cc-4e2a-9e4c-b287044251db,Jason Parker,30.0,New Thomasshire,Suburban,Stationery,Participant,,4086.04,20%,Wallet,31/12/2024,3.0,Y
+7afeb114-9561-4813-8d25-9caab8adad87,Mark Harvey,47.0,Hernandezbury,Urban,Stationery,Almost,4.0,2537.11,5%,UPI,01/10/2023,5.0,Returned
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,Erik Hernandez,,South Warren,Rural,Electronics,Population,,2524.98,none,Credit Card,25/06/2024,5.0,Not Returned
+bc5fd4dd-d92f-4c1e-9f70-fb2a78bb22a5,Michele Stone,,Whitneyfort,Urban,Stationery,Never,4.0,3664.79,none,Debit Card,22/03/2025,5.0,Y
+75ac824c-2c55-4ef7-b4e9-573450521700,Gloria Gomez,35.0,Chelseaborough,Urban,Electronics,Employee,4.0,460.31,20%,Wallet,25/01/2024,5.0,Returned
+f1053252-3990-42c9-8c6a-70f48edec44d,Elizabeth Roberts,,Lake Janet,Rural,Electronics,Free,0.0,2833.38,0%,Credit Card,10/11/2023,,No
+ef3a6f27-ef06-4ccb-8f7c-1d59594b2a3a,Denise Martinez,56.0,Huangfurt,Suburban,Stationery,Tell,4.0,4039.43,20%,UPI,14/04/2024,,No
+257f7595-cdfb-4db9-85e7-8b23f4613f09,Dwayne Klein,,Sandraview,Rural,Stationery,Small,0.0,3009.25,20%,UPI,01/01/2024,5.0,Returned
+89e03e22-d3f4-449b-b3ba-ba8836c7d6fa,Justin Nelson,,New Joycebury,Rural,Electronics,Eight,1.0,1904.95,0,Debit Card,14/04/2024,1.0,N
+39c59df9-87f2-45d6-a7ba-26acab7a3d1c,Amy Gutierrez,,Garciaberg,Urban,Groceries,Accept,4.0,3634.86,20%,Credit Card,2023-05-17,4.0,No
+682b163a-286e-4390-add9-7a1afa585b27,Shirley Alvarez,,Port Tamara,Rural,Groceries,Full,3.0,1034.84,15%,Wallet,2024-06-08,2.0,N
+c4cb294f-e86e-4e63-8f25-477da55990e7,Kenneth Nichols,63.0,East Robertburgh,Rural,Groceries,World,,4376.81,0,Debit Card,15/11/2023,6.0,Yes
+65a16fa9-d611-49a1-bf46-a6bf094d916d,Charlotte Curry,,Nancytown,Rural,Clothing,Fire,2.0,2674.84,0%,UPI,2025-03-22,6.0,N
+fba57cc8-edaf-4766-9b78-0ede9a4ffc0c,Jesse Davidson,,Smallberg,Suburban,Groceries,Today,5.0,4790.95,0%,Wallet,22/06/2024,4.0,Y
+cf0e6d2b-315c-467a-85d8-a6ad77d0359e,Christopher Stevens,36.0,Jennifertown,Rural,Stationery,Since,,2846.39,none,Wallet,2024-05-03,,Y
+aca58d95-915a-4c30-8b86-b5a1ca6fbff8,Casey Chase,36.0,Wilcoxhaven,Suburban,Electronics,Generation,0.0,4110.05,none,UPI,2023-12-25,0.0,No
+2f4dd219-186b-4880-ab54-5a15669d01ff,Mrs. Taylor Smith,,Youngview,Urban,Electronics,Girl,2.0,3761.96,10%,Debit Card,2023-06-14,5.0,Returned
+02ed73ce-92a8-4713-b90e-d44b951c25d5,Ian Young,58.0,South Kurtfurt,Urban,Electronics,Rich,5.0,1288.04,0,Wallet,28/11/2023,4.0,No
+b41c504f-e346-4415-a526-7a2bec50ace4,Melissa Fowler,53.0,Michaelbury,Suburban,Home Decor,Discuss,2.0,592.67,none,Wallet,2024-05-02,6.0,Yes
+bf6b8cdf-7479-4b61-a737-2b527a6a2107,Jacqueline Miles DVM,59.0,Port John,Rural,Electronics,Somebody,1.0,1673.72,0,Cash,20/07/2023,5.0,Yes
+86879aa9-14f5-43d0-8991-2032df85c777,Michael Miller,49.0,North Mariahaven,Rural,Clothing,Degree,0.0,4676.22,5%,Credit Card,13/07/2024,3.0,N
+53ff8461-2a1f-4b61-a65c-b9d989628f6e,Jessica Frazier,,Davishaven,Urban,Stationery,Like,3.0,4649.43,0%,Wallet,25/06/2024,2.0,N
+836435e3-21c7-4aa3-b414-23b50e3e25f2,Justin Hansen,34.0,Jenniferfurt,Urban,Clothing,Environmental,4.0,1720.35,0,UPI,2024-12-26,2.0,Not Returned
+940c3503-37c8-4152-beed-0af900c59f30,Jeff Graves,,North Valeriefort,Urban,Home Decor,Almost,,959.93,none,Credit Card,01/01/2025,4.0,N
+22ab7752-c4db-4a62-ae13-418d68ab80ea,Veronica Brewer,42.0,Brooksfurt,Suburban,Clothing,List,1.0,2439.53,10%,UPI,16/11/2023,3.0,Y
+602a4e57-60a3-49d4-a821-e716eac80da1,Victor Baxter,21.0,Lake Michelle,Suburban,Clothing,By,,1381.61,0%,Cash,11/02/2025,1.0,No
+87623997-649f-4d88-8989-c5abfe2b34d8,William Davenport,57.0,West Stevenside,Urban,Groceries,Language,3.0,3482.42,0,Wallet,24/08/2023,5.0,Y
+3f5cf2f3-3acb-43a3-92c7-bffb6118433b,Christopher Lopez,60.0,North Lisachester,Urban,Stationery,Possible,4.0,2137.64,20%,Credit Card,2024-05-25,,Returned
+04015ced-e398-46bb-a23d-dfaaefad49e9,Austin Wheeler,53.0,Harperton,Rural,Stationery,Election,1.0,482.7,20%,Cash,23/11/2024,,Yes
+3bfda8a6-705f-4df5-a6fa-dca00b531932,Nicole Parsons,49.0,New Victoria,Rural,Home Decor,East,,669.58,10%,Credit Card,03/11/2024,6.0,Returned
+51a3ac26-937b-479b-bb44-badcea98fef8,Patricia Cardenas,,West Nancy,Rural,Electronics,Recent,5.0,2338.31,5%,Wallet,31/12/2024,0.0,N
+46707cd6-4ced-4164-a9df-14e9389641dd,Travis Hobbs,,Lake Erika,Rural,Electronics,Only,1.0,3754.44,20%,Debit Card,2024-05-16,1.0,Yes
+f10bce9c-582b-41ee-b8e8-035b0c00988a,Jane Warren,44.0,Russellport,Urban,Home Decor,However,1.0,4932.07,15%,UPI,2024-04-26,2.0,Y
+3db0174e-7938-478a-89b5-aab0c12169db,Elizabeth Zimmerman,61.0,Melendezside,Rural,Clothing,Itself,4.0,2297.83,15%,Credit Card,28/08/2023,0.0,Yes
+636f6e5c-2253-4706-87ad-8b268eaa5841,Dalton Lucas,,Booneland,Suburban,Stationery,North,2.0,2691.33,0,Wallet,2024-02-25,0.0,Yes
+44b9e602-0d31-412e-b0c3-6756d453f867,Larry Williams,30.0,East Lindashire,Urban,Home Decor,Shake,2.0,1312.81,0%,Debit Card,2024-10-21,4.0,Y
+3579c143-7ab9-4428-b78e-65108f10d33e,Felicia Krueger,,East Sharonville,Rural,Electronics,Skin,1.0,1279.26,5%,Cash,2024-09-10,1.0,Returned
+b2149062-3e1a-463e-aa18-d32c7a9a8ef5,Christine Herman,,Kimberlyfurt,Urban,Stationery,Man,2.0,2250.92,20%,UPI,2024-11-13,0.0,Yes
+42f5b3f5-4ef4-434d-9bf8-6f3ca6129a1c,Stephen Owens,,Gillmouth,Suburban,Clothing,Who,,1260.83,10%,Credit Card,2024-05-26,,Returned
+0bb401e7-69f7-43f1-901b-a8515ee68495,Connie Thomas,,Angelashire,Rural,Home Decor,Particularly,5.0,3167.37,15%,Debit Card,12/09/2023,3.0,N
+32399ffb-2704-4f25-8b91-b8cb6ae66582,James Whitaker,,Piercemouth,Urban,Groceries,Even,4.0,2100.47,0%,UPI,2024-10-18,0.0,No
+b93b17fb-f76d-45fd-bd16-45a0d253d966,Katherine Jackson,44.0,Garyside,Suburban,Groceries,Middle,5.0,4048.3,5%,UPI,20/11/2024,3.0,N
+fd85d7fa-8ac9-4b01-a3ad-64d4eab9eb02,Amy Johnson,52.0,Port Elizabethtown,Urban,Clothing,Itself,3.0,4618.91,none,Wallet,2023-08-28,2.0,Yes
+116658ce-3b3f-4800-a175-a9c3d7b102a9,Alexa Wagner,64.0,Brucefort,Suburban,Groceries,Receive,0.0,4380.74,10%,UPI,23/07/2023,1.0,Returned
+8d388327-883f-43c6-81b1-58e90406ff44,Alan Bowen,,Andrechester,Urban,Stationery,Sure,,1137.86,10%,Cash,20/04/2024,1.0,Yes
+eb053fc4-1b65-4dab-ade4-6e91e8e6e840,Chase Lee,,Lisaview,Suburban,Clothing,Stuff,3.0,2805.19,none,UPI,2025-04-06,4.0,N
+67f1698c-f594-4a54-9f80-4eeb143a9aff,David Terry,38.0,Gabriellaland,Suburban,Clothing,Ready,,2383.42,none,Wallet,10/02/2024,6.0,N
+17efa621-081c-49d4-8274-37eba65f7b8a,James Alvarez,,Lake Georgefort,Suburban,Groceries,Through,3.0,3732.14,5%,Cash,02/02/2025,4.0,Returned
+90dbfad6-54ce-46be-88cc-e2c2a518a418,Valerie Jacobson,,East Jasonshire,Suburban,Home Decor,May,4.0,2891.97,10%,Wallet,10/03/2024,0.0,Returned
+af36b8cc-1308-4974-ac95-b3ac0beb7c34,Stephanie Elliott,29.0,East Sarahmouth,Rural,Electronics,Admit,5.0,929.4,0,Credit Card,2023-11-04,,N
+d218c9d6-c093-4fb0-a4e9-bcfd9647ff9f,Jennifer Jones,32.0,New John,Rural,Groceries,They,2.0,3845.26,15%,Credit Card,15/09/2023,1.0,Not Returned
+8a624cbd-e582-4678-ad52-29dd639fc471,Perry Taylor,,New Juliestad,Rural,Home Decor,Argue,,1928.68,20%,Credit Card,26/01/2025,6.0,Not Returned
+1375ee90-d6b3-41e4-bb6d-ca0d6fe5040b,Randy Friedman,,Novakmouth,Urban,Stationery,All,,158.07,20%,Wallet,2023-06-22,0.0,Y
+735741e5-fe1a-4ba9-8896-9c5b45f8c28d,Henry Pugh MD,33.0,Millerport,Rural,Stationery,Success,5.0,624.38,5%,UPI,2024-08-12,3.0,No
+4499d0a6-1500-4170-92d1-5585b68e47fa,Michael Walters,47.0,Stewartville,Rural,Groceries,Benefit,3.0,3995.19,5%,UPI,2023-10-16,5.0,N
+5c238d8d-71da-45b9-8eea-9db8f165d779,Ashley Miller,,Coleside,Suburban,Home Decor,Music,,3303.31,none,Debit Card,12/04/2023,2.0,Yes
+5a9a206a-16f1-42a2-86b9-19aa1a7167c7,Linda Mueller,,Smithchester,Rural,Electronics,Important,4.0,3543.94,5%,Debit Card,2024-02-18,1.0,N
+8f3dc97f-e6b0-4a0a-b98f-5dbe15aede0f,Vanessa Armstrong,,Lake Oscar,Urban,Electronics,Chair,,1135.94,none,UPI,2024-12-03,4.0,Returned
+255bfc1c-7e3d-4ee4-84b6-4ec14d16f049,Jeffrey Fisher,31.0,Pattonstad,Rural,Home Decor,Enter,3.0,978.84,none,Credit Card,02/11/2023,1.0,Yes
+9803b22e-7eec-488d-a002-352ab88cddde,Judith Taylor,,South Martinfurt,Suburban,Groceries,Summer,4.0,2876.81,none,Credit Card,2023-10-16,4.0,Not Returned
+6e3cdd4f-55b1-45e4-b0b2-7304545cd88d,Shannon Mccann,,West Malik,Suburban,Electronics,Yourself,2.0,363.11,15%,UPI,2025-02-05,,Yes
+2d79a2d1-506e-40c7-baa0-61e9336b00cb,Tracy Carter,45.0,Faulknerbury,Rural,Stationery,Gas,5.0,2503.96,0%,Wallet,29/09/2024,6.0,N
+64976593-c92e-4c93-9105-c8d647c1c017,Timothy Gonzalez,35.0,Lake Katrina,Suburban,Groceries,Agreement,1.0,4010.47,0,Wallet,25/01/2024,5.0,Yes
+35ab8466-b557-4b00-b166-cdcf762cdfbc,Eddie Schwartz,35.0,Chambersberg,Urban,Electronics,Property,4.0,548.45,0%,Cash,23/10/2024,2.0,Y
+2775ee42-a89e-42f2-80af-bf3f3df51967,Rachel Jones,,Aguilarside,Suburban,Electronics,Move,3.0,606.14,5%,UPI,29/11/2023,0.0,Returned
+6b15c11b-b113-450b-9ea0-50c6eb9ed274,Rachel Ward,51.0,North Kaylastad,Rural,Home Decor,Compare,2.0,3651.73,20%,Cash,25/03/2025,2.0,Returned
+fbcdbf5e-902f-4465-8b57-07209cd8758b,Maria Rasmussen,,Tammychester,Suburban,Clothing,Born,1.0,1415.19,10%,Wallet,2024-08-22,5.0,No
+82bbad84-38d5-401f-823c-ad9d193e4783,Kristin Watts,49.0,South Neil,Suburban,Electronics,Major,,1333.33,10%,Cash,16/04/2023,,Not Returned
+801e8690-b0c0-4fcc-96ad-d4dfadf75924,Zachary Webb,,Robertland,Suburban,Stationery,Business,4.0,1727.86,20%,Cash,27/11/2024,0.0,Y
+592c1107-2444-4301-baeb-286bf0d0270f,Jesse Clark,,Baileyville,Rural,Groceries,Left,4.0,2447.15,10%,UPI,12/01/2025,4.0,Y
+1132567c-51a4-4d2a-b3d3-9457b25f13df,Robert Wilson,52.0,Deborahburgh,Rural,Stationery,Wonder,2.0,1888.58,20%,Credit Card,2024-10-19,0.0,Returned
+8d49fe3f-2ca8-4783-8418-2d353e711433,Justin Mullen,62.0,Port Richard,Suburban,Home Decor,Create,4.0,4720.58,10%,Cash,2024-11-03,6.0,Y
+6544e313-6ea0-4d13-a845-54c3a3f66c61,Lucas Gonzalez,42.0,Priceborough,Suburban,Stationery,Describe,,1338.14,10%,Wallet,2023-08-30,4.0,N
+cbc72f1a-cf08-4a54-b429-9924c0986750,Brian Wiggins,52.0,West Mark,Urban,Groceries,Lot,3.0,2763.86,none,UPI,10/11/2023,0.0,Not Returned
+7d4ed26e-dcd5-4fae-abb3-16a743299780,Margaret Harper,,Matthewsstad,Suburban,Electronics,He,,2859.78,0,Credit Card,05/07/2023,1.0,Not Returned
+d051267f-2c2a-434b-9e0b-7b01753659ef,Rebecca Sellers,62.0,Lake Dennisville,Suburban,Clothing,Edge,5.0,2602.31,20%,Wallet,23/01/2025,4.0,Returned
+b1850eb8-5f90-4c87-aedc-017e1df05d18,James Carlson,,Hendersonfort,Urban,Electronics,Prove,4.0,1790.34,5%,Cash,01/12/2023,3.0,Yes
+ee4205ee-a52f-43ec-ab4e-2281b184d1fc,Ms. Katherine Taylor MD,,Harveystad,Urban,Home Decor,Act,5.0,2331.13,10%,Wallet,29/05/2024,,N
+624a2a50-d0b1-4de0-b1f3-f0c022f3f068,Kathy Simpson,39.0,Perrymouth,Rural,Groceries,Middle,1.0,318.95,0,Cash,2024-04-18,5.0,Yes
+cbbed980-07e6-4cb0-90bd-e9001529e6f5,Dorothy Hill,43.0,Garymouth,Urban,Home Decor,Others,4.0,1721.85,15%,Wallet,15/08/2023,3.0,No
+8cbadae5-7ecc-4af4-8413-4dc2c5c5ae8a,Laura Adams,63.0,Amberton,Urban,Clothing,Soon,4.0,2302.92,15%,Credit Card,2024-11-04,4.0,Yes
+fd61f13b-37f2-4d36-8bdd-cee370fd6672,Noah Valdez,,West Nancy,Rural,Clothing,Alone,4.0,1892.39,10%,Debit Card,17/10/2024,3.0,Yes
+d1151fff-dcb9-4d5f-993c-572b4347dbca,Sean Wilson,57.0,East Lisa,Rural,Clothing,Per,3.0,2976.32,0%,Debit Card,2024-03-22,0.0,N
+9c3a1e0b-b5f3-48aa-9c6d-afff59c2f153,Carol Taylor,,Port Jamie,Rural,Groceries,Artist,3.0,1634.61,10%,Debit Card,24/09/2024,3.0,Yes
+98cbaa52-47f5-4019-8843-8de259cf0b0d,Erica Padilla,58.0,Ashleyhaven,Rural,Groceries,We,2.0,2916.55,15%,Wallet,23/06/2024,3.0,N
+f67839b2-22b5-4457-9860-ad28d0afb235,Jennifer Brown,40.0,Michelleberg,Suburban,Groceries,Science,5.0,1641.44,15%,Cash,2024-09-16,3.0,Yes
+b61df906-2570-45db-bfea-d90a21f8072d,David Bridges,,Burnsshire,Urban,Electronics,Project,4.0,2104.76,15%,Debit Card,08/02/2025,6.0,Not Returned
+73b5bad5-600b-4b35-aa0a-a7d5a0b85755,Robert Mack,36.0,Robertsonview,Suburban,Stationery,Run,2.0,1531.24,0%,Wallet,2023-11-02,4.0,Returned
+f343d9eb-7466-4f02-9e7b-72c8e097dedb,Kevin Melton PhD,41.0,Lake Teresastad,Rural,Home Decor,To,0.0,2906.3,0%,Debit Card,04/04/2025,2.0,Returned
+37c3b3c9-65d0-4517-88d0-0abdcbb18c79,Samantha Simpson,37.0,Mariamouth,Suburban,Clothing,Officer,,601.84,none,UPI,2023-05-27,0.0,No
+7c3f1add-da38-4db5-90ee-b067216e9fe5,Stephanie Farmer,,North Conniemouth,Rural,Stationery,Admit,0.0,2251.44,5%,Wallet,29/06/2024,2.0,No
+70f81dba-2871-4b9b-9b8f-0e32edef5003,William Patterson,,Lake Kevin,Rural,Clothing,Two,2.0,3945.76,none,Debit Card,2023-07-13,3.0,Yes
+a79313b8-17e5-4113-8626-23bee0688849,Bradley Beck,35.0,North Randy,Urban,Home Decor,Focus,3.0,4897.1,0%,Credit Card,2025-04-01,,Returned
+6de21429-3bf0-49c1-8156-e501b30e96e8,Michele Smith,,Millershire,Urban,Home Decor,Draw,2.0,3536.99,10%,Wallet,22/10/2024,3.0,No
+02106371-0260-4123-b1ef-e72aae13591e,Ruth Mcneil,58.0,Bensonfort,Suburban,Stationery,Avoid,4.0,3176.28,15%,UPI,2024-05-15,5.0,Yes
+ce532ffd-bb13-4f02-96de-66c96210def6,Erik Ibarra,18.0,South Kiara,Rural,Home Decor,Some,3.0,2328.01,15%,UPI,2023-10-02,,Returned
+ad58db1b-fe31-437a-a43e-558c2215df00,Joseph Smith,,South Michael,Suburban,Clothing,Different,0.0,1167.37,15%,UPI,2025-02-15,0.0,No
+6965d1d1-eb7e-4e64-a6c0-747ebf8e8bfa,Jessica Robinson,61.0,East Karenshire,Urban,Electronics,Show,0.0,2874.1,15%,Wallet,07/08/2024,3.0,Y
+50834fef-6dec-4bbd-b697-77a159fe3d53,Danielle Newman,62.0,New Carolyn,Rural,Clothing,Set,4.0,2262.3,5%,Cash,2024-01-31,3.0,No
+b0c30a59-f0f7-4d22-876a-8e0f48f091f0,Ryan Liu,41.0,New Catherine,Urban,Home Decor,Current,3.0,557.37,0%,UPI,2024-07-22,5.0,Yes
+0df83e12-a56b-41e0-8ba8-a4ca6449cb6f,Rebecca Allen,18.0,Rodriguezfort,Suburban,Electronics,Pull,,2203.23,5%,Cash,2024-11-08,4.0,Yes
+fa4a58ef-e383-4348-873d-c8bd122dd7be,Isaac Stewart,45.0,Valenciashire,Suburban,Electronics,Kitchen,3.0,145.51,0,Cash,12/07/2024,6.0,Yes
+c34201db-2c3a-4cdc-aed5-4a468bde005b,William Jones,42.0,North Joseton,Rural,Groceries,Win,3.0,605.69,0%,Credit Card,2024-01-16,2.0,No
+81b13b80-65e1-40f5-8a0e-e8c4f2dcb12b,Micheal Wang,64.0,Milesland,Rural,Groceries,Push,4.0,3090.56,10%,Wallet,2023-05-24,1.0,Y
+4708203b-2716-40c1-9db5-428389a3c811,Bob Mccall,,New Mark,Suburban,Home Decor,Peace,1.0,4313.82,5%,UPI,2024-05-28,6.0,No
+ae59aa52-a65b-422b-95a3-86d9c362a810,Emily Kim,,North John,Rural,Electronics,Window,2.0,1457.14,5%,UPI,12/08/2024,4.0,Returned
+9bdc70d1-9cbf-4b8c-b410-2d5d1db14bfc,Maxwell Barrett,,North Alexander,Suburban,Electronics,Certain,,3764.43,0%,Cash,10/03/2024,4.0,Yes
+f3f8dea4-7f14-4afa-a9f0-ef7c02e7df89,Joseph Carson,,Garyberg,Rural,Home Decor,So,3.0,2688.6,5%,UPI,2024-10-03,2.0,Y
+e2ec13f4-bba1-4ed9-84cd-bfdddf9b141e,Steven Rogers,55.0,Nelsonland,Urban,Clothing,Everyone,1.0,3837.36,none,Cash,04/12/2024,3.0,Yes
+13badc91-a0a5-4de6-939f-71a2f99cea5c,Jorge Brown PhD,,West Eric,Suburban,Home Decor,Spring,5.0,4748.53,15%,Credit Card,2024-10-12,1.0,Y
+b90800f3-ac93-481a-92eb-eab0e4eec67c,Patrick Smith,31.0,East Brandonstad,Rural,Clothing,Identify,1.0,1459.59,0%,Wallet,2023-06-26,3.0,Returned
+f5d8fb91-ee60-41ac-add0-622e266bf2ea,Kristen Sloan,21.0,Walkerbury,Urban,Home Decor,Keep,,1619.83,15%,Credit Card,22/03/2025,2.0,No
+d3748a11-4571-4959-91e7-44e4b864ca08,Jake Shaw,29.0,East Jeffreyhaven,Urban,Groceries,Any,,1615.52,0,Credit Card,19/03/2025,1.0,Not Returned
+ddb449dc-7710-4966-a082-7f7611a529b4,Ryan Murphy,34.0,Smithborough,Suburban,Groceries,Film,0.0,2662.73,none,UPI,2024-02-13,,Not Returned
+9f6a6a65-bd54-4a04-8dcd-0009c8d57717,Jacob Bonilla,35.0,Lake Rachel,Suburban,Stationery,Soon,3.0,3880.01,5%,Credit Card,18/06/2024,2.0,N
+eeb19ad2-01a1-4b0f-a68b-84b63ec0a285,David Reed,41.0,West Aaronfurt,Suburban,Electronics,Time,5.0,371.65,none,Debit Card,2024-12-16,,No
+34879e41-1a9c-472a-8eb9-047dba2ac3d9,Cynthia Vasquez,18.0,East Jenniferland,Urban,Home Decor,Animal,1.0,1219.18,20%,UPI,01/11/2024,2.0,Yes
+850ef0ad-d872-472e-a5b4-a1ae3b41c943,Steven Ellis,,New Codyberg,Urban,Clothing,Public,1.0,976.91,none,Cash,23/03/2025,3.0,Returned
+915cb31b-9786-4b12-9328-172664f434d6,Matthew Anderson,25.0,Josemouth,Urban,Groceries,With,5.0,1429.16,5%,Debit Card,2025-01-03,,Y
+bc4015fa-d4f7-4322-b362-c0d264988bde,Jesse Hall,,East Kimberly,Urban,Stationery,Pattern,0.0,437.74,15%,Wallet,20/12/2024,0.0,Y
+7316ce64-2a14-4a96-9b0c-62eb27c8fc6c,Jason Herrera,57.0,South Kyle,Suburban,Clothing,Evidence,3.0,1528.82,none,Debit Card,2023-07-01,4.0,Not Returned
+cebeabaa-2859-4b34-9725-d2c71eb2a7b8,Samantha Terry,27.0,East Marymouth,Suburban,Electronics,Choose,0.0,3689.07,20%,Cash,2025-01-29,4.0,No
+5b11f51f-f7e9-401d-bf8b-4433b60e695c,Anthony Evans,,North Stephanie,Urban,Groceries,Top,0.0,4759.85,5%,Debit Card,2023-06-17,1.0,Not Returned
+3ff6579e-8cd4-490a-bf82-11bc8e52fc42,Brian Leon,35.0,North Bryanbury,Urban,Groceries,Case,2.0,2510.94,5%,Debit Card,24/03/2024,0.0,Not Returned
+afb06406-5f4b-4a97-a68c-879bd2dc42c8,Maria Aguilar,24.0,Samanthaland,Rural,Home Decor,Age,1.0,2346.44,0,Credit Card,2023-09-08,,Returned
+7184b713-a55f-45b7-a709-fba6329fc417,Anna Boone,,Davidmouth,Suburban,Clothing,Apply,2.0,2231.42,10%,UPI,28/05/2023,1.0,Y
+d259f960-6ee3-4607-92ea-1324ec93e596,Kathleen Reyes,24.0,Thompsonborough,Urban,Groceries,When,2.0,465.97,10%,Wallet,16/08/2023,4.0,Returned
+e2280fe3-722d-4e13-87a4-8c4246653497,Lucas Jensen,,Victorside,Suburban,Clothing,Measure,0.0,691.61,0%,Credit Card,31/08/2023,0.0,No
+2321e64e-620d-4a1f-879f-66281674eb65,Marvin Robles,,Lake Virginia,Urban,Electronics,Of,5.0,4149.29,0,Cash,2023-05-25,5.0,Yes
+c82ba1be-61eb-44e6-bd49-8e2004ffeab2,Karen Harrington,29.0,Robertahaven,Suburban,Home Decor,Fund,3.0,2615.95,0,Debit Card,2024-12-15,0.0,Y
+51a1f5df-06ac-4010-ae08-69c1453b45fe,Alyssa Cochran,25.0,Brianfort,Urban,Groceries,Next,0.0,564.15,5%,Cash,03/02/2024,4.0,No
+3b964c74-ffe6-4994-9580-4c2ac44fc4b8,Ariel Sandoval,,Amandaton,Urban,Electronics,South,,1923.97,0,Credit Card,10/01/2024,0.0,Yes
+cc21cbdb-fb8f-48c4-98b4-8ead93608edf,Timothy Frey,25.0,East Joel,Suburban,Electronics,Friend,0.0,4065.56,5%,Cash,2023-09-25,6.0,Y
+e9fa97e2-5bd9-4609-b297-a782bcf474aa,Michele Bell,,New Stacy,Urban,Clothing,Think,4.0,4126.26,15%,Cash,2024-12-24,0.0,Yes
+8ac8ad93-7e02-421d-b86b-543ae1b243cc,John Davis,57.0,New Jeffery,Rural,Clothing,New,1.0,1471.29,10%,Wallet,27/12/2024,5.0,Returned
+9d37efb6-eafb-4e90-94ec-84ce002ccb25,Carlos Love,44.0,Brianberg,Rural,Stationery,Peace,4.0,398.8,0%,Cash,2024-04-13,6.0,No
+1c654aa2-c63c-421d-a443-5958eacf33a9,Shannon Yu,,Janetfurt,Suburban,Stationery,Peace,,4948.08,none,Debit Card,06/10/2024,1.0,Y
+22ee7f07-5296-4fb3-8d40-7b285628ddcd,Morgan Kim,,Banksburgh,Urban,Home Decor,Second,5.0,981.1,0%,Debit Card,25/06/2023,5.0,No
+9d1c0838-edc8-4ca8-a3bc-d6f3b18d2c8c,Courtney Chapman,,South Kurt,Rural,Electronics,Risk,2.0,4872.5,5%,Cash,2024-06-17,4.0,Not Returned
+0075d3d5-ba94-4a66-ad7e-4a452099e71f,Tiffany Myers,29.0,East Carriebury,Rural,Clothing,Purpose,0.0,1838.54,none,UPI,2023-11-22,0.0,No
+2401342a-7f05-4bf5-afca-c5771aa6f7cb,Blake Reed,27.0,Garyland,Suburban,Stationery,Term,5.0,3546.92,0%,UPI,20/06/2024,1.0,Returned
+e2fbb984-bab2-4bce-a39c-3bd5ab86bafd,Adam Clark,,West Jonathanville,Urban,Clothing,Service,5.0,542.26,10%,Debit Card,09/10/2024,1.0,No
+bb8aa843-702f-41e5-a2cc-c6040c53644b,Christopher Gutierrez,21.0,Bellfurt,Urban,Stationery,Blood,0.0,1769.72,10%,Cash,2023-04-08,3.0,Y
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,Melissa Martin,43.0,Port Meganport,Suburban,Clothing,Again,,4806.74,0%,UPI,10/01/2025,,Not Returned
+12fecc2b-1acf-42c5-b3a0-212042d943ee,Stephen Martin,,New Shellyland,Urban,Stationery,Ground,0.0,3688.52,15%,Debit Card,2023-12-11,3.0,Not Returned
+7b94a34d-e4aa-486d-9d17-d218fc3b0de5,Jessica Valdez,,Mooreville,Urban,Groceries,Glass,2.0,3361.11,none,Credit Card,2024-07-12,4.0,N
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,Tammy Fernandez,,Kennethville,Rural,Groceries,Appear,5.0,4268.71,none,Debit Card,14/09/2023,0.0,Yes
+7daec949-d700-4461-8cb6-b0ba925f8199,Isaac Patterson,,Madisonfort,Urban,Electronics,Decision,1.0,789.15,0,UPI,07/02/2024,6.0,No
+a3607681-2bbb-489d-b4fa-dee106969d48,Bradley Anthony,34.0,Kristenfort,Rural,Electronics,Middle,1.0,1127.45,0,Credit Card,22/06/2023,5.0,Y
+a4515ae0-1754-4f08-83d7-5413a939ebd1,Cathy Mcclure,,Jacobton,Urban,Home Decor,Everyone,4.0,4848.6,15%,Debit Card,2025-03-03,0.0,N
+d64acb1f-39eb-438a-836e-3c49770e09db,Antonio Goodwin,36.0,North Elizabethside,Suburban,Clothing,Job,0.0,897.02,5%,Credit Card,14/03/2024,4.0,Yes
+0f9ca17b-8db8-4adf-ba3e-46b096f84ff7,Sabrina Barnes,53.0,Armstrongbury,Suburban,Stationery,Maybe,,4450.86,10%,Debit Card,2024-11-15,3.0,Yes
+da9bccc1-e71c-481a-a511-e61a143665f5,Kathryn Lester,45.0,North Stacy,Urban,Electronics,List,2.0,2213.48,0,UPI,26/11/2023,1.0,Returned
+f8dfcc3a-2acb-4fbd-bbff-8a7df2f5b176,Corey Williams,,Lake Ryanberg,Rural,Clothing,They,,2105.47,20%,UPI,20/08/2023,4.0,Not Returned
+ba236c22-e92a-4b97-91db-1a374204d733,Andrea Hughes,27.0,Arnoldview,Suburban,Electronics,Nature,0.0,2025.22,20%,Wallet,13/07/2024,1.0,N
+c95b61f8-032a-461a-9f9b-7c1feacb1f6d,Laurie Harrington,,South Edwardshire,Urban,Home Decor,Per,2.0,1078.41,5%,Credit Card,28/03/2024,6.0,No
+19a6f80e-f08c-46c2-b6ff-3521c2250530,Kristine Garcia,,Mikaylastad,Urban,Clothing,Understand,3.0,2407.63,0,Wallet,03/07/2024,0.0,Yes
+7c4f48e4-a7a0-4a3d-a20f-230b439e754c,Kara Jackson,,Thomasfurt,Rural,Electronics,American,4.0,318.62,15%,Cash,2024-02-21,6.0,Y
+b0c58278-54dc-4ba5-a103-5e1ce3bb22ae,Patrick Mccall,44.0,Andrewport,Rural,Electronics,Foreign,0.0,519.97,0%,Wallet,2024-02-09,2.0,Returned
+b23909f4-dbb5-4645-bdda-c1b6d7c4caed,Valerie Perez,54.0,Terrimouth,Suburban,Clothing,Staff,0.0,4831.58,0,Credit Card,11/11/2023,0.0,N
+6ab19e15-ba92-492e-84f8-b53c52246d05,Ann Alexander,61.0,Figueroahaven,Urban,Home Decor,Trip,0.0,2560.3,20%,Cash,2025-01-08,1.0,Returned
+ca9f1d59-83e8-4700-8e63-813ed22e3226,Eric Hunter,,Port Melissa,Urban,Home Decor,Until,2.0,4863.61,none,Cash,2024-01-23,3.0,No
+e00bd534-3158-41fb-ac7a-0d3107692583,Sara Wright,22.0,Williamsstad,Suburban,Stationery,Sea,3.0,4187.13,0%,Wallet,2024-06-22,3.0,Not Returned
+76d70561-d2d1-4ef5-9e4c-4fd1462363a9,Madison Martinez,,East Nathanmouth,Urban,Home Decor,Cost,1.0,2646.47,none,Cash,09/09/2023,5.0,Not Returned
+5989dd6c-8d24-44f9-963d-c8bf797e3984,Ryan Green,,West Anthonyton,Suburban,Clothing,Commercial,0.0,4632.15,20%,Wallet,2025-02-12,2.0,Yes
+36dd9529-f704-472f-87a2-f280927f8103,Maria Byrd,,Denisehaven,Urban,Home Decor,Again,4.0,283.58,0%,UPI,2025-01-30,6.0,No
+aea4a441-c47f-457e-b796-611fc7c1fb1b,Thomas Holland,,East Johnnyport,Suburban,Clothing,Seem,3.0,3754.17,0%,Wallet,2025-02-07,1.0,Yes
+e53e5f4c-6c7e-4a2c-867f-358ba48aa108,Gregory King,,Turnerhaven,Suburban,Clothing,Thank,2.0,4865.23,10%,Wallet,2024-10-09,2.0,Y
+01e187d8-1a31-4044-95a0-f35665abc9ff,Mary Bridges,,Annaport,Rural,Clothing,Fire,0.0,1020.88,10%,Credit Card,2024-08-04,2.0,N
+5616af7e-1057-4002-bb53-359e1bacbd0d,Margaret Hensley MD,26.0,Jacobhaven,Urban,Groceries,Southern,5.0,421.52,0,Cash,2024-09-20,3.0,N
+db7904e0-ce30-461d-8e88-c8ece651e3e1,Lindsay Guerrero,,Lake Anthony,Suburban,Home Decor,Modern,3.0,262.05,5%,Debit Card,11/10/2023,4.0,Not Returned
+6793cb09-6b27-4eff-a82b-5b364269c28c,Andrew Erickson,,West Jessica,Urban,Home Decor,Doctor,3.0,3437.75,10%,Debit Card,2023-11-23,2.0,N
+79c9c839-c8ef-4377-a368-84f588ddd880,Megan Romero,,Port Diane,Urban,Home Decor,Open,,901.22,0%,Credit Card,22/09/2024,,Not Returned
+20c0f275-7885-487d-98fc-83b74b356e9a,Molly Hansen,,Lake Rachel,Rural,Home Decor,Real,2.0,4299.84,0,Debit Card,26/08/2023,4.0,Not Returned
+be848aa2-392c-44da-9af3-da5a38e59b27,Jennifer Eaton,56.0,Jorgeport,Urban,Clothing,Major,,2423.08,10%,Debit Card,2023-06-16,1.0,No
+ddcbf4bc-0dbd-45da-b875-15b91e26ed31,Lauren Oliver,,Prestonhaven,Suburban,Home Decor,Call,,3592.43,0,UPI,28/01/2025,5.0,Y
+4c610ae8-87a3-4f10-a1b5-12edae423568,Seth Hernandez,55.0,West Robert,Urban,Stationery,Over,5.0,3418.26,none,UPI,2025-02-09,5.0,N
+24aa5685-7523-46ce-bc95-0bbae8184f34,Mike Maxwell,,Cookburgh,Rural,Clothing,Form,4.0,1562.53,5%,UPI,01/03/2025,5.0,Yes
+4605ec0e-73b9-42ac-8134-e76b0ed9fa95,Raymond Johnston,,South Kristen,Rural,Clothing,State,0.0,1022.96,20%,Cash,2024-08-12,5.0,No
+a22c3d4f-6f07-460f-9d4e-8b5d2120bfba,Jeffrey Woods,42.0,North Amandastad,Rural,Stationery,Address,4.0,4987.6,0%,Cash,15/06/2023,6.0,N
+87f1d48c-d54e-4948-81c0-c5e3527c8f50,Michael Sims,,East Heather,Rural,Clothing,Guy,0.0,3462.96,0,Cash,2025-02-28,4.0,N
+80daa8ca-6230-4d27-9a4b-160621019bff,Carol Colon,34.0,Stacymouth,Rural,Clothing,Should,2.0,1539.54,15%,Credit Card,06/12/2023,3.0,Not Returned
+6f04af36-567c-4d44-862c-92fd98abb2e7,Whitney Cooper,,Howardborough,Rural,Clothing,Community,4.0,3746.63,0%,Wallet,2024-05-16,4.0,Y
+04e55bd5-6744-4cd4-8fdf-c6f9eb0f827c,Nicholas Anderson,57.0,New Williamville,Suburban,Groceries,Hit,5.0,363.02,0,Debit Card,12/03/2025,6.0,Returned
+600c9c71-0990-4647-8ac8-d87ea689d07f,Dawn Nichols,26.0,New Virginiaville,Suburban,Home Decor,Ready,1.0,2696.21,15%,Debit Card,2024-10-11,0.0,No
+1da466fe-b093-4085-8c59-21f8050dcbfe,James Kelley,,Milesborough,Suburban,Groceries,Run,,801.8,none,UPI,2025-01-16,6.0,No
+6bbe3b5a-4d15-47d8-8261-c87aa15c159a,Mary Nelson,54.0,South Maria,Suburban,Electronics,Book,0.0,2315.06,10%,Cash,2024-09-21,1.0,No
+485f7888-1e23-4a4b-9e21-741fb8011026,Brian Gonzalez,20.0,Port Jose,Rural,Clothing,Necessary,4.0,2076.63,15%,Credit Card,2024-05-09,0.0,Yes
+4b9c22f4-68e5-48cd-b414-6e4a5ba0c3e0,Joshua Lozano,33.0,Riveratown,Rural,Clothing,Add,,187.79,5%,UPI,11/09/2023,4.0,Not Returned
+d5d1c669-1c45-4357-a829-4a6716c8e3d7,Kathleen Herring,,Lake Jenniferview,Suburban,Home Decor,Quickly,2.0,2566.35,0%,Debit Card,2024-09-10,0.0,Yes
+4bc81c16-fa2f-4d74-bd19-35cc74eda60e,Anthony Li,,Port Kellymouth,Urban,Groceries,Last,2.0,2224.96,0,Wallet,04/10/2023,,Y
+c219a845-d9eb-404c-9851-d1cf1dabb10a,Alexandra Taylor,19.0,West Michael,Urban,Clothing,Left,2.0,3663.13,10%,Credit Card,01/11/2024,4.0,Not Returned
+17cba85d-bbaa-474f-a0e3-c5ce44afecb7,Grant Wilson,21.0,Riversview,Rural,Electronics,Thing,1.0,3879.12,20%,Credit Card,2024-08-02,5.0,Returned
+ccc62fed-7a6e-43d0-99c5-9cd9b09d721b,Stephen Jackson,48.0,Lake Jessica,Urban,Electronics,Yes,5.0,2277.14,5%,UPI,01/02/2024,0.0,Y
+e9462820-6a80-4ac2-9a8c-f13c28ce231e,Rebekah Gregory,62.0,New Noah,Suburban,Electronics,Her,5.0,3346.17,0%,Debit Card,2025-01-22,2.0,Returned
+e1446b45-af39-4a9d-9cd1-c4130760801f,Valerie Anderson,30.0,Rodriguezchester,Suburban,Stationery,Let,1.0,1485.26,none,Cash,25/07/2024,2.0,N
+5071e5f0-a7ac-490c-82f9-0f921036ca81,Sean Warren,,Lake Morgan,Suburban,Groceries,Natural,5.0,1547.22,5%,Credit Card,13/05/2023,0.0,N
+1861c9f3-9e44-498c-b359-390eb0309aaf,Nicholas Olson,49.0,Hernandezside,Urban,Stationery,Wait,5.0,4543.71,none,Credit Card,2024-05-18,2.0,Not Returned
+ef32f72a-a4b5-4723-82fb-28690df80b89,Samuel Christian,,North Karen,Suburban,Electronics,Full,2.0,4533.42,0,Credit Card,2024-07-27,2.0,N
+0ce3c8c8-4735-4e4f-b85b-6d0a54b58635,Krista Gray,,North Stephen,Rural,Electronics,Suddenly,0.0,4276.02,0%,Credit Card,2023-10-12,1.0,Not Returned
+7f9ad277-db49-4e6d-9688-782f72b696ca,Bryan Jimenez,,North Richardton,Suburban,Home Decor,Onto,,147.39,10%,Debit Card,26/06/2024,1.0,Not Returned
+cab24f24-1744-4e3f-936e-c1bd000b1f5e,Lisa Torres,,Lake Emily,Suburban,Clothing,Growth,2.0,1925.85,0%,Wallet,2024-06-07,2.0,Yes
+39112943-d10b-44dc-8de4-faf4d34794cc,Evelyn Saunders,25.0,Moranstad,Rural,Electronics,Sense,0.0,4019.51,0,Cash,15/01/2024,6.0,No
+a8ae57b9-c262-4ad0-98f1-a1e41d30a290,Glenn Gallegos,,Amystad,Suburban,Stationery,Science,4.0,4031.1,0,Credit Card,2024-03-24,6.0,No
+7e0f60b2-2a06-4609-a599-bd3c0bb81d38,Mitchell Griffith,46.0,West Cherylborough,Urban,Clothing,Camera,1.0,2467.09,15%,UPI,29/06/2023,3.0,N
+7500f785-3730-4fba-a494-dd5cda296905,Cheryl Morgan,51.0,Williamsshire,Suburban,Groceries,Candidate,0.0,4891.69,0,Wallet,30/03/2025,4.0,Y
+a8909e31-7517-4f39-b354-44fbe44a0371,Kathy Maynard,21.0,New Jillside,Rural,Groceries,Worry,5.0,828.41,none,Debit Card,2024-11-27,0.0,Returned
+eca391d4-7ba1-4dd7-95ca-788dd6bca712,Tammy Thompson,38.0,Lake Lisa,Suburban,Clothing,Body,0.0,4360.14,5%,Credit Card,2024-03-09,6.0,N
+e1f85b33-9b2d-4a2a-99bd-6240a8535961,Stanley Barnes,,West Raymond,Urban,Home Decor,Gun,1.0,2076.06,10%,Wallet,02/02/2024,0.0,N
+235fc3d5-2224-4806-8e07-2a5273edb223,Michael Goodman,44.0,Meganside,Rural,Stationery,Traditional,1.0,3751.67,5%,Credit Card,2023-11-22,6.0,N
+8db78572-ef7d-4821-bca0-258eb63d65d5,Christina Weber,,Glendaberg,Suburban,Clothing,See,2.0,4461.54,20%,Credit Card,2023-12-07,5.0,Not Returned
+80ff2909-2d85-4212-b554-e1f8f9a55cf2,Mallory Page,,Annashire,Rural,Home Decor,Own,5.0,1726.67,none,Credit Card,24/08/2024,6.0,Returned
+bf74531c-ac9b-489a-aadf-d568b5caa993,Kimberly Rich,,Stokeshaven,Rural,Electronics,Both,0.0,110.77,0%,Credit Card,2024-09-07,4.0,Not Returned
+ab95c72f-0d95-4af5-a534-21bc6180b78a,Derek Floyd,44.0,Francesberg,Suburban,Stationery,Those,,788.2,0,Cash,27/04/2023,6.0,Not Returned
+34396729-4b8e-4509-88cb-a592b0cad2eb,Amanda Cervantes,,New Mirandaside,Urban,Home Decor,Treatment,0.0,1156.39,none,Credit Card,2023-05-26,0.0,No
+638e1388-8faf-4d4a-a5a9-9ebcbe0ec2da,Richard Lindsey,55.0,Heatherton,Suburban,Electronics,With,4.0,3883.51,15%,Debit Card,2023-09-29,2.0,Not Returned
+c9c1ad45-f4ea-4b97-aaa4-15b56336c815,Emily Arnold,62.0,Lake Johnmouth,Rural,Groceries,Themselves,5.0,4210.2,15%,Credit Card,29/01/2024,0.0,No
+b5a4c55b-b462-4214-a23f-f67de9572bc2,Nicole Payne,62.0,Port Jenny,Suburban,Home Decor,Daughter,4.0,2570.14,15%,UPI,2023-09-30,,Returned
+aec2bb19-fbc3-48d8-ad6b-c88272e588e9,Victor Moss,,South Billyview,Rural,Stationery,Only,4.0,4043.5,10%,UPI,2023-11-22,6.0,Returned
+d89462e8-9580-4c3a-a932-a211214c0a4d,Gary Mckinney,,North Eric,Rural,Groceries,Future,,1084.36,20%,Cash,2023-10-30,4.0,Y
+a0180791-eeb0-43fe-860e-a4d50d04dcb6,Mary Henry,,Charlesmouth,Rural,Stationery,Never,3.0,3580.73,none,UPI,2024-07-14,,Returned
+11740357-8546-4426-af12-0b9ef4fd25b7,Caitlin Daniels,42.0,Davisbury,Urban,Electronics,Use,1.0,4060.69,20%,Cash,25/09/2023,0.0,Yes
+5c5d3f1b-54c0-46c2-94f6-516ea9d049dc,Travis Montgomery,,Barajastown,Urban,Stationery,Building,3.0,4919.31,0,Credit Card,20/09/2023,3.0,No
+e78d147c-3d87-4034-b217-3fa35893ef12,Tamara Sanchez,53.0,Lake Nicolefurt,Rural,Stationery,Whole,,602.15,none,Wallet,08/09/2024,6.0,Not Returned
+41afeb2a-62c8-43f4-9d06-149ef1eab64a,Diane Pruitt,,Williehaven,Rural,Electronics,Like,4.0,3495.39,5%,Credit Card,2024-12-16,5.0,N
+a6ca8d50-e5f5-4891-8be3-18a80b39dccf,Jose Vaughan,,Port Amanda,Rural,Stationery,Account,0.0,3140.75,none,Debit Card,20/04/2024,4.0,N
+a127dc6b-ab9b-453d-b5f5-c65410c2c2e5,Sharon Coleman,29.0,East Amandachester,Rural,Stationery,Radio,,1541.47,10%,Credit Card,06/08/2024,4.0,Yes
+afa08cbe-bf34-4ca7-9276-7d13f0938776,Joe Rivera,,North Brianview,Urban,Clothing,Open,2.0,1467.65,0%,Wallet,2025-01-01,0.0,No
+e9366a85-3a46-4be3-9255-a4de9330ba83,James Mccoy,,Stewartfurt,Suburban,Stationery,Report,5.0,295.71,0%,Debit Card,01/06/2023,3.0,Yes
+b864a47b-a434-47fb-8182-978288eae7d4,Nicole Richards,50.0,West Sarahville,Suburban,Stationery,Figure,5.0,2674.44,10%,Debit Card,08/07/2023,,Yes
+162534ca-9b47-4639-8d25-51ebaf95be79,Timothy James,,South Ericbury,Suburban,Groceries,Century,,1183.87,10%,Debit Card,2024-12-09,,Y
+d976b2ba-cc27-4386-8bf9-25b5641816b7,Toni Thomas,59.0,Susantown,Urban,Clothing,On,4.0,662.14,0%,Wallet,2024-11-08,1.0,No
+0ab1a504-1f8c-46e0-a431-13fd8e190d07,Kyle Medina,,West Jasonstad,Rural,Stationery,Development,,1990.79,20%,Wallet,15/02/2025,2.0,Y
+8336a758-d9f9-4502-a55b-c44fe7d73d1d,Clinton Jensen,23.0,Jamesburgh,Urban,Stationery,Remain,3.0,4501.58,10%,Debit Card,22/02/2024,5.0,Returned
+d9f48bbd-0dec-444c-9a2d-2156913a1734,Wanda Dunn,,West Emilyview,Urban,Groceries,Billion,0.0,1132.83,0,Debit Card,2024-12-19,2.0,No
+f3981e9e-7cb8-42a0-94a1-eab0b9c037aa,Carl Rios,27.0,West Christineborough,Suburban,Clothing,Friend,,3268.15,5%,Credit Card,08/09/2023,0.0,Not Returned
+a8cfe589-9dc8-4e1a-940e-7d01735d88f3,Kevin Cunningham,54.0,Lindseychester,Suburban,Home Decor,Concern,5.0,972.16,0%,Wallet,19/04/2024,1.0,Yes
+38b5e89a-c921-457c-bf05-557c502ed818,Margaret Hill,25.0,Dennismouth,Rural,Stationery,Understand,4.0,2221.82,5%,Credit Card,2023-04-11,0.0,Not Returned
+c65720ae-5bd6-4d4d-b202-fae5767d3b27,Juan Thompson,,Port Juanberg,Rural,Clothing,Vote,3.0,3534.32,5%,Debit Card,14/04/2024,1.0,Returned
+e2e6e7a6-bbc9-4473-8363-589c32495cff,Monica Mcclain,48.0,Port Bonniefurt,Rural,Groceries,Specific,,1968.93,none,Cash,2024-05-30,6.0,Yes
+8d3543be-0962-4ec9-a803-82eb36777be4,Steven Fernandez,,West Philip,Urban,Stationery,Vote,3.0,4804.66,10%,Debit Card,09/07/2024,5.0,Not Returned
+4a7eebc2-db6f-4c33-bbb4-c0ce96f01335,Jonathan Davis,53.0,Waynebury,Suburban,Groceries,Thus,4.0,124.65,20%,UPI,27/11/2024,1.0,Returned
+2a74b90c-af25-47f5-9d31-762afb5abb36,Brenda Moore,30.0,Lake Jessica,Urban,Stationery,Wrong,5.0,888.68,10%,Credit Card,2024-12-24,3.0,Y
+7cd61da4-c2ef-4a8b-b804-87860a58f43c,Dennis Young,,New Rebecca,Urban,Groceries,Herself,3.0,3258.91,5%,Debit Card,11/01/2024,6.0,Not Returned
+e1ad640c-7463-435e-aafb-9f20783c91eb,William Nguyen,,Maryview,Rural,Electronics,Particular,,1849.98,0,Cash,03/02/2024,,No
+a75743f9-606c-42f5-ac81-6bf091f60406,Kevin Villanueva,55.0,New Johnbury,Rural,Stationery,Name,3.0,1708.9,0,UPI,2024-06-03,6.0,Not Returned
+585409d9-de22-4c3f-9136-6db15a578607,Mr. Larry Shaw,,South Gabriel,Suburban,Clothing,Ball,2.0,926.33,0%,Cash,2024-02-17,0.0,No
+267627ca-3625-4c20-87e3-21c2a4bae8bf,Jack Love,,Lake Jerrymouth,Rural,Electronics,Service,4.0,4401.64,15%,Cash,2024-05-11,,Y
+7aa1219a-7a93-48bb-acdb-d5f27b44acd0,Christopher Whitaker,52.0,East Bradleyshire,Suburban,Electronics,Person,0.0,4224.79,none,Credit Card,2023-07-05,2.0,No
+0a086989-833c-4f55-a129-8fa2227d4660,Bridget Jackson,31.0,New Susan,Rural,Clothing,Place,4.0,4081.95,20%,Debit Card,2023-08-11,1.0,Returned
+b8344070-e0e5-46e5-84c4-4853a33b3dfd,Samantha Valentine,,South Catherine,Urban,Home Decor,Market,3.0,3304.15,10%,Debit Card,2024-06-18,6.0,N
+d492b51a-3828-4a05-abaa-43c97b4e9ecd,Charles Aguilar,57.0,New Donna,Rural,Groceries,Everything,,1882.94,5%,Wallet,09/02/2025,0.0,No
+ec1f41ce-57b9-4dfb-af82-e70cb9644e4f,Kevin Hall,,Andersontown,Urban,Electronics,Degree,3.0,3706.01,15%,UPI,16/08/2023,3.0,Yes
+af32baf8-811d-44af-a8ca-7483dc0e3375,Chase Davis,,Valenzuelaton,Suburban,Electronics,Understand,0.0,3376.07,20%,Credit Card,2024-05-18,1.0,Y
+1e158e2f-c09c-4ebe-80da-2ed7880bcb0e,Matthew Winters,,Port Erikachester,Rural,Stationery,Nearly,,605.8,20%,Debit Card,06/12/2024,,Y
+b298b811-0b1e-4578-9ff4-7c515ed10e7f,Crystal Lang,,Bellshire,Suburban,Groceries,Billion,0.0,1889.95,0,Debit Card,28/02/2024,0.0,Yes
+c40f5405-7a25-4d81-8128-17eb224629cd,Scott Campbell,50.0,Scotttown,Suburban,Groceries,Security,5.0,2485.62,15%,Cash,03/03/2024,,Yes
+85c53910-93f6-4723-81d2-3a76ca179780,Adam Pena,56.0,Robertville,Rural,Groceries,Clear,2.0,1136.43,10%,Wallet,2024-11-05,5.0,Y
+42e4bf01-40ee-431d-95da-d216a6cdae3c,Jessica Diaz,55.0,Victoriafurt,Rural,Home Decor,Someone,4.0,2459.43,15%,Credit Card,03/03/2024,2.0,No
+8ebc6d7e-c8a6-4b85-8d56-bff669c9520f,Mr. Justin King,50.0,Beckyfurt,Rural,Groceries,Simply,2.0,2910.08,10%,Credit Card,13/09/2023,3.0,Not Returned
+1e7c6795-a8c6-42df-9d23-ff41dae13586,Jillian Lyons,58.0,North Jason,Rural,Clothing,Institution,5.0,2631.54,15%,Credit Card,24/07/2023,3.0,Returned
+9d30c42e-8cf2-4000-8d04-c00156a3dccc,Michelle Martin,56.0,Port Christopherberg,Rural,Groceries,Market,2.0,4349.78,10%,Debit Card,2024-12-08,6.0,N
+106793b6-1690-436b-af74-e55d99a9af6a,Jacob Lynch,56.0,Ariasfurt,Urban,Home Decor,Positive,3.0,921.84,0,Wallet,27/03/2025,5.0,N
+f6a9e3e3-b62b-4cb1-8956-0c3685609e8a,Theresa Wilkins,44.0,Gonzalesborough,Rural,Electronics,To,5.0,1091.51,none,Cash,29/08/2024,1.0,Not Returned
+4937b90f-84a5-418b-8dcd-0a34ee462fcd,Richard Dixon,,New Gavin,Rural,Groceries,Also,5.0,4400.99,20%,Debit Card,2024-08-30,1.0,Yes
+f9c3ee05-0012-4399-a7af-55453d3fec1b,Zachary Chan,,Elizabethfurt,Suburban,Electronics,Peace,,4495.15,none,Debit Card,12/01/2024,1.0,Not Returned
+b4209103-bca7-46eb-83ef-0f77848ac924,Brandon Mitchell,65.0,Michaelview,Suburban,Groceries,Draw,3.0,3968.82,15%,UPI,10/09/2023,6.0,Returned
+ee01b9e0-746b-461a-b1cc-6738f68ae9b7,Aaron Thompson,,New Charlesport,Suburban,Groceries,Grow,3.0,4559.42,5%,Credit Card,2024-07-21,4.0,Returned
+41f83199-f4ea-4769-8366-c189cd8d9f75,Robin Andrews,42.0,Churchshire,Rural,Clothing,Member,5.0,2932.14,5%,Wallet,07/07/2023,1.0,Yes
+f613bda0-56f4-41e5-81e9-c4fa3e4727fd,Melanie Mosley,,South Darrenland,Rural,Clothing,Idea,3.0,2187.75,20%,Debit Card,26/11/2024,3.0,Y
+ad4a2b3c-386a-49dd-be83-c32ac9e55c47,Rebecca Gutierrez,48.0,Zacharytown,Suburban,Stationery,School,5.0,3799.36,15%,Debit Card,12/08/2024,0.0,Returned
+17cf775f-498b-4f67-bf8d-cf96436ae2bb,Paul Peterson,65.0,South Lee,Rural,Electronics,Discover,,2930.49,none,Cash,13/01/2025,5.0,N
+f2765513-2eca-4629-84e2-269192ded495,Tara Lee,53.0,East Jill,Urban,Home Decor,Turn,4.0,591.37,20%,Credit Card,2025-03-02,3.0,Y
+d5bea8dc-33e8-4249-baad-584034ef71df,Luke Moore,,North Samanthafort,Urban,Clothing,Positive,4.0,2411.18,20%,Credit Card,2023-10-31,3.0,Yes
+f53f091e-8a9e-4964-9b6a-34eac3a58237,John Oliver,,Villanuevashire,Rural,Stationery,Trouble,5.0,4660.36,15%,Credit Card,2023-04-13,0.0,Not Returned
+c3a6b204-fc01-4a22-aed0-b0b27da56b6e,Diana Walker,,North Alicia,Urban,Electronics,Land,1.0,3237.43,15%,Debit Card,2023-11-07,3.0,No
+80a23721-0856-4684-8a6f-c4b3f08d312e,Scott Parsons,33.0,Brayhaven,Urban,Electronics,Magazine,1.0,3114.43,0,UPI,2024-04-13,4.0,Y
+ac9204b4-0306-4258-8227-b8d5b0701a53,Kevin Nguyen,51.0,Jacobview,Rural,Electronics,Economic,5.0,3381.34,15%,Credit Card,2023-12-09,,No
+57d52b78-9cf3-437e-b562-037b78aa16ea,Jonathan Clark,56.0,Michaelfurt,Suburban,Home Decor,Far,3.0,1802.63,none,Debit Card,03/11/2023,,No
+fab1996a-2192-4613-9247-e8512e0d3860,Crystal Garcia,,Lindaside,Suburban,Electronics,Lay,5.0,2094.96,5%,Debit Card,2024-03-23,3.0,Yes
+cccf4130-2556-43d4-b231-32fa618192de,Brittany Shaffer,,South Victor,Suburban,Home Decor,Walk,5.0,3501.54,15%,Debit Card,2025-02-01,5.0,N
+b876a455-88b3-452d-845a-91b8a1726883,John King,32.0,South Coreyburgh,Suburban,Home Decor,As,4.0,669.71,5%,UPI,2025-01-26,6.0,Not Returned
+d6c6d997-79fe-4ccc-8119-20f6d0566199,Joanna Cook,,Michaelside,Rural,Clothing,Work,2.0,3534.01,0%,Credit Card,2023-09-22,1.0,Y
+696929b2-0513-4da8-9819-93cc41f9994a,Sean Mccarty,35.0,New Barbara,Rural,Groceries,Range,2.0,2435.12,0%,Wallet,2024-12-27,3.0,Returned
+48dc1e26-c7c2-464a-bab8-328f2cae93a2,Michael Freeman,32.0,Prestonfurt,Urban,Stationery,Positive,3.0,3703.6,none,UPI,30/05/2024,4.0,No
+2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3,Margaret Mcfarland,49.0,Welchshire,Rural,Electronics,Interview,,687.4,5%,Wallet,16/11/2023,2.0,Not Returned
+2978cc73-1440-4dec-9243-9b0fe835f080,Erik Delgado,49.0,Catherinefurt,Rural,Clothing,Experience,0.0,2512.47,20%,Wallet,26/01/2025,,Y
+f0533851-dce0-42bb-87ed-ea0271e4dc42,Kevin Sheppard,52.0,Jacksontown,Rural,Clothing,Car,4.0,365.33,none,Wallet,2025-02-25,3.0,N
+f0c0804b-406b-402d-a97a-4f4e3c10871b,Nicole Clark,,Garcialand,Rural,Electronics,Write,,2340.26,5%,Credit Card,2024-10-24,3.0,Returned
+06bfd9c4-0dc7-4104-8c66-27667922b440,Kelly Ferrell,34.0,West Christineland,Rural,Clothing,Real,3.0,2946.94,0%,Cash,18/02/2025,0.0,Returned
+3ab7127e-4f32-4a54-a3cc-f604e2ae3f87,Duane Sims,,New Mary,Suburban,Home Decor,Air,4.0,1893.03,15%,UPI,31/03/2025,,No
+ea4f4a80-dc41-4176-9b59-f28ea9de5b26,John Proctor,,Amyberg,Urban,Stationery,Save,2.0,4898.44,0,Wallet,2023-05-05,3.0,Yes
+74e0079a-98fb-4727-9740-b2122d5245f4,Madison Elliott,18.0,Reginafort,Suburban,Home Decor,Notice,2.0,814.63,0,Cash,2024-05-30,4.0,N
+4ed0730d-711d-41dd-96ed-0330ce015413,David Torres,54.0,New Lisaberg,Suburban,Electronics,Guy,3.0,3948.13,0%,Cash,01/10/2023,,Returned
+b011b125-0221-41e5-88fc-3da1781d5b6c,Theresa Woods,,Port Russellport,Suburban,Clothing,Picture,1.0,2435.04,0,UPI,2023-11-16,5.0,N
+5fa72012-8c57-4277-81d9-09b4cbf8f29e,Stephen Kim,61.0,East Jennifer,Rural,Stationery,Race,1.0,1786.29,15%,Debit Card,04/10/2023,5.0,Y
+4352acea-3878-4ecf-a0dc-12ebd413c850,Mario Black,,Justinside,Urban,Home Decor,Table,5.0,1840.03,0,Debit Card,04/02/2024,5.0,N
+1186da93-da7d-4c53-b020-cf0669b41194,Dylan Walsh,,Nelsonfort,Urban,Electronics,Cup,0.0,4354.46,0,Cash,02/11/2023,3.0,Y
+f83f5274-0cb4-4fe1-a6f3-41c804f718c8,Charlene Garcia,,Davidmouth,Suburban,Home Decor,Short,,1652.7,0%,UPI,2023-12-13,,Y
+03c501fe-2693-44ef-9717-26543b997815,Glenn Collins DDS,26.0,Steventon,Rural,Clothing,Give,0.0,2128.55,10%,Credit Card,14/04/2023,6.0,Yes
+25660316-f39e-41be-8025-53ead7f2a678,Reginald Jones,21.0,Whiteview,Suburban,Stationery,Technology,4.0,604.75,5%,Credit Card,09/06/2023,0.0,Returned
+f97f4994-1f38-4f55-833a-c4d6d4085391,Danielle Wise,,Wrightton,Suburban,Groceries,Decide,3.0,513.13,15%,Cash,2024-01-29,3.0,No
+85695f97-180d-4855-855f-fde8bc3e1d19,Christine Price,,Sharonburgh,Rural,Clothing,Professional,3.0,240.0,0,Debit Card,30/03/2024,3.0,Y
+8cb1457e-effa-415b-bea6-450f0accb23c,Dawn Little,,West Paige,Rural,Stationery,Treat,,2995.07,15%,UPI,2024-10-24,3.0,Not Returned
+3c6841d6-1ce8-412f-b928-7d2637c0f87a,Erika Jackson,,Brendafurt,Suburban,Clothing,Strategy,1.0,2744.37,none,Cash,06/09/2024,6.0,N
+94c176b9-0ac0-43d5-b805-90f002493a09,Karen Carlson,,Kellibury,Suburban,Stationery,Coach,0.0,2664.25,none,Credit Card,2023-10-13,1.0,No
+56a2d49d-9e5f-4273-af9a-116817661795,Yolanda Garrett,,West Deannaside,Rural,Groceries,Strong,3.0,4740.09,15%,Credit Card,2024-04-30,6.0,Yes
+5115d7ee-3b90-408e-bce3-456320363a73,Dr. Nicole Trujillo,33.0,Quinntown,Rural,Home Decor,Risk,4.0,2117.51,20%,Wallet,30/06/2023,4.0,N
+402da0fa-227d-4ecc-b972-393a5bb0dd76,Karina Kim,,Amyfort,Suburban,Stationery,Customer,5.0,2168.97,10%,UPI,26/01/2024,2.0,Returned
+52dcbffd-5900-4d65-8b2a-b7592fc6c4e6,Denise Guerra,,North Amanda,Suburban,Stationery,Listen,1.0,993.8,0%,Wallet,21/06/2024,2.0,Not Returned
+5dfb1922-8aa6-4006-836a-db9dd1c56a00,Ricardo Hunter,,North Christine,Suburban,Groceries,Himself,1.0,845.53,20%,Wallet,2023-11-23,1.0,No
+b893b08a-5219-4216-bd21-1daf9ec5405d,Walter Fuentes,,New Felicia,Suburban,Home Decor,Space,4.0,541.97,5%,UPI,30/11/2024,4.0,No
+5295ea96-487b-45d7-9cf0-23dd277529a2,Frank Davis,,North Maryberg,Suburban,Electronics,Could,0.0,1718.22,none,Debit Card,09/06/2024,1.0,No
+7c413a2a-1b67-47bb-b3bb-738208018e83,Andres May,18.0,Barretthaven,Rural,Groceries,Price,0.0,4488.92,0%,Wallet,2025-02-14,4.0,N
+5dc96097-0c90-4028-8185-300d971df5fd,Mitchell Smith,65.0,Lake Travis,Rural,Groceries,Voice,2.0,1311.09,5%,Wallet,03/10/2024,6.0,N
+a3900bc0-cd0f-44a6-b7d2-b94f14780c9d,Justin Hurley,20.0,Shortton,Suburban,Home Decor,Than,,4687.45,10%,UPI,13/01/2025,5.0,Not Returned
+bbfb1b71-0a68-4eb8-876d-e8c5440c7e5b,Eric Blackburn,,North Jessicaside,Suburban,Electronics,Image,1.0,4331.92,10%,Cash,2024-07-30,1.0,No
+3faeef01-a829-4f3c-86b4-852c317046b9,Theresa Hansen,,Reeseshire,Rural,Stationery,Help,1.0,2039.46,10%,Cash,02/09/2023,2.0,Yes
+6d54c95a-aa4d-42a8-b3da-5808756eb67d,Carol White,,Wagnerburgh,Rural,Electronics,None,1.0,1318.74,15%,Credit Card,12/09/2024,2.0,Not Returned
+e7094153-5a31-4916-aefb-2a2471693ed5,William Nguyen,49.0,Robertchester,Suburban,Stationery,That,1.0,3536.51,none,UPI,2024-07-16,3.0,No
+902a405c-3d9f-4e59-9bc0-fa9352cdadef,Jaime Pierce,40.0,Michaelmouth,Suburban,Electronics,Line,,3692.63,5%,Wallet,2024-10-22,6.0,N
+fba3091f-08df-4af8-b9ef-aad6000cd21a,Alan Taylor,,Adambury,Suburban,Home Decor,Difficult,2.0,2759.4,15%,UPI,2024-02-10,5.0,Returned
+d26aa790-c582-4939-858e-389e509d97cd,Samantha Ellison,,North Benjamin,Suburban,Electronics,Heart,4.0,437.5,10%,Debit Card,31/01/2025,3.0,Y
+e3be7ca0-5df9-44fb-83d6-43ed236eb832,Crystal Shepherd,57.0,New Ricardoborough,Suburban,Electronics,Similar,0.0,4426.37,20%,Debit Card,2023-08-07,3.0,Y
+7b874b4a-cafb-44fe-931f-04afb93c92d5,Roger Norris,,New Dawnton,Suburban,Home Decor,Side,0.0,2667.94,15%,UPI,06/06/2023,4.0,Returned
+c7b611cd-1417-482a-a1ad-018a93875413,Randy Bailey,30.0,Butlerville,Suburban,Groceries,True,2.0,314.51,10%,Credit Card,25/12/2024,2.0,Yes
+d97766be-a71c-4948-bf67-de423a0a2b59,Alexandra Waters,,Brownhaven,Urban,Clothing,Analysis,5.0,3323.81,20%,Cash,2024-11-26,0.0,Not Returned
+53ab3cce-264a-404f-909e-21ba8a38d5aa,Connie Williams,,Maddoxshire,Rural,Electronics,Mother,,164.12,10%,UPI,2023-12-12,2.0,N
+c94f6ed3-4a2f-4876-ae93-561538da9a90,Carlos Miller,,New Raymondland,Rural,Electronics,Inside,,4127.93,none,Credit Card,2023-06-16,0.0,Yes
+2160446e-b2a7-4475-8619-67736f3acf33,Karen Gonzalez,64.0,Pearsonborough,Rural,Home Decor,Option,1.0,4728.56,20%,Cash,01/05/2024,2.0,Yes
+3f09f7a6-8635-4a54-bc54-b8c1ff408dcc,Derek Jordan,,North Emilychester,Rural,Electronics,History,5.0,2893.14,10%,Debit Card,29/07/2024,4.0,Not Returned
+9808552c-5832-48de-921b-e8c230c3ef8a,Patricia Jackson,,Christinamouth,Rural,Clothing,Price,1.0,3542.5,15%,Cash,2024-01-03,6.0,No
+d173b70b-ec99-4c80-8b7d-185670c23600,Michael Moore,,North Jodibury,Rural,Home Decor,Pressure,5.0,4674.25,0%,UPI,2023-07-30,6.0,Y
+d1f44c8d-d51b-4974-9e66-8dd025ce2a21,Greg Brock,,Shannontown,Suburban,Home Decor,Glass,,1937.81,20%,Credit Card,2025-03-27,4.0,Y
+342c5348-363d-45f1-89ba-b9c8bd717da3,Nicole Dunn,,Lake Holly,Urban,Groceries,Affect,2.0,3019.24,20%,UPI,17/09/2023,5.0,Y
+86dc4e34-a9dc-4e52-a7f2-418a953fcfd4,Christopher Campbell,54.0,Briantown,Urban,Electronics,Audience,5.0,4603.65,20%,Wallet,25/01/2024,5.0,Returned
+da221b85-a9b9-4a1d-8574-98caa90e319d,Heather Rodriguez,,Michellefurt,Urban,Stationery,During,2.0,1398.44,20%,Wallet,2024-02-03,3.0,No
+197fa0fd-b5ae-4a56-ba03-3d6c822fb2f0,Kari Harper,,East Jamesmouth,Rural,Stationery,Option,3.0,3697.9,0,Credit Card,2024-01-28,4.0,N
+3f551740-0a2d-46a6-8580-4493b6646199,Elizabeth Burns,23.0,North Michael,Suburban,Clothing,He,5.0,283.12,none,Wallet,27/03/2025,5.0,N
+fef97d57-3c77-4a4a-8d65-4036a00f230b,Kathryn Cain,56.0,Natashatown,Rural,Home Decor,Yet,,4361.95,10%,Credit Card,09/01/2024,2.0,Not Returned
+26d658fb-39bf-49b6-87ba-c8aaf2f94b2c,James Taylor,50.0,Meyerbury,Urban,Electronics,Key,2.0,1664.65,20%,Wallet,2024-06-12,1.0,Y
+f8751fd4-6d2c-4f42-a71a-919f92a97acd,Larry Cole,27.0,East Denise,Suburban,Electronics,Partner,0.0,1188.22,0%,Wallet,2023-10-11,2.0,N
+dcd28b97-33ca-4a6b-8cd3-af7caf1dcfb8,Michael Roach,,South Wendy,Rural,Groceries,Speech,1.0,2785.95,0%,Cash,01/06/2024,1.0,N
+eac7dc2e-9099-4283-aedb-0ce5a7fecdcd,Barry Patel,53.0,East Lonnieberg,Urban,Electronics,Short,5.0,2490.52,0,UPI,2023-07-29,4.0,No
+f90fb6e4-e150-42f3-9195-8000c3f38c8c,Jason Ramos,,Edwinborough,Suburban,Clothing,Both,1.0,3455.22,20%,UPI,30/04/2023,,Yes
+fc6795e2-c32f-421b-86b4-ed272f4b8be8,Debra Bradley,,New Jesse,Rural,Home Decor,Right,0.0,3010.0,5%,Debit Card,19/07/2023,,Y
+c7a2b171-b02a-46ee-9458-80635bf88d1d,Jonathan Jacobs,41.0,Jackfurt,Rural,Electronics,Million,2.0,4628.64,10%,Credit Card,2023-04-28,1.0,Not Returned
+39ed0800-3179-49f9-a9ed-e760233408ba,Phillip Smith,,Stephaniebury,Rural,Electronics,Situation,0.0,4749.81,10%,UPI,10/04/2024,4.0,Y
+345e2eaf-c1fd-4581-b3ec-e6b1fcfd8547,Timothy Duke,,Wattsmouth,Rural,Home Decor,Very,5.0,1726.2,0,Debit Card,2024-09-10,1.0,No
+0ab5207f-c6b6-420a-a7a5-59366d744a0b,Samantha Cortez,55.0,Carrshire,Suburban,Groceries,Phone,1.0,3505.85,0,Credit Card,16/10/2023,3.0,N
+b440b852-e033-400e-a432-62b38675820e,Kelly Hayes,,East Aprilfurt,Rural,Clothing,Simple,1.0,360.12,0,Credit Card,28/05/2024,5.0,Yes
+c3e1847c-8420-40d8-a32c-817e8ec57d47,Amber Carter,,Wilkersonport,Suburban,Stationery,Main,5.0,1232.73,15%,Debit Card,08/05/2023,0.0,Not Returned
+eb45bc38-9cf6-4e33-8b5f-174b6c267b56,Jose Thomas,19.0,Davishaven,Urban,Stationery,Budget,5.0,2553.19,15%,UPI,15/08/2023,4.0,Not Returned
+e4f2ae4c-f016-416b-95df-e6cbc75aec94,Brandy Gutierrez,,Johnsonmouth,Rural,Clothing,Performance,3.0,3747.51,5%,Cash,2023-08-25,0.0,Not Returned
+e1eeb1f1-33b1-40dc-a552-d0a8b66f3507,David Holt,,Lake Jessica,Urban,Groceries,Benefit,3.0,4078.28,0,UPI,2025-03-04,5.0,N
+5ce9dbbc-a252-41f3-b30b-c657b4cb4613,Michael Acosta,57.0,South Andrea,Suburban,Groceries,Animal,5.0,530.2,15%,Debit Card,05/07/2023,3.0,Not Returned
+90c40e45-55cf-47ba-a989-65f22bbf1e35,Shari Martin,26.0,East Kayla,Rural,Groceries,Approach,4.0,4557.7,0%,Debit Card,2024-11-24,5.0,Returned
+c4c4f69f-baeb-415d-8f3c-97714edd2a2a,Donna White,51.0,East Adam,Suburban,Groceries,Southern,,4326.68,0%,Debit Card,2024-02-27,4.0,Not Returned
+dafc3805-7f64-45de-b569-9aef03200c4e,Dr. Lawrence Snyder II,,Chavezmouth,Urban,Electronics,Base,,432.29,20%,UPI,2023-10-21,,Yes
+e1d5c0dc-3ea5-45a9-81ae-c50599a04abb,Lisa Grant,,North Jack,Urban,Groceries,Around,4.0,4809.86,0%,Credit Card,17/07/2024,0.0,Not Returned
+da948e70-2537-41e4-8966-8d0859595d27,Kenneth Morrison,56.0,Samanthaton,Rural,Groceries,Boy,5.0,3835.99,20%,Cash,2024-08-27,1.0,Y
+ac0e1f71-294d-43ed-ada1-afdafe656dcc,Matthew Graves,,South Kara,Rural,Clothing,Here,4.0,489.43,none,Cash,2024-02-25,,No
+4c9e903a-c4bd-438e-97d7-1fc0092cd030,Steven Wilkins,,Bridgesland,Urban,Clothing,Final,2.0,2421.85,10%,Wallet,31/03/2025,6.0,No
+dc0228af-b1d2-4457-9f3c-ea1d227197ca,Joseph Warren,,New Brian,Rural,Clothing,Owner,2.0,3813.11,5%,Wallet,2024-04-07,4.0,N
+fcb86f9e-8769-4baa-a104-bdcefab6ad91,Nathaniel Jacobs,,Ronaldmouth,Suburban,Stationery,Event,5.0,2083.85,5%,Debit Card,2024-10-25,0.0,Not Returned
+5a9621f5-9f8c-4da5-beb9-ea24933c8d00,Lisa Crawford,,Vasquezburgh,Rural,Electronics,Use,4.0,2651.18,15%,Debit Card,20/05/2024,1.0,Yes
+fab0a15d-4a5d-4cea-b565-f64e3b93a53f,Bruce Marshall,,Lake Melaniechester,Urban,Home Decor,Job,4.0,1030.27,15%,UPI,2024-07-24,1.0,Y
+ce58de20-8f77-43e0-9982-aa44557368cf,Alexandra Harris,46.0,Jonathanland,Rural,Stationery,Foot,4.0,3480.77,10%,Credit Card,13/05/2023,1.0,Not Returned
+c45c3fbb-52ec-4c27-8ccc-617e81b66951,Michael Peterson,,Port Gregorymouth,Rural,Groceries,These,4.0,2026.03,0%,Wallet,27/11/2023,3.0,Yes
+ea89a979-7aa6-46ea-ac27-3009ec1a86d3,Andrew Taylor,63.0,Lake Steven,Urban,Electronics,Treatment,0.0,3489.42,0,Wallet,2023-12-26,,No
+c8b3815e-7664-4043-95c9-bf0fe55b93ad,Tanya Brown,57.0,Annettemouth,Suburban,Stationery,One,,2666.7,15%,Wallet,29/05/2024,2.0,Returned
+af7c7d2b-93d0-44e4-b550-b07e04cabb38,Thomas Flynn,27.0,East Juantown,Urban,Groceries,Group,0.0,4570.04,20%,Credit Card,28/05/2024,3.0,Not Returned
+2a7cf9e9-d7a7-47b1-88c6-2063a06303ca,Jean Larson,29.0,Janetmouth,Urban,Groceries,Security,3.0,3677.79,15%,Credit Card,2024-01-24,5.0,Not Returned
+7f3ef59b-1638-4137-a9f3-5b2d4580dac2,Jacqueline Gallegos,52.0,Javierport,Rural,Home Decor,Continue,0.0,159.82,15%,Cash,02/05/2023,5.0,N
+c71d4564-0992-4886-88f2-16c15fcc997d,Brandon Hunter,56.0,Steinberg,Urban,Stationery,Customer,1.0,2323.32,15%,UPI,2023-07-04,6.0,Returned
+dfb68a5f-bb81-41f0-bbc4-d138ec737598,Patricia Thomas,40.0,Port Tonihaven,Urban,Electronics,Require,1.0,339.7,10%,Debit Card,2023-12-28,4.0,Not Returned
+75992b0a-095b-41d6-b97d-76173487246c,Sean Wilson,44.0,Sarahland,Urban,Clothing,Goal,1.0,1722.44,5%,Debit Card,2023-07-20,5.0,Yes
+854494ab-1a64-427d-8bcf-d0fce3a1af97,Nichole Johnson,20.0,Danielleborough,Suburban,Clothing,Full,5.0,4834.84,0,UPI,2024-04-04,3.0,Y
+88433a38-46d2-4109-895c-7ac8314aabdd,Jeremy Wilson,,East Joshua,Urban,Electronics,Administration,5.0,3816.37,none,UPI,10/09/2023,2.0,Yes
+34e24142-1a35-4475-8399-7ac58f43a250,Kirsten Nelson,21.0,Audreyburgh,Rural,Stationery,Avoid,2.0,2670.77,0,Credit Card,03/08/2024,0.0,Returned
+8a6342ca-56b7-479e-a46a-0b429cfecbd8,Carlos Ruiz,,North Patrickland,Urban,Stationery,Last,3.0,2192.56,none,Debit Card,05/12/2023,5.0,Y
+e42aa836-989b-48c0-b465-c0272dd1d45b,Sara Lyons,,Larryborough,Urban,Electronics,Sell,5.0,2513.27,10%,Credit Card,06/02/2024,6.0,No
+141b9098-8892-47fe-8f2e-45efabbe274a,Nicole Owens,,North Lisa,Urban,Clothing,Wide,0.0,3713.6,10%,UPI,2024-11-17,2.0,Returned
+4f75d45a-74a1-4a0d-98e6-3a5577e0ee02,Michelle Marshall,34.0,East Douglas,Suburban,Clothing,War,,155.36,10%,Debit Card,2024-10-01,4.0,Y
+645f273c-5d0b-442d-a9b1-4c76420fbeef,Thomas Rivera,64.0,Shawntown,Urban,Groceries,Attention,3.0,657.8,0%,UPI,2024-07-30,1.0,N
+7613ef44-7a88-4162-99f8-068e1ce62a9f,Diane Bailey,,New Dakota,Urban,Home Decor,Television,1.0,4589.2,none,Debit Card,2024-04-11,6.0,Not Returned
+8e5fd65f-536c-42d0-9b63-205fcbf85149,Rebecca Patel,,Garzabury,Rural,Clothing,Pressure,,3941.55,15%,Debit Card,2024-10-13,6.0,Yes
+7b7ce7cc-f950-47fa-a8b5-8db58c466308,Glen Cervantes,22.0,Muellerchester,Suburban,Electronics,Our,0.0,2929.25,0%,UPI,2023-10-14,4.0,Y
+3c749c16-b1b2-45f8-8b66-1d1f579a7954,Michael Stevenson,,Wilsonmouth,Rural,Clothing,Gas,2.0,2897.81,15%,Credit Card,09/12/2024,3.0,Returned
+2d19bd52-71f9-40e2-9270-1a5218ffd8ad,Jared George,37.0,Murphyton,Rural,Clothing,Believe,3.0,2535.57,10%,Cash,12/06/2024,2.0,N
+94ad345a-e323-4264-a390-0c1dd1291d13,Makayla Smith,,Lake Edward,Rural,Groceries,Night,4.0,3911.17,5%,Cash,24/09/2023,1.0,Returned
+7279101c-93f3-403d-9d96-232d63d5e750,Michael Stewart,27.0,Samanthachester,Rural,Groceries,Serious,3.0,3688.96,20%,Cash,2023-11-20,6.0,Y
+952d986c-16db-4a18-bd83-98c35821b9f8,William Powell,,Port Kelly,Urban,Stationery,Hope,5.0,1999.18,none,Credit Card,18/03/2025,6.0,Yes
+0037447f-0d99-4071-b7c8-435f8c83bc68,Samantha Howard,37.0,Michellebury,Rural,Clothing,Lay,,605.2,none,Cash,07/03/2025,1.0,Not Returned
+5170ca8a-a00e-4b60-a4ee-c4c19714fadc,Jennifer Graham,60.0,Lake Glenn,Suburban,Groceries,Chair,3.0,1504.18,20%,Cash,04/10/2024,4.0,N
+ecaadafb-d7e4-427a-a274-d2408e301bcc,Jason Roberts,,East Alexander,Rural,Clothing,Raise,5.0,4795.66,20%,UPI,01/09/2023,1.0,Yes
+7c98756f-e288-409d-b8a9-b01424dcea07,Vanessa Taylor,,Lake Linda,Rural,Home Decor,Trade,1.0,2913.01,10%,Credit Card,20/04/2023,5.0,Y
+9abbe46b-b205-4cec-89f7-369fe4c1d210,Lisa Gibson,21.0,Arnoldmouth,Suburban,Home Decor,If,1.0,4526.13,5%,Cash,2024-03-27,6.0,N
+9ac55023-6cbd-4931-af90-005839ca2826,Jonathan Simon,63.0,Robertside,Suburban,Stationery,Part,3.0,3119.95,0%,Cash,08/01/2024,6.0,No
+91724023-09b1-45d6-ba6d-81ee0890f506,Mr. Kevin Nixon,,East Jessicahaven,Suburban,Groceries,Town,,576.59,0%,Cash,18/01/2024,6.0,Not Returned
+8456ce4f-7706-4136-8788-17ecc764032e,Steve Davis,,Mccoyland,Suburban,Home Decor,Return,2.0,4573.02,15%,Wallet,10/11/2024,5.0,Not Returned
+4ffffb59-9462-4786-8c50-2a898a08d40e,Stephanie Nichols,,South Shawnfort,Rural,Stationery,Painting,4.0,653.15,15%,Cash,2024-08-12,6.0,No
+f5e8a7e1-5a58-4b67-abc7-b63554de19cd,Elizabeth Jackson,53.0,Jessicashire,Suburban,Stationery,Ever,1.0,4106.01,none,Wallet,28/10/2024,0.0,Y
+2b48c6e6-9401-4dfe-b921-0c7ca119ceee,Mary Carter,,West Toddberg,Urban,Clothing,Mouth,5.0,1269.02,10%,Cash,2023-05-25,0.0,No
+408669bb-4721-494b-88a4-ae21d9f850e9,Douglas Hodge,52.0,Lake Danielburgh,Urban,Electronics,Where,5.0,3943.14,15%,Debit Card,2023-06-06,0.0,Y
+7257dcb6-a8be-4c80-a6b0-d2c9bd2cf4eb,Christopher Patton,,South Henry,Urban,Clothing,News,3.0,3001.6,15%,Wallet,10/07/2024,2.0,Returned
+159b558b-fbec-4ed8-97c4-e2c308789ef0,Linda Underwood,,Mullinschester,Rural,Electronics,Speech,0.0,3458.99,20%,Credit Card,05/02/2025,2.0,N
+b9db1388-70af-46eb-a921-7ddc3cea1f89,Christine Navarro,27.0,Brianview,Suburban,Stationery,Someone,,4447.58,none,UPI,30/01/2024,3.0,Yes
+76c9aeb2-2ae7-4c19-8d72-29181db1ce86,Eric Reese,,South Frances,Suburban,Clothing,In,3.0,1058.77,0,Credit Card,2025-01-03,6.0,Y
+deca8598-87cb-4e2a-a528-8a1b433b66fc,Dylan Salinas,41.0,Gregoryhaven,Urban,Stationery,Result,3.0,4253.42,none,UPI,10/04/2024,0.0,Yes
+a32e3ab5-8802-474a-aaef-2ec218ecde2b,Ryan Bishop,,Matthewview,Rural,Clothing,Suffer,4.0,4341.83,10%,Wallet,09/05/2023,5.0,Not Returned
+6422a73e-958c-4cfd-a783-0a8f415e3805,Michael Allen,26.0,New Matthew,Rural,Home Decor,Road,2.0,2771.08,0,UPI,2023-06-23,0.0,N
+ac3cbe34-02b5-4d3d-8c30-563f5032739c,Barry Jenkins,26.0,Lake Seanbury,Urban,Electronics,Share,,1513.51,none,Cash,2023-08-25,3.0,No
+06113bfe-08b6-461d-b16d-a914407c4370,Amy Wheeler,,New Danielle,Suburban,Stationery,Section,1.0,3323.84,10%,Wallet,2023-11-14,6.0,No
+21419a14-9acc-400d-9b3f-b4a2161d6acf,Phillip Wong,,North Heather,Urban,Groceries,Environment,0.0,2596.13,20%,Wallet,2023-07-10,6.0,N
+13620119-efa9-40a3-a915-1364778a669f,Tammy Hill,,Schwartzmouth,Rural,Stationery,Even,,4249.34,10%,UPI,22/11/2023,6.0,Returned
+c6f06a71-46fc-4ff2-92f1-78bdc7de01a9,James Ferrell,,Stephanieview,Rural,Electronics,Could,3.0,2883.93,0,Cash,2023-08-11,1.0,Yes
+edb7d4e4-fabb-4609-bde1-7a8511c4194a,James Brewer,23.0,East Amberchester,Suburban,Electronics,Discover,5.0,2378.19,5%,Debit Card,2024-03-15,5.0,Returned
+710b7fa9-e9a0-420d-9b33-2e43a4b1cf6a,Ashley Jones,,Kimberlytown,Rural,Home Decor,Watch,5.0,3103.89,0%,Debit Card,2024-07-27,5.0,Yes
+0038dc84-a3ed-433a-a722-2ea2261b5048,Mary Adams,28.0,Rebeccashire,Rural,Stationery,About,3.0,1829.28,none,UPI,2024-04-28,0.0,Y
+7d9d2b3b-c55f-4445-b09e-0302b525a4d9,Jared Luna,54.0,New Jeremiahfurt,Rural,Clothing,Risk,5.0,400.95,15%,Debit Card,12/05/2024,5.0,No
+9136e530-1f07-43df-bb68-b323c7a2ee6f,Wendy Cook,34.0,Richardland,Rural,Clothing,History,1.0,504.3,20%,UPI,2025-01-02,6.0,Y
+1498d0dd-570e-4af5-b5ff-3705da74a056,Paige Roberts,65.0,East Angela,Rural,Home Decor,If,2.0,3733.0,20%,UPI,2024-05-27,1.0,Returned
+63dde733-b225-474e-8c82-c44530e59543,Lydia Howard,51.0,Lake Samuelborough,Suburban,Electronics,Challenge,4.0,3934.39,10%,Cash,2024-09-02,5.0,No
+ff12fe28-b840-4136-867e-4b72316e8645,Katherine Brown,,Victormouth,Rural,Groceries,Admit,4.0,4204.31,none,Cash,2023-05-05,3.0,N
+c9abda91-5674-49e2-8e59-95aa56db638a,Jennifer Lewis,21.0,Bentleyside,Suburban,Home Decor,Church,0.0,366.2,0%,Wallet,06/05/2023,,Yes
+1270c935-ecc0-4aa6-bba4-f2ba94500024,Charles Valdez,34.0,Meadowston,Rural,Home Decor,Eight,4.0,1961.02,0,Credit Card,03/11/2024,4.0,N
+2c1882c9-03ad-402e-a16a-ebcfa616dde4,Summer Hoover,20.0,South Cherylshire,Rural,Clothing,Attack,5.0,1971.82,0%,Wallet,2024-10-03,6.0,Not Returned
+7f44cbca-1d3a-4131-9b38-8581d145bd7f,Lisa Brown,,South Matthew,Suburban,Groceries,Thing,0.0,1741.34,0%,Debit Card,2025-01-02,5.0,Yes
+1eece891-5301-4fb9-a6ea-0949adab7b01,Laura Taylor,18.0,Port Brandon,Urban,Electronics,Consumer,3.0,3420.82,10%,Wallet,01/11/2024,,Returned
+2428185a-461d-4017-9ee9-2d3b102f4f5c,Carol Wood,,South John,Urban,Electronics,Party,2.0,3458.95,0%,Credit Card,2023-12-24,2.0,Not Returned
+d8ed0649-ca82-4730-9997-7e2e22249813,Jamie Moore,56.0,Millertown,Rural,Electronics,Country,0.0,4698.68,0,Credit Card,2023-05-09,1.0,No
+97feb937-a6d9-47a1-b4ec-fe8d16d1f5ca,Jennifer Aguirre,29.0,Schwartzborough,Rural,Groceries,Character,,1942.2,none,UPI,27/03/2025,3.0,Returned
+697ae294-734e-4b10-85e9-054f455cf668,Christopher Holt,,Lake Vincent,Suburban,Groceries,Behavior,0.0,3230.02,0%,Credit Card,16/08/2024,2.0,N
+590cee67-4d1b-4d80-8857-5c8ad3946dc7,Justin Lee,34.0,New Michaelside,Suburban,Electronics,Movement,1.0,1975.72,0%,Wallet,2024-08-07,1.0,Y
+a8c9aa31-a05f-45e6-8534-6e4176d6dc39,Anthony Rodriguez,24.0,Lake Megan,Rural,Home Decor,Which,,3090.48,10%,Cash,2023-09-25,4.0,N
+ab8e77a1-28e6-4130-ad23-8ed17f5d21f2,Amy Diaz,20.0,South John,Urban,Stationery,Practice,3.0,4571.79,0,UPI,2024-04-10,2.0,Yes
+0b16dac4-7401-4bb3-8227-0738e3dc419d,Anthony Medina,18.0,Port Anthony,Rural,Home Decor,Myself,,4492.91,10%,UPI,23/12/2024,1.0,Not Returned
+b8addf54-3c3c-4c08-a523-e8a91223d906,Kevin Barnes,,Jerryville,Suburban,Home Decor,Gas,1.0,4532.63,20%,Wallet,2023-07-07,,Returned
+699fdb02-bcdd-4b48-bcb3-c9fa191abb3d,Jaime Walker,48.0,Richardston,Rural,Stationery,Voice,4.0,2746.63,5%,UPI,01/10/2023,2.0,Not Returned
+9c03d65c-ed8a-428c-b756-999b251adf0e,James Taylor,,Lake Michael,Urban,Home Decor,Expect,,2063.01,0,UPI,2024-03-11,5.0,Yes
+b134b58f-0837-49f8-a090-f35e55fcf991,Diana Rodriguez,,Ellisburgh,Urban,Clothing,Soon,,2816.93,15%,Wallet,12/09/2023,3.0,No
+9a87e357-4b8f-4475-a2eb-b2d2384852b6,Robert Cisneros,19.0,New Tara,Suburban,Home Decor,Top,1.0,3703.09,10%,Credit Card,2023-12-30,6.0,No
+8592a38f-db62-41f7-a964-eb1616232e87,Zachary Vargas PhD,19.0,Alexischester,Suburban,Electronics,Simply,0.0,2548.45,none,UPI,2023-10-03,5.0,N
+6f2aec8a-53c9-4acb-bf71-e1ae3f24ba6a,Stephanie Vargas,,New Rachel,Rural,Stationery,Key,0.0,2086.99,10%,Cash,2025-02-13,1.0,Not Returned
+bbc51a50-787c-40d3-bdc4-19b20a414919,Amanda Schmidt,49.0,Pachecoville,Suburban,Stationery,Local,,4631.6,5%,Credit Card,12/05/2023,4.0,No
+c0c9c3ed-8ef9-4060-9545-7c643d922952,Nicholas Dodson,,West Kenneth,Rural,Groceries,Raise,1.0,170.39,0,Debit Card,26/04/2024,3.0,Y
+4e09c596-ab45-4af0-bad3-0e2a0413ffc7,Joe Hudson,32.0,South Stevenberg,Urban,Home Decor,Two,0.0,659.48,20%,UPI,2023-06-17,2.0,Returned
+df1e04cb-ca34-4e3c-af58-9a8167c5b29b,John Schultz,,South Patriciamouth,Urban,Electronics,Nice,5.0,1688.75,0,Debit Card,05/10/2024,0.0,Returned
+4510eaad-c0bd-44c0-ad07-ee0b4bed523c,Lisa Johnston,,Port Gail,Rural,Groceries,Pressure,0.0,691.65,10%,Wallet,03/05/2023,2.0,N
+0e082343-eea7-4ea8-bc5a-d19555f01600,Susan Cox,,North Patrickmouth,Urban,Electronics,Present,0.0,753.52,none,Wallet,20/02/2025,1.0,Not Returned
+a5eea4a2-2cde-431f-9dce-8d9b5d96120d,Andrea Fletcher,,East Tina,Suburban,Home Decor,Edge,,979.12,5%,Cash,09/05/2023,1.0,Not Returned
+bcc4f087-7a7e-4c31-a627-61671d121daf,Lauren Haley,57.0,Port Julie,Rural,Groceries,Down,2.0,2663.13,15%,Wallet,2024-05-31,5.0,No
+80e9b300-4471-4067-a5de-f08e5a4b4fdb,Destiny Brown,44.0,Shaunhaven,Rural,Groceries,New,3.0,3173.24,none,Cash,12/12/2023,2.0,Y
+882ae449-b5b7-4c24-b85c-a87b1f69e2b1,Kim Carter,50.0,Laurenland,Suburban,Groceries,Cup,0.0,3132.71,none,UPI,11/01/2025,2.0,Returned
+14860c2d-1659-4dcc-b537-3d14e24c724b,Christopher Mullen,49.0,North Fredville,Urban,Electronics,Same,0.0,4003.4,0,Credit Card,2025-02-28,2.0,N
+344a21b7-dfff-4cea-a687-0a987f0f6662,Lori Carter,47.0,South Michael,Urban,Electronics,Life,3.0,1126.99,0%,Debit Card,31/07/2023,5.0,Returned
+3066478c-4aa0-4842-857f-dd20a50a0a29,Shane Hall,,Robertmouth,Rural,Stationery,Reality,1.0,2476.8,5%,UPI,31/10/2024,1.0,No
+97e642d6-7c74-4895-9388-d128c96d525e,Kerri Kelley,24.0,Torresberg,Rural,Home Decor,Water,3.0,1227.31,5%,Cash,21/08/2024,,No
+428fd941-ca0d-42ce-abf6-f6c44e7674e9,Jacob Roberts,45.0,East Michaelmouth,Urban,Stationery,Compare,4.0,460.3,20%,Wallet,11/12/2024,4.0,Yes
+890a83b4-b639-429e-a929-8691ec93e43d,William Franco,,East John,Urban,Clothing,Analysis,2.0,768.38,0,Cash,31/07/2024,,Not Returned
+42aa0bc7-70de-43fc-a060-917a931414e8,Daniel Mann,,Tiffanyberg,Urban,Clothing,Hotel,0.0,1474.96,5%,Cash,2023-12-09,1.0,N
+889cd33d-299f-4f30-b9b8-1e658a34b26b,Thomas Sullivan,54.0,Mackmouth,Urban,Home Decor,Without,5.0,3968.78,0,Debit Card,21/03/2024,3.0,No
+bd0e01ce-f85b-42d3-8119-6e6d27f31b78,Katie Holland,,Thomasport,Rural,Groceries,Yet,4.0,2998.75,none,Cash,12/12/2023,4.0,Y
+aab9278d-92df-4f99-be7b-178dfb0e7c28,Keith Meadows,,Morganville,Urban,Electronics,Sign,2.0,4469.93,20%,Wallet,2024-11-13,4.0,Returned
+ad91f456-23b1-4ebd-8a42-be3fe671d582,Elizabeth Morales,,South Michael,Suburban,Groceries,General,4.0,2185.92,15%,Credit Card,2024-04-14,1.0,Not Returned
+955bc346-31f5-4560-a42d-10f59bafcc20,Rachael Wang,,North Christopher,Urban,Electronics,Time,2.0,3496.48,15%,Credit Card,20/05/2023,1.0,No
+165e55b5-f526-43b0-abeb-35d1ad5406bc,Jennifer Henry,65.0,Lake Michaelberg,Suburban,Home Decor,Sense,0.0,892.83,15%,Cash,2024-03-18,5.0,Returned
+5f71dcc4-62d8-46d0-9ea0-11cd6d79d8bf,Gregory Parker,47.0,Sawyerland,Rural,Electronics,Dinner,3.0,1006.23,none,Wallet,2025-01-30,0.0,Not Returned
+fe1ad905-bdd4-41f2-b1b8-6ce0e3472e25,Jeremy Martin,62.0,Chandlerchester,Rural,Electronics,Chair,4.0,2701.51,0%,Debit Card,2024-10-24,,Y
+24c58b47-1609-44d1-9912-509096516ec2,John Dillon,,Carlshire,Suburban,Home Decor,Something,3.0,2622.21,0,Debit Card,15/01/2025,1.0,Yes
+a388ca32-68d2-4992-81b1-c62616a48bfa,Jennifer Peters,53.0,East Jacob,Urban,Clothing,I,,958.81,20%,Cash,2024-01-24,,Yes
+d2a2f839-0acf-46ac-bd97-04fe8dca3908,Sandra Torres,31.0,Walkertown,Suburban,Clothing,Class,5.0,3713.16,none,UPI,2023-11-18,6.0,Not Returned
+d590f435-a3fb-4d0b-b4be-28b44cd7e6f7,Becky Wade,,Robertfort,Rural,Stationery,What,3.0,1458.01,5%,Credit Card,29/10/2023,0.0,Y
+1e8e06ed-0748-4379-bea7-f419a510af65,Katherine Arellano,62.0,Biancashire,Urban,Home Decor,Least,0.0,2314.69,0%,Credit Card,23/09/2024,5.0,Not Returned
+79ddcdd4-af97-4bd2-a0c4-594242067d80,Sabrina Brooks,35.0,Port Jordanshire,Rural,Groceries,Article,1.0,1513.03,5%,Wallet,10/02/2025,3.0,No
+b17aff6d-e0d9-4670-b606-fa3451d69f11,Christopher Nelson,44.0,Fieldsstad,Suburban,Clothing,Anything,1.0,2651.37,0,Wallet,30/07/2023,4.0,Y
+efb278fd-a391-4fdb-8794-ac7e4aaa7f99,Cory Burton,,New Karenside,Suburban,Stationery,Future,1.0,1528.43,5%,UPI,2023-11-19,1.0,No
+af5a01cc-d851-45ac-93aa-9b2750f32ab5,Denise Wolfe,,Codyshire,Suburban,Clothing,He,,2482.13,0,Debit Card,13/02/2025,,Returned
+84a6d693-230f-4e69-834d-42fd24caabcb,Richard Jenkins,,North Jeffery,Urban,Groceries,Most,2.0,941.51,0%,UPI,06/01/2025,5.0,N
+e5a5829e-cb8c-4d76-b03c-1503d4e20134,Melissa Cisneros,36.0,South Stevenland,Urban,Groceries,But,,3131.29,10%,Cash,26/09/2023,3.0,Returned
+7ac1b4f9-0472-49f6-ac64-94e021986e3c,Michael Taylor,,Prestonhaven,Urban,Groceries,Source,2.0,4969.49,20%,Debit Card,2025-01-03,1.0,N
+075cc8eb-4dff-49aa-b5bb-abce2c15c4ad,Barbara Anderson,52.0,Lake Jeremy,Rural,Clothing,Car,3.0,4892.31,10%,Credit Card,2023-12-29,,N
+6cc0067f-141f-446e-bb29-ff362155fba8,Rachel Jones,38.0,Toddton,Urban,Stationery,Debate,2.0,4662.24,none,Debit Card,17/09/2023,0.0,N
+83735f49-a8e7-4be3-8b05-aa1408651a6e,Julie Kerr,60.0,North Kevintown,Rural,Home Decor,Somebody,0.0,2422.16,0%,UPI,2023-06-30,5.0,Returned
+9a0f09e9-eb8b-4c11-9fb0-ef34c8497436,Steven Lopez,,Anthonyberg,Urban,Home Decor,Throughout,,4510.85,10%,Debit Card,2023-06-21,6.0,Returned
+946a95a6-f2e4-41af-8702-1755f11cc0a4,Christopher Mason,59.0,New Ashley,Rural,Stationery,Bit,1.0,1851.23,0%,Cash,2024-11-07,6.0,Returned
+8761f9da-0394-49c1-8363-f61f94009191,Corey Campbell,61.0,Lake Coreyborough,Rural,Home Decor,Wife,5.0,1059.01,5%,Cash,03/01/2025,5.0,N
+5dd0855c-7986-4498-b52f-80c9d9ee9678,Cathy Nunez,,East Maryfurt,Suburban,Home Decor,Language,4.0,4551.39,0%,UPI,03/05/2024,1.0,No
+1ce370ed-6857-47ac-ba40-fe3983a5f421,Emily Owens,23.0,South Kathryn,Rural,Home Decor,Sea,0.0,1821.64,15%,Wallet,2023-09-21,,Returned
+150e3388-0a65-42a5-b8dd-f15d8ea035f0,Brian Campbell,44.0,Gloriamouth,Rural,Stationery,Draw,4.0,902.57,0,Credit Card,17/11/2023,5.0,Not Returned
+daf93e99-fc26-4da6-8a64-0fc16843a5c3,Scott Jacobson,,Crosbystad,Urban,Electronics,Country,5.0,2425.6,none,Wallet,2024-06-11,5.0,Y
+ac0e7307-7ddc-4af6-ac95-adb1ffac54fd,Jeffrey Barrett,54.0,North Douglasfurt,Urban,Groceries,Run,4.0,2131.12,20%,Wallet,17/04/2023,5.0,Not Returned
+ecdfd364-bdce-4f65-9a0a-7680fa42156e,Caroline Cox,,West James,Rural,Home Decor,Three,3.0,306.94,none,Cash,09/07/2024,6.0,Returned
+6cb96a2c-d68e-41f0-bb9d-58321f6d5768,Diana Reeves,48.0,Katelynfurt,Rural,Clothing,Heart,,854.72,0%,Wallet,16/02/2024,1.0,Not Returned
+67899d92-f33c-4c36-9a69-0cadaaab5830,Ms. Brittany Gibson,,West Tracybury,Rural,Home Decor,Production,3.0,239.37,none,Debit Card,11/04/2024,4.0,N
+0d87bc72-bce0-4a63-997f-9b8d079bf5e6,Kathleen Johnson,41.0,South Cassandra,Suburban,Groceries,General,,3177.18,15%,Debit Card,21/07/2023,5.0,Yes
+18a95210-9f8c-4c51-9f39-36a54d8131f5,Mary Meyer,28.0,Sparksborough,Suburban,Clothing,Finally,2.0,2359.12,0,Wallet,2023-08-04,,Y
+42fc7edf-813a-4aa5-bd81-0c217f764fce,Rhonda Fernandez,22.0,Port Anthonychester,Rural,Groceries,Up,5.0,338.7,0%,Credit Card,2024-09-03,,Not Returned
+5086f384-733a-454f-a235-91441e7f92ad,Jessica Johnson,,New Donna,Rural,Clothing,State,3.0,2764.19,none,Credit Card,2025-03-18,3.0,Not Returned
+7dd19b8f-2a05-4b69-b4c0-4bdfe27bb6c4,Erik Price,,New Emilyside,Suburban,Home Decor,Reveal,2.0,4134.24,5%,UPI,2023-11-29,,Returned
+8feff87b-79d5-4e9f-b846-0474927c5ea7,Katie Myers,30.0,Garzafurt,Suburban,Home Decor,Practice,5.0,601.85,10%,Credit Card,30/05/2024,3.0,No
+48d0e602-fa4f-4ba8-8437-6d895a4eb9f3,Alfred Williams,,Michaelshire,Urban,Home Decor,Agreement,3.0,4624.71,15%,Debit Card,2024-09-14,3.0,Y
+616d41c8-575c-4669-a00a-06e6e42f0c28,Gregory Howard,25.0,Brianbury,Urban,Groceries,End,1.0,943.82,0%,Cash,22/11/2024,,Not Returned
+15bebdd0-97b0-47ce-8fe5-c13ba5e8c198,Ana Torres,25.0,Geoffreyside,Urban,Home Decor,Gas,4.0,738.07,5%,Wallet,07/10/2023,4.0,Not Returned
+6c27316b-dd05-4827-a863-782e75fe2857,Stephanie Adams,,Chapmanmouth,Urban,Clothing,Huge,5.0,260.68,0,Credit Card,07/05/2023,2.0,Returned
+19048ca7-9291-4493-928a-34f363eac0a1,Ariel Leonard,31.0,Tylermouth,Urban,Clothing,Compare,1.0,3797.3,none,Credit Card,24/06/2024,1.0,Returned
+6f9d1d74-f82c-4ad8-9d03-7a064cad66c5,Mark Dickson,50.0,Port Melissaborough,Rural,Stationery,Field,3.0,4749.08,0%,Credit Card,28/07/2024,5.0,No
+92d2408e-ff08-4739-8c1d-2e430c2b03e4,Darrell Newton,28.0,Lake Meganville,Rural,Electronics,Person,2.0,2691.31,0,Cash,2023-10-30,1.0,Y
+cd1a810d-9101-41d2-9138-978b45fb3e8a,Jessica Reed,61.0,Lake Madisonhaven,Urban,Clothing,Summer,2.0,1895.67,20%,Wallet,25/12/2023,6.0,N
+5037e669-8a3a-4129-a9d8-4c4f6ed338be,James Weber,47.0,Powersside,Rural,Groceries,Couple,3.0,2097.13,none,Wallet,2023-11-26,4.0,Yes
+84274378-b40d-4aef-a0ba-614204c32fed,Laura Lewis,49.0,Adamsside,Suburban,Clothing,Table,1.0,2829.95,5%,Wallet,2025-02-20,5.0,Y
+6f089155-e826-4484-84e4-fe52da4f706b,Molly Brown,,West Steven,Suburban,Home Decor,Effect,4.0,3466.53,none,Cash,2024-07-28,5.0,No
+4cdedddb-c3f9-478c-af70-4164bf164454,Jennifer Dalton,,Lake Jameschester,Rural,Electronics,Example,2.0,4701.5,0%,Wallet,02/08/2023,6.0,Yes
+41a67c90-291c-4da1-a563-0d3a497bc13b,Cynthia Allen,55.0,East Anthony,Rural,Groceries,Subject,4.0,684.17,15%,Credit Card,06/01/2025,2.0,Not Returned
+8f50b11f-7c42-4494-b6d3-2b964f7f963e,Jennifer Bullock MD,25.0,Derekview,Suburban,Home Decor,Strategy,0.0,1759.3,20%,UPI,2025-01-09,4.0,N
+2d0d5e1d-8cfb-437c-a89e-a4df471c10ae,Amanda Sharp,,North Micheleland,Rural,Stationery,Former,,3805.88,none,Wallet,2024-12-22,5.0,N
+e68c1348-1046-43df-9dfe-f8494c485cfc,Stephanie Powers,,South Sherryberg,Suburban,Groceries,Eat,1.0,822.13,15%,Cash,18/07/2024,5.0,Yes
+eed4db89-8010-4995-bc06-e86b922b4fb2,Matthew Carpenter,,Tylerland,Rural,Clothing,Economy,,4168.53,15%,Cash,03/07/2023,1.0,Yes
+503ba8c3-ce83-4e27-85ef-d6701f4d88ce,Kevin Price,,South Jeffery,Urban,Clothing,Both,0.0,3824.84,0,Wallet,16/07/2024,2.0,Returned
+708175fd-4648-4be8-b84c-e7a936cfd2d5,Scott Brown,52.0,Hollyville,Urban,Home Decor,Free,0.0,2757.95,none,Credit Card,22/08/2023,5.0,Returned
+3f10938c-aec7-4267-b990-0a276c7ceeb7,Sherry Giles,20.0,Thomasstad,Rural,Clothing,Term,4.0,4279.08,15%,Cash,04/06/2024,,Yes
+e7bd1db7-f780-4afc-a538-c6a705651e80,Sarah Bates,,Lake Samanthabury,Rural,Stationery,Environment,4.0,1631.05,15%,Debit Card,2023-12-03,3.0,Yes
+f55f2e80-a392-4a4e-8f2c-386f627b0edd,Stephanie Jennings,,Port Scott,Suburban,Stationery,Across,5.0,2855.05,10%,Wallet,2024-06-10,6.0,Yes
+fa5dbd40-ed71-4fe9-a49a-0bf9f5f3943a,Elizabeth Mayer,19.0,West Jason,Urban,Clothing,Voice,3.0,3855.71,0%,UPI,2025-03-14,,Yes
+5132fe68-a1a0-44a9-b058-3380ea77d1d6,Pamela Sullivan,,West Michellefort,Suburban,Clothing,Market,3.0,3849.45,0,Wallet,10/08/2023,1.0,N
+552d4865-d756-4d35-ad2e-ebea69b7d533,Sherri Wilkins,23.0,Lake Jose,Suburban,Electronics,Attorney,3.0,1313.31,0,UPI,31/10/2024,4.0,Returned
+d03cd20a-baae-4bf8-9a24-45256bbe2bd6,Erin Neal,,Lake Darlenemouth,Suburban,Electronics,Strong,0.0,283.15,0,Wallet,2024-01-06,,N
+333822d1-6691-4664-80c9-937022d6f0a2,Emily Miller,,East Zachary,Urban,Groceries,Special,3.0,1950.91,15%,UPI,17/08/2024,,Returned
+d8d2660e-214d-4588-835e-a18aa630b287,Jennifer Ayers,,Mendozaberg,Rural,Electronics,Ever,3.0,916.47,0%,Debit Card,12/01/2025,,N
+53dc4fae-d3a7-4b83-97d0-2f8faffdd43b,Christina Perry,57.0,South Nancy,Rural,Stationery,You,4.0,332.9,20%,Credit Card,2023-08-20,5.0,No
+054edd71-3977-4d2f-9205-1da0e2643336,Tammy Holland,45.0,North Terri,Suburban,Electronics,Decide,5.0,429.62,none,UPI,2025-01-15,5.0,N
+0cbe938d-2b33-4734-9a11-9684b385d9de,Jeffrey Green,,West Georgeshire,Suburban,Stationery,Buy,3.0,2221.26,20%,Debit Card,28/10/2023,5.0,No
+c5fae047-6f66-4013-869d-4cb7b7f5155a,Jody Nunez,,East Jenniferborough,Urban,Home Decor,Young,,4416.39,0,UPI,2023-04-18,3.0,Returned
+49b7e037-4425-4ea7-8839-24d7d03bcbfc,Janet Reynolds,51.0,New Jason,Suburban,Home Decor,Than,,4679.72,0,Cash,05/02/2025,0.0,Yes
+6b17bd75-307a-4acb-ad5c-3c49ba098a27,Ricky Johnson,58.0,Joemouth,Suburban,Clothing,Whatever,3.0,4236.2,15%,UPI,2023-11-13,5.0,Yes
+a5b13afd-af2c-40ac-9539-22c05ea0942c,Adam Anderson,25.0,Terrifurt,Urban,Electronics,Right,4.0,3465.59,10%,Cash,2023-10-17,5.0,No
+6c5ccba7-b55d-4fc1-a22c-c212b69d2f48,Dawn Davis,59.0,North Marvinbury,Urban,Groceries,Market,4.0,2374.38,20%,UPI,19/09/2023,5.0,N
+f077671b-9b3b-4b4c-bf2a-50c05ab383c9,Rebekah Mckinney,29.0,North Jonfurt,Rural,Home Decor,Five,,3969.38,0%,Credit Card,13/03/2025,5.0,Returned
+f7d2a2ee-21da-4db1-9ef3-61c2abd7d3f1,Amanda White,,New Trevor,Rural,Electronics,Group,0.0,1638.13,0%,Wallet,2024-02-08,2.0,Yes
+513bb65c-16f3-4b93-a1c5-7a8877d468ea,Jessica Green,,Bradleyberg,Suburban,Electronics,Money,,1256.6,20%,Cash,2025-02-17,3.0,Returned
+bf715a28-47ef-4886-95b5-b7b0f92edfa1,Jeffrey Orr,65.0,Chloeview,Suburban,Groceries,Nation,,1713.5,20%,Cash,13/02/2025,,N
+50c76baa-2a3c-4137-a486-23dd6f8ef978,Katherine Dodson,55.0,Brownberg,Suburban,Stationery,Arm,4.0,4852.63,15%,UPI,2023-12-07,4.0,Y
+429e09bd-7862-446c-892e-44b72ee25989,John Wilson,,Williamsstad,Urban,Clothing,Security,4.0,1650.8,15%,Wallet,2023-10-03,2.0,Not Returned
+1ccc33c1-7e34-4f69-b52f-bd7e7c360908,Sharon Martinez,60.0,East Mirandaburgh,Rural,Groceries,They,1.0,203.26,20%,UPI,2024-06-16,5.0,Not Returned
+45d5aacb-d294-400f-823c-a34abffbd93b,Mary Lewis,25.0,New Katieburgh,Suburban,Home Decor,Keep,3.0,3230.85,0,Credit Card,2023-08-16,5.0,Not Returned
+7f843004-c4ac-41b5-bf04-2c7b13ab7d2c,Stacy Johnson,,South Nathanielville,Urban,Groceries,Third,3.0,4644.79,0%,Wallet,2025-03-22,0.0,Yes
+75d1d776-14c0-4f6d-8764-51d3275dd459,Mary Gibson,,Brooketown,Rural,Home Decor,Girl,0.0,3967.66,0%,UPI,2023-12-15,0.0,Yes
+73fe7e1d-f36d-4b13-9f53-4d9aa7faf009,Nicholas Navarro,,East Michelle,Suburban,Stationery,Suddenly,3.0,4139.56,0,Debit Card,2023-05-12,2.0,Returned
+0e378b07-cc53-4c3e-92bb-530d486fac8f,Kimberly Guzman,59.0,South Jonathanbury,Rural,Home Decor,Spend,1.0,3506.53,none,Cash,19/08/2024,6.0,Not Returned
+da33562c-0540-46cc-96d5-0b84661f7117,James Powell,25.0,North Kenneth,Urban,Stationery,Suddenly,5.0,3178.65,0%,Cash,2025-02-08,4.0,Yes
+4f62cc9d-ebf4-44d0-8e6d-29bfbc633d6c,Lindsey Howard,65.0,Port Michaelborough,Suburban,Groceries,Might,4.0,3983.95,0%,Debit Card,2024-03-08,0.0,N
+44bb10e0-79f7-438c-a359-d5cee2aa6dc7,Jenny Avila,,Christinachester,Rural,Groceries,Professor,3.0,1073.45,15%,Credit Card,2024-03-18,5.0,No
+577c9717-836a-4887-8a5a-269817cb67b8,Megan Holland,62.0,South Alison,Urban,Home Decor,Radio,2.0,4543.54,15%,Debit Card,03/03/2024,4.0,Y
+6ff6881f-77dd-462b-8a6b-836b157f108b,Robert Evans,25.0,Lake Rebecca,Rural,Stationery,Thought,2.0,831.33,0%,Wallet,2024-05-19,5.0,Returned
+918b8e18-4ba4-4f25-ad7f-d4e285e95c6c,Billy Williams,63.0,New Rogerville,Urban,Clothing,Majority,1.0,4153.56,15%,UPI,2023-10-18,6.0,No
+40dd8895-d015-4898-9187-c9a0b8663c7c,Kevin Mack,,North Joymouth,Rural,Groceries,Country,2.0,737.98,none,Wallet,02/09/2024,0.0,Returned
+0b961346-6498-4a39-97c8-f02c2ea5312a,Shawn Evans,46.0,Toddmouth,Suburban,Stationery,Price,2.0,240.99,0%,Wallet,08/12/2024,3.0,Returned
+eb096202-f77a-4fe1-9761-b09943dbea42,Chelsea Lopez,61.0,Monicaville,Rural,Home Decor,Leader,,752.7,0%,Wallet,2024-12-25,6.0,N
+1ddea07d-651a-4277-817f-319f04961795,Matthew Stevens,39.0,Meltonfort,Suburban,Clothing,Floor,1.0,457.97,20%,Debit Card,2024-05-27,5.0,Yes
+5c58b8ba-9de2-4d3f-b952-f1e8d029733c,Tracey Leonard,,Christopherberg,Rural,Clothing,Address,5.0,126.27,20%,Cash,2024-07-31,1.0,N
+b22f2e91-0411-4e35-90e3-4b2b1ca64c33,Shannon Clark,,Lake John,Suburban,Groceries,Thousand,2.0,2944.39,0%,Credit Card,03/09/2023,1.0,Returned
+30dfc50c-89e0-4b89-8a3e-3238dbb24c33,Randy Hernandez,,Johnsonburgh,Suburban,Clothing,Weight,3.0,794.8,5%,Wallet,06/08/2024,0.0,Yes
+f6bffaa9-71fc-42e6-b3dd-7820bd20c36a,Mr. Jerry Sanchez,,Ashleyfurt,Urban,Clothing,Approach,3.0,3103.36,none,Wallet,2023-08-04,5.0,Returned
+d8fe3fb8-a162-4abf-9a48-280302040c81,Veronica Allison,21.0,Benjaminfurt,Urban,Electronics,Mention,,2822.81,0,Cash,23/12/2023,3.0,N
+ef6e9295-9c8a-4485-b980-50a6974e598d,Ruth Freeman,,New Andrewshire,Urban,Home Decor,Four,4.0,1375.1,0,UPI,2024-05-10,6.0,N
+a5f701fe-e493-498a-8491-be4010423a8e,John Simpson,27.0,Shanechester,Suburban,Electronics,Against,0.0,2343.02,5%,Cash,2024-06-10,6.0,Not Returned
+78202426-3134-4ab8-b9e8-d78149bb1313,David Robinson,54.0,Sandramouth,Rural,Electronics,Catch,5.0,4191.27,0,Debit Card,2023-08-11,3.0,Y
+63ef5e69-b61d-46f5-b916-33574b1bdf3b,Sandra Nunez,61.0,Lauraburgh,Suburban,Electronics,Pretty,2.0,2140.45,5%,UPI,2025-02-21,3.0,N
+1610ac0a-bfcf-414e-b0d1-8df1484f1db9,Betty Gonzalez,27.0,Garciachester,Urban,Home Decor,Yes,1.0,2031.43,20%,Wallet,15/09/2023,2.0,Y
+8e8c71d8-359d-45ae-bc16-89c24dbc217c,Albert Ibarra,,Ericaburgh,Suburban,Stationery,Their,3.0,3011.6,5%,Cash,25/04/2024,5.0,Yes
+ce8b76a2-082f-4fb9-80e3-fe4fe4fb2a3b,Jeffrey Williamson,65.0,New Jeffreyview,Rural,Stationery,Grow,3.0,4027.63,0%,Wallet,03/02/2025,1.0,Yes
+c524f047-0bf2-4b51-84f5-b03e5af1128c,Debra Hernandez,23.0,Lake Brentmouth,Urban,Groceries,Successful,0.0,972.25,none,Wallet,2024-12-07,5.0,N
+1c65f6bd-c179-4596-9772-e63ef6700a62,Rachael Lynch,,Port Annahaven,Suburban,Clothing,Book,2.0,3271.12,0,Debit Card,28/03/2024,5.0,Yes
+34943114-def1-4d58-9e39-2331a142d68f,Brooke Carter,,Gillfort,Suburban,Clothing,Significant,2.0,4177.06,20%,Debit Card,2023-08-15,2.0,N
+5d1ddcb7-a5a7-4280-a77f-ecc6196b58f1,Chad Allison,,Montestown,Rural,Home Decor,Else,3.0,3806.8,none,Credit Card,12/02/2025,2.0,Returned
+4968fdf2-5760-4094-b942-000acf242413,Angela Watson,61.0,Wardbury,Suburban,Stationery,Civil,2.0,4869.03,0,Debit Card,15/01/2025,,Not Returned
+c986f893-6bf5-4c98-8797-2916c0e5d883,Robert Gutierrez,27.0,Villanuevahaven,Rural,Clothing,Study,4.0,2243.04,none,Cash,2024-11-13,6.0,Y
+714cd65e-079e-4b0b-b198-f62e5c9d3ead,Adam Drake,50.0,North Matthewfurt,Rural,Home Decor,Sport,1.0,2885.82,20%,Wallet,18/09/2024,5.0,Yes
+c25a6eb3-64ad-4905-8fbc-63776f1f5c6a,Thomas Hernandez,19.0,Lake Tinahaven,Rural,Home Decor,Find,1.0,1841.74,20%,Cash,2023-08-13,5.0,Returned
+b366ffd1-ae4d-4a19-a2c2-aa2466e9a80e,Elizabeth Newton,,Alanview,Rural,Home Decor,We,,321.77,15%,Debit Card,2024-02-27,0.0,Y
+b3468999-2598-4c54-aba2-a67c9c433e67,Mathew Clay,31.0,Terryfurt,Urban,Stationery,Stand,0.0,4836.93,none,UPI,2024-05-21,,No
+0976e09f-1593-4f42-8d31-29b3e1878e93,Jean Higgins,25.0,New Victoria,Urban,Home Decor,Federal,1.0,2225.61,5%,Wallet,2023-09-08,2.0,N
+4fefc63f-8d41-4660-82fc-e90817c305fc,Nicole Moore,,Port Amberview,Suburban,Electronics,Effort,5.0,1583.72,none,Cash,21/09/2023,6.0,Y
+6c3912ef-b9fc-429f-8dcf-2615c62f3461,Mrs. Amy Watson,19.0,Davidville,Suburban,Groceries,List,,648.37,5%,Cash,13/01/2025,4.0,No
+740173c1-0155-4a51-bca2-c581928b1e4b,David Reese,,West Kevin,Urban,Electronics,Reflect,4.0,521.86,none,Cash,2023-11-25,4.0,No
+ac249f30-92a0-4677-b700-b3c5d0a90840,James Mclaughlin,55.0,West Zacharyborough,Urban,Clothing,Test,1.0,4822.95,15%,Debit Card,2024-12-07,6.0,N
+25848385-1915-4b1c-b44d-a2365c7c0778,Sandra Miller,,South Pamelafort,Suburban,Home Decor,Difficult,1.0,349.52,5%,Debit Card,2024-12-02,0.0,Not Returned
+86b8afef-ad44-4c48-9e8a-10da13fc927f,Justin Maxwell,,Breannachester,Urban,Electronics,Less,4.0,281.38,15%,Debit Card,19/03/2024,5.0,Returned
+bb51cd74-7d52-403f-b2a4-5575ee585967,Samantha Thomas,48.0,South Jennifer,Suburban,Stationery,Carry,,2810.95,0%,UPI,24/09/2024,,N
+1e390f21-8775-4abf-9cff-5f1e83601fb5,Joy Johnson,,New Mike,Suburban,Groceries,By,,201.95,0%,Debit Card,06/10/2024,0.0,No
+1ef11a27-1c3e-4da4-a89b-4fb2da317fd7,Dylan Mills,,West Kevinstad,Urban,Clothing,Floor,0.0,4616.5,none,Wallet,2024-07-18,,Not Returned
+249316b4-ca8c-4366-8729-8d477c659dc9,Kevin Williams,57.0,Pamelaborough,Suburban,Electronics,Cover,0.0,4000.27,none,Wallet,22/11/2023,,No
+1f50e1aa-0088-413a-bd21-94cbbd5a6112,Andrea Williams,,Berryshire,Urban,Groceries,Local,1.0,865.94,15%,Debit Card,03/01/2025,4.0,N
+79a8832f-6097-4a15-8806-82d3567b9583,Sandra Anderson,28.0,New Dana,Rural,Electronics,Sort,3.0,1858.06,0%,Credit Card,07/03/2025,1.0,Not Returned
+ddc8d27b-2623-491a-b2f6-8fe1aacefa98,Ann Weber,,Hughesfurt,Suburban,Clothing,Group,5.0,3126.06,5%,Credit Card,2024-03-22,2.0,No
+e3d9de7f-aba2-4511-b544-b28c0bbad72a,Donald Davis,56.0,Lake Angel,Rural,Electronics,Professor,,4491.96,none,Wallet,2024-06-01,5.0,Returned
+8fa09a4c-4f10-4ae3-b518-174fc5874243,Maria Miller,24.0,New Aimeefort,Rural,Electronics,Morning,5.0,4875.83,none,Cash,2024-12-16,2.0,Returned
+efa99c7e-a883-4c66-9eca-e0c004c72b2a,Tonya Hill,,East Maria,Rural,Home Decor,Those,,4563.83,10%,Credit Card,04/03/2025,4.0,Y
+ce926059-15ab-4cd2-b1b9-05c8945d91a5,Erica Chapman,,Atkinstown,Urban,Groceries,Grow,1.0,1739.58,10%,Wallet,25/02/2025,,No
+dc11eb13-0628-4878-aa39-46072e35c5c8,Janet Davis,41.0,New Garyberg,Urban,Stationery,Cover,,517.65,0%,Wallet,2024-03-12,3.0,N
+4e8a10cb-277b-41ea-96f1-e5cbc4af9dc9,Meghan Brown,,Howardton,Urban,Home Decor,Fire,4.0,4028.67,15%,Cash,2023-10-23,3.0,N
+69aec17b-2478-4b7d-91ee-3cc819474d1a,Deanna David,45.0,North Jamesshire,Suburban,Electronics,Economic,4.0,515.41,0%,Cash,2024-02-04,2.0,No
+62928cdc-8121-4051-809c-a132823500f9,Debra Flores,,Jonestown,Suburban,Home Decor,Involve,0.0,4890.89,0,Debit Card,2024-04-24,1.0,Not Returned
+04c47757-e2db-4ce3-a9ea-8b103bd66a06,Victor Leonard,51.0,Port Angela,Rural,Home Decor,Stock,0.0,4555.23,5%,Wallet,2024-08-12,,Y
+722be4aa-6820-4025-9178-8bdd4dfb1b6e,Mark Harris,43.0,West Amber,Suburban,Electronics,Concern,0.0,3517.61,none,Credit Card,2023-07-14,6.0,Not Returned
+6c7b0a77-f3de-4bc2-899b-ef4b3ec2e72a,Kristen Williams,,Woodwardport,Urban,Electronics,Read,2.0,3652.98,0,Debit Card,2024-12-05,0.0,Returned
+ebfbc97a-eefa-4d76-8f67-a174002394e2,Mr. Ryan James,,Meganborough,Urban,Clothing,Pay,1.0,3809.53,10%,Wallet,2023-08-16,,Yes
+29529420-0ba4-432b-8804-044c82a4e22e,Kristine Turner,,Haleberg,Urban,Electronics,Share,3.0,3686.73,none,Credit Card,19/01/2025,2.0,Y
+6e951719-e0d6-4969-878a-943affb2bfe1,Jonathan Pham,55.0,Cynthiamouth,Suburban,Clothing,Explain,0.0,2320.42,10%,UPI,2024-06-13,1.0,Not Returned
+57750d0f-5256-4276-bba7-5385a98afcb0,Tyler Murphy,,Lake Sandra,Rural,Stationery,Politics,,3600.32,20%,Cash,2023-10-16,3.0,No
+ac367cb9-0273-4e68-a6c5-1969011871cf,Justin Horton,44.0,Farmerside,Urban,Electronics,Beat,,2326.12,10%,Wallet,2024-04-12,,N
+13d88e04-a6b9-4653-a62b-3d30e070bdb9,Stephanie Cabrera,,Chambersstad,Rural,Stationery,Tax,3.0,1152.44,5%,Debit Card,2024-12-09,6.0,Not Returned
+63021daa-5ba3-449c-99ef-827fd3d4ddd3,Randy Terry,,North Stevenborough,Rural,Home Decor,Light,4.0,2963.09,0,Cash,25/01/2024,5.0,N
+c227e0f2-0510-4943-be3e-b6f738b595b9,Thomas Howard,50.0,Port Christinaport,Rural,Groceries,System,2.0,2475.35,15%,Wallet,15/04/2023,3.0,Not Returned
+7e6a3ea7-fae9-4634-bbf8-5406389d2267,Amanda Vasquez,44.0,North James,Urban,Clothing,Tend,1.0,4725.94,0%,Debit Card,16/10/2024,3.0,Returned
+47003fcf-deb2-4490-9c66-fdd96565e779,Kathleen Arnold,,North Brianna,Urban,Groceries,Skill,3.0,676.94,0%,Cash,2024-08-15,3.0,Y
+91e52e86-eefe-42c3-8276-bfe1209f4ff2,Sierra Daniel,,Jamestown,Urban,Electronics,Room,3.0,338.39,0%,Debit Card,28/05/2023,0.0,No
+ae411155-40bf-4f6b-9d4d-0658886edae8,Jordan Pace,,Port Sheilachester,Suburban,Home Decor,Three,3.0,2146.12,20%,Debit Card,15/09/2024,1.0,Returned
+84aeffbe-ae1f-4957-9f28-e41746273272,Isaiah Blake,,North Joshua,Urban,Clothing,Kitchen,0.0,2573.34,15%,Credit Card,2024-02-18,3.0,N
+6450dd3c-0152-4e60-90f5-3bd872e89652,Brad Armstrong,,Lake Jeremiahchester,Rural,Clothing,Bad,3.0,1997.45,15%,Credit Card,2024-05-25,0.0,Returned
+544810de-2a1b-46e3-b266-84ff3ffef652,Mark Davis,37.0,Reynoldstown,Rural,Stationery,Person,0.0,2902.77,none,Credit Card,20/03/2025,1.0,Not Returned
+d72b8154-5594-49c6-af60-250ea05501d3,Brian Allen,50.0,Marissamouth,Urban,Stationery,Nature,2.0,4790.73,20%,Cash,2024-12-17,1.0,N
+c6978476-12aa-48cf-b18c-55813c9b3b84,Jessica Davis,,Rileyland,Urban,Stationery,Ask,0.0,3955.11,10%,Debit Card,14/12/2024,5.0,Not Returned
+e3dc8702-5033-44b1-a09c-f7af0889360f,Ana Anderson,,Brownchester,Urban,Stationery,Attorney,3.0,2508.22,5%,UPI,20/03/2025,1.0,N
+0d5d2f64-8f2b-492b-8e48-4034ad74dd43,James Davis,36.0,Halltown,Urban,Clothing,Long,5.0,661.76,5%,Credit Card,26/06/2023,2.0,No
+e143a0ad-6d98-467e-8b8f-e98176d6682f,Ashley Curtis,29.0,South Zacharyshire,Rural,Electronics,Data,5.0,3425.18,5%,UPI,31/01/2024,0.0,Y
+b69aca1e-985d-454b-8325-58201a49de98,Richard Lee,25.0,Lake William,Urban,Groceries,Hear,3.0,798.06,0%,Debit Card,2023-06-30,,N
+71d2e63f-9ef0-4577-b980-e5217b3cfc10,Chad Williams,35.0,West Breanna,Suburban,Home Decor,Must,4.0,2592.24,20%,Debit Card,29/02/2024,6.0,Yes
+956b212f-4faa-4851-9b95-1652c11ea16b,Patricia Hernandez,35.0,Carrieport,Urban,Stationery,Home,2.0,241.64,0,Cash,26/08/2024,6.0,Yes
+ada517e3-a85d-41db-9620-ed148486b704,David Fuentes,31.0,South Mauriceborough,Suburban,Stationery,Push,,2285.31,none,Cash,2023-04-14,0.0,Returned
+576ff264-1182-48e7-8907-0c973385db3b,John Holt,,Greenemouth,Rural,Clothing,Together,4.0,4810.63,20%,Cash,13/03/2025,0.0,Yes
+9db8ef7e-55ed-4864-b68b-6ba090ebba12,Gary Garcia,,South Jeffreytown,Rural,Groceries,Purpose,0.0,1439.18,0%,Debit Card,2024-06-30,6.0,Not Returned
+9fb938e0-776e-43e6-baf3-3cc5b176e71f,John Tate,,Lindsayfurt,Urban,Home Decor,Describe,5.0,322.88,0,Credit Card,2023-09-28,5.0,Returned
+01b8c14a-fd68-45d7-937a-430a2f2aa5e8,Benjamin Johnson,,East Kellyborough,Rural,Clothing,Program,5.0,4403.57,10%,Wallet,12/02/2024,5.0,Returned
+0b3d58ad-5c23-4306-83f9-f409e9a74800,Christina Mitchell,19.0,West Jennifer,Rural,Electronics,Group,5.0,1773.99,15%,Debit Card,05/07/2024,,Y
+322c3dae-2db4-4428-bef7-839f8df4097b,Ryan Lozano,,Port Ericafurt,Suburban,Stationery,Real,5.0,3396.26,15%,Credit Card,2025-01-25,1.0,Not Returned
+efa52c8a-56a0-4943-9c68-7714e2901d96,Jesus Wood,46.0,Donnahaven,Suburban,Home Decor,Successful,0.0,2739.38,none,Debit Card,09/12/2024,2.0,Not Returned
+b6004df4-e0de-4676-af08-2598e1b4b7ef,Charles Glass,,East Amanda,Suburban,Groceries,Run,,4211.81,none,Wallet,04/08/2024,3.0,Yes
+fa1b7659-6df6-4800-997c-0dc9516546ca,Tammy Hines,30.0,Port Amanda,Rural,Clothing,Strategy,,3816.26,0,Cash,23/01/2024,1.0,Y
+a1243bea-0da2-4154-bf46-a43a53e2e047,Shelley York,63.0,Clarkland,Urban,Groceries,Still,3.0,4839.75,5%,Wallet,01/08/2023,6.0,N
+109b851a-9d69-42c9-a9db-47b9ca7ecb33,James Khan,30.0,Victormouth,Urban,Stationery,Country,2.0,2888.6,15%,Cash,2024-04-07,5.0,Returned
+b1cb62d0-8685-42d2-9fb6-8406b6658a34,Dr. John Perkins,,East Jeffreyborough,Urban,Electronics,Live,0.0,1372.16,20%,Debit Card,2023-12-13,3.0,No
+4e55f3fe-37f5-4238-a559-b3653c00a0f0,James Moore,59.0,Jonathanland,Suburban,Home Decor,Center,,109.58,15%,Wallet,06/02/2025,6.0,Not Returned
+84d16f5e-71cb-49b3-8b88-445a1582de78,Kevin Marshall,64.0,Ronaldmouth,Urban,Clothing,Lay,0.0,2528.32,20%,Wallet,2024-11-11,6.0,Yes
+51284026-7f5e-4b6b-8df4-01375e15433b,Alexander Alexander,54.0,Deannastad,Rural,Groceries,Week,3.0,125.28,10%,Wallet,2024-02-19,,Yes
+8346452b-8073-4a66-97b4-db174b658517,Angela Hill,58.0,North David,Urban,Home Decor,Here,3.0,1064.7,0%,Wallet,2023-06-11,4.0,Yes
+325769cd-5571-476b-b347-4b1b8bc85d37,Danielle Mcgee,,Jamesberg,Urban,Clothing,Top,1.0,4218.49,10%,Debit Card,2023-05-07,,N
+e991e6d5-8b0a-4802-bd64-e8d6b757ec69,Randy Campbell,,Kristafurt,Rural,Electronics,Young,4.0,3901.17,20%,Credit Card,2024-11-12,2.0,Yes
+a7c24c68-c1ff-4427-9477-d9d7d26580c0,Matthew Hays,26.0,Port Raymond,Suburban,Electronics,Dream,,1949.24,none,UPI,2024-02-17,1.0,Yes
+3bd54863-7974-490b-b5ba-5e93bfc77282,Rachel Todd,,Petersonland,Suburban,Home Decor,Form,1.0,422.37,0,Credit Card,2024-10-20,0.0,Returned
+f1224f43-c527-4f35-adc5-60443016b62b,Christine Cole,57.0,West Donberg,Suburban,Home Decor,Focus,0.0,1242.25,20%,Wallet,2025-01-23,0.0,Not Returned
+a8aa454e-cf76-470a-bff2-e80a027a76dc,Gina Barnes,,Farmerside,Rural,Groceries,Firm,0.0,1764.12,0,Credit Card,01/11/2024,2.0,Yes
+c90d35aa-914c-411c-85f3-0bc59642b052,Charles Rowland,,Ashleyshire,Suburban,Home Decor,Trial,2.0,3005.14,none,Wallet,2023-12-17,2.0,Returned
+f2dd85f6-3446-40f0-a19e-17fffaec8f42,Joseph Lopez,21.0,West Ashleymouth,Suburban,Stationery,Purpose,0.0,1011.02,10%,Wallet,2024-02-05,6.0,Yes
+1ab444a7-2be2-4bd1-97de-ace84dfd3ecd,Cassandra Serrano,,Johnsonborough,Suburban,Stationery,Available,0.0,1624.82,20%,UPI,02/03/2025,,No
+34b55b86-48a8-4587-a2c9-f4fcf686cfa7,Matthew Jones,21.0,West Aprilburgh,Rural,Stationery,General,,2636.63,0,Credit Card,15/03/2025,1.0,No
+283379b8-641f-49aa-a92e-33b9e8e977f0,Betty Barnes PhD,39.0,Friedmanborough,Rural,Home Decor,Case,2.0,4884.9,0,Wallet,2025-02-03,4.0,Yes
+d161a381-6ea4-4405-8f4c-3f0b34a73f9d,Karen Munoz,,Brianahaven,Suburban,Groceries,Sense,3.0,4274.84,20%,Credit Card,12/02/2025,,Returned
+01e7cde7-33a2-4a5f-8683-4cc5757e2b43,Jill Summers DDS,62.0,New Mark,Suburban,Stationery,Outside,,2530.06,5%,Cash,20/09/2024,1.0,No
+937d6fb1-7673-4597-b5cf-f7557daf76e7,Brandon Lucas,29.0,Reedport,Suburban,Electronics,Include,2.0,4055.63,15%,Credit Card,18/02/2025,,N
+2cd51392-d98f-4e83-8f5b-294dd2cc4853,Christopher Williamson,,Ellisburgh,Urban,Electronics,Say,2.0,797.77,15%,Cash,27/07/2024,2.0,Not Returned
+f2189128-b2da-41f7-a4bf-c76d1874ed7d,Stephen Moore,39.0,Elizabethland,Urban,Groceries,Save,,1172.83,0%,Credit Card,22/06/2024,3.0,No
+e8a2f417-379e-43dd-a6f8-dac3b8efd250,Willie Tran DVM,,Port Danielmouth,Rural,Electronics,It,0.0,4562.18,5%,UPI,2024-10-23,5.0,Not Returned
+818d72af-3516-467d-80b5-50232a32e553,Alexander Fowler,60.0,Jamesfurt,Rural,Stationery,Total,0.0,2335.4,0%,Wallet,2024-03-23,5.0,Y
+4027b283-02bf-4f1c-89ab-99a3658c72ee,Thomas Murphy,,Washingtonland,Rural,Clothing,Beautiful,0.0,680.62,10%,UPI,2023-09-05,2.0,No
+f334685d-b6ad-478c-be06-f427a832a228,John Ramirez,,East Mary,Urban,Clothing,Policy,5.0,4612.97,none,Cash,06/06/2024,4.0,Returned
+88df12c1-1fc8-428d-8b4d-10792d5f60d9,Caroline Powers,49.0,Lake Joshuamouth,Rural,Electronics,Help,5.0,4376.97,none,Wallet,2023-06-25,5.0,Returned
+e4872e77-08d1-4094-b6e3-b91b3777d823,Cindy Horton,,South Hannahmouth,Suburban,Stationery,Area,0.0,920.42,15%,Wallet,24/08/2023,2.0,Not Returned
+609cfe40-c5bc-4449-8c75-4a170131c601,Tanya Brooks,,East Christopher,Rural,Home Decor,Know,,2674.83,15%,Debit Card,2024-07-15,,N
+d20e0734-564d-46aa-83ba-33a0fd42269c,Michael Walker,43.0,Port Maryburgh,Suburban,Home Decor,Shake,4.0,1175.68,10%,Wallet,2023-04-29,4.0,No
+1b912adc-8333-44f6-aa6a-01490b44676d,Erica Sims,,New Randall,Rural,Clothing,Later,2.0,1347.19,5%,Cash,2023-08-15,,Yes
+5b48961f-1b1b-4cd7-b6ba-49183b7f1998,Adrian Valdez,,South Jasonbury,Suburban,Clothing,Attorney,4.0,2610.08,0%,Wallet,10/07/2023,6.0,N
+9fb886b2-a662-4b92-8748-ffb3d0a96757,Austin Robinson,59.0,Katrinafort,Suburban,Electronics,Blue,2.0,221.12,15%,UPI,2024-08-31,0.0,Y
+ec16ddb7-fd93-454a-8a90-001c8943314f,Carolyn Haley,,Tinafurt,Urban,Stationery,Resource,1.0,3950.78,10%,Cash,12/10/2024,2.0,Yes
+2207cb65-b197-4ed1-857a-e3fff8ed08ae,Mark Henson,35.0,Tiffanyfort,Rural,Stationery,Author,0.0,1325.12,0,Cash,2025-03-26,,Not Returned
+95c4fab0-e97f-495d-9bc8-d6f60484a1b3,Jorge Harmon,,East Andrewville,Rural,Electronics,For,3.0,141.82,0%,Wallet,2023-12-24,5.0,Y
+3e59034b-c1da-4b7d-adb2-094bbce7e298,Amy Brooks,65.0,Jamesfurt,Suburban,Groceries,Democratic,2.0,4340.78,10%,Debit Card,2023-10-08,3.0,Not Returned
+b9add00a-ec64-4a9b-bcf1-c29e09b4413c,Theresa Stevenson,38.0,Dennismouth,Suburban,Home Decor,Quickly,3.0,3640.3,15%,Cash,18/08/2024,6.0,Yes
+cab21438-8557-4c6c-8a23-b722c2afba28,Maria Roberts,37.0,East Melaniemouth,Suburban,Clothing,Guess,0.0,1936.03,20%,UPI,09/12/2024,1.0,No
+e81909ce-0dd7-4ac2-8a10-55c534b0738e,Virginia Solis,,New Monique,Suburban,Stationery,Near,0.0,3460.24,15%,Credit Card,2023-10-13,0.0,Not Returned
+018c0313-a139-4d49-b13e-90352efcd60c,John Mckay,,Lake Victoriaborough,Suburban,Groceries,Car,3.0,4618.51,10%,Wallet,13/12/2023,1.0,Returned
+d4cae432-8c81-4e53-97b6-a4612c7604c1,Christine Romero,,Hardyport,Urban,Groceries,Community,3.0,1022.86,5%,Credit Card,2023-06-18,0.0,Returned
+2d2ae08e-6c8c-4d0e-beb3-66fd3291bc95,Elizabeth Ray,19.0,West Michelle,Urban,Electronics,Medical,5.0,257.09,0,Wallet,19/10/2024,3.0,N
+65f35984-5c0d-4fcc-b8f9-60bdf37599aa,John Henderson,,Wolffort,Rural,Electronics,Again,1.0,1526.42,20%,Cash,09/06/2023,4.0,N
+154ebf91-daa2-42b4-ad69-e88c61a4b230,Tammy Larson,,New Jessica,Rural,Electronics,Even,2.0,2016.42,5%,Wallet,2024-11-19,0.0,Returned
+48817b98-741f-4545-8e4c-01f676b1d8fa,Larry Jones,,Lake Taylor,Urban,Stationery,Clear,3.0,736.67,10%,Debit Card,2024-01-28,4.0,N
+dc956e31-0349-4b41-8111-fa05308b5146,Molly Henry,30.0,Bentleystad,Urban,Home Decor,If,4.0,2562.13,0,Credit Card,2025-03-19,4.0,Y
+969b6b4b-fcce-4ef8-a41b-c4c24eccb0ab,Stephen Riddle,47.0,South Sarahburgh,Rural,Electronics,Daughter,4.0,2676.7,20%,UPI,2024-04-22,4.0,N
+c571f9ab-4158-4d90-b504-4d156fb138c2,Miranda Hicks,43.0,Reidstad,Suburban,Groceries,Same,,1799.23,none,Cash,2024-11-20,6.0,Y
+6c8de840-ed30-4556-a2a5-3193a6a1cc2b,Dana Johnson,54.0,Crystaltown,Suburban,Electronics,Save,2.0,2343.36,0,Cash,2023-05-22,0.0,Not Returned
+9afdd464-42e6-418c-a5db-be8da5349425,Michael King,60.0,North Darryl,Rural,Groceries,Best,5.0,1441.5,0,Wallet,06/09/2024,3.0,Y
+65cd7fd1-6264-4ce8-aab8-d5beb62c09bf,Valerie Miller,,South Gabriel,Suburban,Home Decor,Late,0.0,4977.05,5%,Cash,20/08/2024,2.0,Yes
+f7ba19f9-802a-43cc-8d5e-42e8b11c377f,Stacie Willis,,Goodwinland,Suburban,Clothing,Boy,,2364.62,5%,Wallet,2023-10-21,1.0,Not Returned
+582a2099-cc2b-4f49-86d5-3a909296ae08,Debra Clark,,Haletown,Rural,Home Decor,Concern,1.0,285.1,0%,Wallet,14/08/2024,0.0,Not Returned
+11e121c7-18cc-4417-8067-743e7de1936b,Jennifer Butler,,Jessicaburgh,Suburban,Groceries,Control,,2787.3,10%,Cash,2025-01-01,2.0,N
+32b1792b-2263-460a-b43c-6fef2fb7e9bd,Mr. Brian Bradley,43.0,East James,Urban,Electronics,So,5.0,968.46,5%,UPI,24/01/2024,2.0,Not Returned
+4264e318-311f-4d4a-8258-9de2cf265489,Dr. Jessica Durham,52.0,Port Danaland,Suburban,Electronics,Finally,1.0,971.91,0,Debit Card,2023-08-27,,Not Returned
+107380cb-46d9-434d-9feb-21c760b2d14b,Kevin Woods,56.0,North Brucetown,Urban,Home Decor,Reduce,4.0,2014.03,0%,Cash,2023-06-13,2.0,Yes
+18caa0a9-0ab7-4b5d-bcd4-9681ca097b17,Ricky Bennett,44.0,Sarahfort,Urban,Clothing,Sometimes,1.0,4552.91,10%,Cash,2024-07-03,,Yes
+5eebc618-5628-4768-adf0-ac3c9ab8180f,Grace Edwards,28.0,West Elizabeth,Urban,Home Decor,Human,0.0,1180.78,5%,Debit Card,25/12/2023,2.0,Not Returned
+df8200b8-5b24-4b54-b9ad-97ae0ea761a6,Brett Bryant,,Hardyberg,Suburban,Electronics,Agree,2.0,1681.13,0,Cash,25/07/2024,,Returned
+478b2f00-87d7-4309-9e77-21561f76043f,Nicole Wright,38.0,Montgomeryfort,Suburban,Groceries,Myself,4.0,1684.5,5%,Wallet,18/07/2024,,Not Returned
+fc76627b-00cd-41a8-b01c-8108a904babd,Teresa Morris,,Morganmouth,Suburban,Stationery,Resource,1.0,3284.73,0%,Wallet,2024-02-22,5.0,Yes
+667139de-7c0a-4f90-9b54-d2273bca7ff6,Rebecca Bailey,,Hatfieldville,Urban,Stationery,Similar,0.0,3591.4,none,UPI,2024-03-18,2.0,Returned
+b641d449-31f0-4021-9b6f-be204b3a9a83,Joseph Armstrong,39.0,East Tylerland,Rural,Clothing,Fish,,3421.71,none,Wallet,31/01/2024,0.0,No
+fcba6c80-8c7a-4939-bf0d-d3c2ac4dcd33,Carol Griffin,50.0,South Elainebury,Rural,Stationery,Either,4.0,3081.81,20%,Credit Card,13/01/2025,1.0,N
+a8e50e05-f1b7-4d1e-80d5-28282ba17f78,Ashley Holder,57.0,East Sarahmouth,Urban,Groceries,Weight,4.0,1613.36,0,UPI,19/09/2023,2.0,No
+b81bda1d-386a-4050-87c5-8839c42cd0ba,John Merritt,,Lake Derekside,Rural,Clothing,Property,,843.19,10%,Cash,30/01/2024,4.0,Yes
+b118cad6-cba8-4a28-9727-30d87df102c2,Danny Johnston,19.0,Lake Matthewfurt,Rural,Clothing,Ready,,2652.28,15%,UPI,22/10/2024,1.0,Y
+db2c0eb7-f75c-4751-8fd8-acb4c8fb2050,David Green,62.0,Christopherland,Rural,Home Decor,Grow,2.0,4542.5,0,Debit Card,18/08/2024,1.0,Not Returned
+be9f44cb-302b-4401-afed-098b979a7368,Laura Anderson,22.0,Stephanieshire,Urban,Groceries,Since,0.0,3185.93,5%,Cash,03/11/2024,6.0,N
+891d47fe-970e-487a-8fd7-b0f24f908490,James Henderson,33.0,Laurenberg,Suburban,Home Decor,Nature,0.0,3003.89,none,UPI,09/04/2023,3.0,No
+1b493710-38de-44f1-973d-18559a039d06,Joshua Murray,,Port Sherri,Rural,Home Decor,Third,5.0,1300.13,10%,Cash,04/09/2024,4.0,No
+25bdab14-74ae-4b96-ae13-3adc7ff5088e,Brianna Ortega,,New Lukehaven,Suburban,Home Decor,Risk,4.0,492.08,0%,Debit Card,2023-09-25,6.0,N
+b4dea4a4-d900-4a4b-bf31-78464600fc5f,Lynn Lewis,,Janetfurt,Suburban,Electronics,Artist,0.0,3825.59,none,UPI,2023-07-12,0.0,N
+b77dff3a-d3f0-4058-a717-7e595548f613,Nicholas Cochran,,Port Kimberlyfort,Suburban,Clothing,Short,3.0,2808.98,10%,Wallet,2024-12-27,3.0,N
+a8c4a0ca-d0a4-431a-bc00-f3e74c91ef0e,Caitlin Smith,30.0,Rogersfort,Urban,Electronics,Happen,,452.5,10%,Credit Card,2024-02-06,6.0,N
+8720d00f-1263-41a0-a41c-b619643058d9,Diane Leblanc,,Davismouth,Suburban,Clothing,Soldier,4.0,2508.12,15%,Debit Card,16/11/2024,,Not Returned
+0ddb0654-ce19-4f51-9da8-b3919494065d,Michelle Ellis,28.0,New Devin,Suburban,Clothing,Safe,4.0,4963.12,5%,UPI,2024-12-12,1.0,Returned
+35b33f54-2513-4cd4-a5b0-15b44a84525f,Paul Moss,,West Jessicashire,Suburban,Groceries,Blue,,3211.4,0%,Cash,16/04/2024,6.0,Yes
+25c978b5-dbc2-4e42-bd0d-4cb1c9167a93,William Shelton,60.0,North Cody,Suburban,Stationery,Matter,1.0,3191.67,0,Wallet,2024-09-15,,Not Returned
+faf36aec-1e0a-4157-8d6e-d01ef1efa963,Gina Hamilton,28.0,Lake Jennifer,Urban,Electronics,Election,5.0,1346.01,20%,Wallet,25/08/2023,3.0,Not Returned
+7d169638-658a-4377-bda8-b37a1e69d7ef,Kyle Thompson,,Parsonsland,Rural,Clothing,Star,4.0,2640.83,10%,Debit Card,2023-05-04,2.0,No
+61d15db2-a67a-470a-9175-3cd1dd69cf6b,Matthew Richardson,23.0,North Christopherfort,Rural,Stationery,Put,4.0,2971.79,0,UPI,2024-04-02,0.0,Not Returned
+05e514ff-3995-47cb-827e-e0b2e8920b25,Victoria Mendoza,37.0,Port Brittanyfurt,Urban,Home Decor,Member,4.0,3768.78,0,Credit Card,08/09/2024,5.0,Not Returned
+9248c8c8-4c61-4a43-af04-1c76b3e6922d,Frederick Reeves,45.0,South Lisa,Urban,Clothing,Again,3.0,2672.31,0,Cash,2024-08-20,0.0,Not Returned
+c891c9c6-8952-4c51-9145-3eb78e59f579,Katherine Stone,54.0,Port Karenville,Urban,Groceries,Course,1.0,2483.71,20%,Credit Card,2024-02-07,4.0,N
+015ce9f4-2e10-4355-b1f9-ab31995ec9de,Rebecca Martinez,58.0,New Jamie,Rural,Groceries,Color,4.0,1370.82,none,Credit Card,05/02/2025,4.0,N
+c0c91cd8-d9f8-424e-81bb-0e0d8fffc06d,William Hunter,55.0,Tammyburgh,Suburban,Home Decor,Land,3.0,710.94,5%,Credit Card,15/06/2023,0.0,Yes
+0bd18d4a-4cf4-4edd-bf93-04fa00059b9d,Kelly Patton,20.0,Taylorfort,Urban,Stationery,Run,,3783.81,5%,Credit Card,31/08/2024,5.0,Returned
+ff2e1955-fc6b-466b-a929-15a385cd74bf,Joshua Clark,,Lake Loribury,Suburban,Clothing,Although,0.0,4667.43,15%,UPI,2023-12-07,5.0,Y
+d527189b-db28-45da-8cb9-be7b24444f64,Chad Arnold,57.0,Joshuachester,Suburban,Clothing,Bad,4.0,4710.86,0,Credit Card,01/09/2023,4.0,N
+a65741db-61bc-4c56-82bb-8f6341458abc,Jennifer Miller,,Ericaberg,Rural,Groceries,North,1.0,3653.58,10%,UPI,08/06/2024,0.0,Returned
+44f760a8-bb90-4511-a12b-61ae12101787,Melissa Lee MD,,South Lorraine,Urban,Clothing,Four,2.0,2623.08,0,Credit Card,2023-09-13,6.0,Yes
+f6c9dd38-06a2-474c-a102-56376f023006,Angela Martinez,43.0,Lake Amyland,Suburban,Home Decor,Girl,5.0,3421.85,10%,Wallet,2024-12-09,,N
+55616496-e8c4-4e4c-9ce1-bcc216c702a1,Brianna Yates,63.0,Alejandrofurt,Rural,Stationery,Doctor,5.0,3697.96,0%,Debit Card,17/08/2024,2.0,No
+ecf678c0-c861-4afa-9ae1-7565f3a80aa0,Joseph Hutchinson,,Davisstad,Urban,Home Decor,School,0.0,4004.42,0%,Credit Card,27/01/2024,6.0,Not Returned
+4563cafe-8d31-4f34-8830-effedd8abf0a,Stephanie Jackson,62.0,Whiteside,Urban,Home Decor,Ok,0.0,1292.44,10%,Credit Card,25/06/2024,4.0,Not Returned
+7a139e90-6714-472a-9981-5a41e1cc233c,Deanna Parks,,Lake David,Rural,Home Decor,Human,3.0,4522.98,none,Credit Card,2024-07-12,,No
+eb1efddc-0d88-4933-8472-5ab7bc44a417,Vanessa Zimmerman,54.0,Lake Charlotte,Rural,Clothing,Seat,3.0,543.16,0,Wallet,2024-06-21,6.0,No
+5a9fd637-fc7a-42dc-b05f-aecd2edff02e,Kathryn Hill,32.0,Meyerbury,Suburban,Electronics,Focus,5.0,3304.21,none,UPI,28/03/2024,0.0,N
+4e3fd50b-f28c-435f-9641-d960dba0bdec,Erik Davis,,North Jessicaland,Urban,Clothing,Company,2.0,1767.17,20%,Wallet,2024-08-13,2.0,Not Returned
+492d85a7-be50-4500-95a7-5ed90eb2858f,Katherine Baxter,,Rhodesberg,Suburban,Clothing,Media,5.0,1622.91,20%,Cash,2024-06-27,1.0,No
+ad411244-ff79-40f4-af64-257283d7cafc,Melissa Sullivan,38.0,Port Julie,Suburban,Groceries,Send,5.0,622.27,5%,Wallet,2024-04-28,4.0,N
+5855e4a0-bfea-4d2a-88c9-82ecb3dd0cfb,Patrick Tapia,62.0,New Shaneburgh,Rural,Clothing,Represent,,3047.18,10%,UPI,2024-03-03,3.0,Not Returned
+e75f58ba-8605-4bef-8382-8725e1c63384,Benjamin Franco,48.0,Stephaniechester,Suburban,Clothing,Mission,,1439.92,none,Wallet,30/03/2025,2.0,Returned
+1cfcdf01-f840-4eea-9f8f-85382ba4d656,Michael Decker,32.0,West Kevinport,Urban,Home Decor,Evidence,2.0,848.24,0,Wallet,27/01/2024,,Not Returned
+919fa02e-a194-47b1-bcef-40f800926d61,Thomas Hickman,,South Patriciafort,Suburban,Home Decor,Art,4.0,4956.21,20%,Wallet,20/09/2023,3.0,Y
+541bf89c-75d9-407c-9d93-63ea0182144d,Brian Bailey,43.0,South Michael,Urban,Clothing,Blood,,1483.58,10%,Debit Card,2024-01-09,5.0,Returned
+8772df4a-15b1-44a6-b292-45ba7df6bc1d,Brittany Martinez,59.0,Smithview,Rural,Groceries,Draw,3.0,4264.07,0,Wallet,2024-03-07,1.0,N
+5d4f9715-4c9d-4049-9fd2-bec365363c77,Clarence Cain,30.0,South Dianamouth,Suburban,Stationery,Color,2.0,4496.37,10%,Credit Card,2024-04-07,5.0,Not Returned
+017cc74e-6f18-4343-bf41-5c985a8e8f05,Seth Gonzalez,21.0,West Billy,Suburban,Home Decor,Indicate,,1945.12,15%,Cash,2023-07-25,3.0,No
+08175dd0-e6a7-4af7-94ca-6897be71cd60,Cristian Mendoza,45.0,Davidfort,Rural,Home Decor,Oil,3.0,4903.36,0,Cash,29/02/2024,2.0,Returned
+209f839f-b6dd-4d11-ae86-4837ccc10250,Phillip Macias,,Andersonville,Rural,Electronics,Structure,,2043.56,0%,Wallet,2024-04-26,4.0,Returned
+80000fac-5818-48c5-a7d1-99902049a289,Michael Williams,18.0,Russelltown,Urban,Electronics,Leader,4.0,1448.56,0,Credit Card,24/04/2023,0.0,Y
+15263fef-7c65-4bfb-883f-ca724a1a7c2e,Danielle Hernandez,35.0,East Juan,Rural,Groceries,Building,5.0,212.83,20%,Wallet,14/04/2024,4.0,N
+3f529dae-b371-464d-be87-a17b4376bff9,Jessica Wells,22.0,Lake Jessicaburgh,Suburban,Electronics,Current,1.0,1561.98,10%,Wallet,2025-02-07,0.0,Y
+2612e9e5-a26d-48f6-a100-1bc89758a25f,Carlos Johnson,63.0,East Ronald,Urban,Electronics,Practice,5.0,413.27,none,Cash,2025-01-30,6.0,Returned
+615eca80-0d0b-4920-9d46-0c9117478b5c,Eric Schultz,25.0,East Matthew,Urban,Stationery,Measure,0.0,126.09,15%,Cash,2023-09-10,3.0,Y
+0d394b57-a4d4-4f15-ad54-a50182866d40,Derrick Ramirez,23.0,Jenniferbury,Rural,Clothing,Front,0.0,2856.23,none,UPI,2023-05-25,2.0,Yes
+00231f70-0a77-45cc-ae87-46510c2ca7fa,Patrick Lewis,37.0,Ramirezville,Rural,Clothing,Lawyer,1.0,2172.95,0,Debit Card,03/03/2025,3.0,No
+5d13a906-7dc4-412b-b2c5-a2da40944f95,Brian Caldwell,52.0,West Michael,Rural,Electronics,Take,3.0,3506.0,20%,Credit Card,29/08/2023,6.0,Returned
+87638104-96c2-4045-875f-fb36be30cae9,Cynthia Hill,26.0,Millerville,Rural,Clothing,Case,0.0,794.17,none,UPI,13/01/2024,4.0,No
+0a81870a-1ecf-4aec-9a11-ddf4be1a35c9,Susan Pena,59.0,East Janet,Suburban,Home Decor,Wish,3.0,464.36,0%,Credit Card,2024-08-08,0.0,N
+9e7776ae-8bec-4a50-b11a-fc00132b4f36,Nicholas Mayo,,New Jennifer,Rural,Groceries,Animal,5.0,4706.98,10%,UPI,2023-06-23,0.0,No
+b62b9f62-8ced-48ea-ab0f-fa793113b13a,Shawn Castaneda,42.0,Patriciamouth,Rural,Groceries,Professional,3.0,2156.46,10%,Credit Card,16/07/2023,3.0,N
+1155581f-6fa5-403f-a92d-69611e0fd29b,Mr. Troy Gibbs,58.0,New Joshua,Suburban,Clothing,Carry,1.0,3451.5,15%,UPI,16/10/2024,2.0,Y
+0f9027d5-90f0-447c-b4af-80050ba24c4f,Melissa Yang,42.0,Simpsonside,Urban,Groceries,Truth,4.0,1440.87,5%,Debit Card,2023-11-18,4.0,No
+70100d7e-2a5f-46e4-9332-406ff8b6bdee,Janet Chan,,Lawsonborough,Rural,Stationery,Create,4.0,2985.25,none,UPI,2024-05-10,5.0,Yes
+9794b389-37c2-4f27-9267-e7e628f5f5c2,Sherry Gibbs,,Gordonhaven,Rural,Stationery,Event,3.0,4493.19,10%,Debit Card,2023-04-10,2.0,N
+b5502e2b-4bde-4d88-b867-f62dda3bce8e,Bryan Walker,61.0,West Benjamin,Rural,Groceries,Choose,3.0,2436.62,10%,Cash,29/11/2023,0.0,Yes
+453b37f5-220a-49d3-ad60-1f49471b0cc7,Amber Whitney,63.0,New Darren,Rural,Stationery,Range,,359.04,0,Wallet,2025-02-22,5.0,Y
+5e7e00e5-f8e3-41ea-9aeb-bc3ea1f78157,Travis Henson,,Jenniferchester,Suburban,Home Decor,Water,0.0,2250.9,0%,Debit Card,2024-01-02,3.0,N
+0ea8d0ee-fc3a-456a-931b-49d84b7e42df,Alexandra Kelly,,Gregorytown,Urban,Electronics,Note,1.0,1595.42,none,Credit Card,2024-07-25,4.0,Y
+f0636972-c737-427a-9e34-106afa902bfb,Ashley Reese,,Bautistaview,Urban,Home Decor,True,1.0,909.05,5%,Debit Card,2024-08-30,2.0,Not Returned
+34c6d620-8d06-43e2-9ab6-2311a261d918,Connie Adams,52.0,Moorebury,Suburban,Electronics,Show,,2450.31,20%,Debit Card,06/08/2024,3.0,Not Returned
+e6f47dcf-25f9-4ab9-9e5f-310c6f144dc6,Jon Stevens,40.0,East Ashley,Rural,Stationery,Yes,5.0,3599.38,0,Debit Card,23/10/2024,1.0,Not Returned
+05635b30-4834-4d51-a5c6-c5ae2e2f2127,Stephen Roth,32.0,North Douglas,Urban,Clothing,Last,0.0,4826.77,0,Cash,2024-10-25,6.0,Returned
+f86b2e95-a526-40b3-a8bc-d007747c7690,Nathaniel Taylor,,New Coryfurt,Rural,Groceries,Against,2.0,2171.34,15%,Debit Card,2023-10-15,1.0,Y
+d49cc547-c371-4e42-8378-25dad399956c,Amanda Wright,31.0,West Douglastown,Rural,Stationery,Structure,3.0,1521.32,15%,Wallet,02/07/2023,2.0,Y
+8ad8c568-1b39-4777-8aaa-4685f5266edf,Gina Zimmerman,,East Timothy,Urban,Clothing,Order,5.0,4652.63,0,Credit Card,2023-04-15,5.0,Yes
+4eb0c866-29c3-4598-90c2-4f2171bf5c97,Christopher Brown,64.0,Courtneyville,Suburban,Clothing,Against,1.0,1561.92,5%,Credit Card,01/03/2025,,Y
+4bf70dc6-8b6d-4a25-9a52-1aa20b660bcd,Stephen Perry,44.0,East Andrewchester,Suburban,Electronics,Image,5.0,1067.97,20%,Cash,2025-01-07,6.0,No
+39d38f2b-496e-40c9-a7c5-f9605a7284a2,Melinda Mcdaniel,,South Gavinville,Urban,Stationery,Door,3.0,1207.87,15%,UPI,31/07/2023,5.0,Y
+5b7887ed-4824-4af3-b4b2-8643f4dafcc8,Gene Ward,,North Cassandraburgh,Urban,Clothing,Later,2.0,3315.77,15%,Cash,26/06/2023,6.0,No
+adef5777-2e6d-47e8-9980-236855b85720,Steven Mcdaniel,39.0,Michaelville,Urban,Groceries,Experience,4.0,297.26,15%,Wallet,2024-05-24,5.0,Not Returned
+eed15809-5e7e-4813-a967-3fe17fcee629,Terry Lindsey,61.0,Port Sarahberg,Suburban,Home Decor,Star,5.0,682.08,15%,Debit Card,2025-03-19,5.0,N
+63fe557c-25d4-4c19-91fc-4c232586dcd1,Robert Bray,26.0,North Beckyview,Suburban,Stationery,Check,0.0,743.95,5%,Credit Card,2024-08-29,0.0,Yes
+2e8f2f7f-20a6-4edf-bea9-5b7352b3a0d1,Heather Snyder,56.0,Steelechester,Suburban,Home Decor,Play,3.0,355.0,none,UPI,17/06/2023,4.0,N
+cd591b8c-2362-4835-955d-f8c6a2f87dea,Tammy Reyes,64.0,Ryanfort,Urban,Clothing,No,5.0,3828.41,10%,Credit Card,2024-12-14,2.0,No
+1567f88e-6276-4e87-bae8-c8f8d2478bb2,Jennifer Lane,63.0,Lake Christopher,Rural,Stationery,High,2.0,3365.02,15%,Debit Card,28/05/2024,4.0,N
+04643f52-d9c0-49f6-be70-9416340a22d7,John Anderson,35.0,North Rhondastad,Urban,Home Decor,Time,4.0,1223.98,10%,Credit Card,2023-04-10,3.0,Yes
+23ac64e5-d1aa-4b53-8755-66c2dde4cd87,Charles Castaneda,37.0,Sanchezbury,Urban,Clothing,Arrive,4.0,4335.32,15%,Wallet,26/01/2025,2.0,Returned
+b21eafab-f649-49e8-9e03-2a652346f26d,Jamie Johnson,,Watsonville,Suburban,Home Decor,Recognize,1.0,3254.98,0%,Cash,08/11/2024,0.0,Y
+980b82cb-d662-48bf-ba11-4e5612e29c2a,Amanda Diaz,,East Chrisshire,Urban,Clothing,Theory,1.0,990.58,5%,Wallet,02/07/2024,1.0,Not Returned
+2eb35f6a-c3f2-4a39-a653-de2b6a9f687a,Charles Rose,,Theodoremouth,Urban,Electronics,Life,4.0,2211.45,0%,Credit Card,2024-12-30,2.0,Y
+4969b2a1-0361-4157-b1fb-b587a514b3fc,Anthony Day,,New Ethan,Urban,Clothing,Individual,0.0,1722.94,0,Cash,2024-12-04,3.0,Y
+e03fff2c-f2bf-4c3f-ae0e-289b6c726915,Michael Scott,56.0,Jennachester,Urban,Stationery,Word,,4447.25,10%,Cash,13/01/2025,2.0,Not Returned
+858117a1-1789-46f3-b91e-8b9b45967e76,Trevor Paul,,Montgomerybury,Rural,Home Decor,Including,5.0,4634.95,5%,Cash,2023-08-07,6.0,Returned
+8f2de908-f9da-4f55-bef9-9394d28faf65,Angela Schwartz,,Edwardsfurt,Rural,Clothing,Their,4.0,314.67,10%,UPI,28/08/2023,3.0,Returned
+5f1930e0-cda7-4451-8dfe-f6332a31edfd,Chloe Rodriguez,51.0,West Carriemouth,Urban,Stationery,Ahead,4.0,4563.16,5%,UPI,2024-01-28,2.0,N
+1b4142aa-8aa4-41e9-a9aa-aa7e483eb6a1,Kyle Avila,,Jacobborough,Suburban,Stationery,Pull,1.0,1519.32,20%,Debit Card,2023-10-11,3.0,Not Returned
+15c52392-44e8-41e1-bd86-9ad2084930a1,Krystal Elliott,,Williamsmouth,Rural,Clothing,Better,4.0,2244.95,20%,Cash,29/03/2025,3.0,Returned
+c06e1029-5b4d-4bbf-bb04-c6b1022ba960,James Lee,,Swansonberg,Rural,Stationery,Scientist,,2902.3,20%,UPI,03/12/2023,3.0,Yes
+e581c1bc-6843-4e98-94d1-44d518ede297,Ashlee Aguirre,28.0,North Brenda,Urban,Stationery,Idea,5.0,1552.18,0%,Cash,13/09/2024,4.0,Yes
+099396ff-da1e-42b2-9e6a-7c6e961b9221,Christian Ford,21.0,Lake Jesseborough,Urban,Stationery,Surface,2.0,4716.03,0%,Credit Card,12/04/2024,3.0,Y
+b7f330ad-c4d1-4310-a40f-92a4a77af8cb,Victor Black,,Sethberg,Rural,Groceries,Group,3.0,3200.15,0%,Wallet,2024-09-18,,Yes
+f0ad16f7-db1f-44d4-9f9b-c7bd5c3db15c,Steven Schroeder,40.0,Allenland,Rural,Clothing,Claim,,1690.71,5%,Cash,19/11/2023,5.0,Yes
+18ef9a28-7f5d-47f8-be91-4b95a0b6d265,Brenda Harrell,,South Clintonmouth,Rural,Clothing,Condition,0.0,2733.2,none,Debit Card,2024-06-21,1.0,Returned
+47b5c4cd-1173-4df2-a956-42c64bacfa4a,Heather Jones,,Scottfort,Urban,Home Decor,Establish,2.0,1181.13,0%,Cash,2025-04-02,6.0,Returned
+ec95ccf1-a679-4ab0-b129-e2f6e06ca678,Caleb Carroll,,West Michelefurt,Urban,Groceries,Issue,1.0,1906.34,15%,Cash,2024-11-20,0.0,N
+21051c60-ae3a-4df2-aac9-b1cc9ea393ea,Jose Weber,,Nathanielchester,Rural,Stationery,Move,3.0,3273.06,5%,Cash,01/02/2025,3.0,No
+fdc2705c-e023-482a-a09d-d9e84348a887,Lisa Schneider,24.0,Lake Lori,Rural,Electronics,Across,,2189.34,15%,Debit Card,22/03/2024,2.0,N
+6035d9af-4a68-4bad-9af4-cf72da622059,James Jones,20.0,Sawyerland,Urban,Electronics,Happy,1.0,201.51,none,UPI,06/08/2023,0.0,Not Returned
+e66eb0e2-88fd-4890-a479-dce277eee00f,Ashley White,,South Kaylaborough,Rural,Electronics,Interest,0.0,3982.76,5%,Cash,03/04/2024,1.0,Yes
+ff169376-57a9-41b3-9139-94a1108134dc,Christy Figueroa,27.0,West Shawnside,Urban,Stationery,Clearly,3.0,4095.78,0%,UPI,2023-12-19,6.0,N
+51f7c017-36a5-4aba-a3e5-38922540647b,Victoria Schroeder,36.0,Port Michaelchester,Rural,Home Decor,Material,1.0,203.92,5%,Cash,07/04/2024,2.0,Returned
+05df9333-de36-492f-b624-65c10dd8063b,Melinda Nelson,,North Donald,Urban,Home Decor,Eye,4.0,217.6,15%,Credit Card,20/09/2023,4.0,No
+b6532dba-dfaf-46cf-8c5f-ccfb14eae37c,Jason Lewis,,Jackton,Urban,Clothing,Best,3.0,1200.16,0%,Credit Card,2024-02-16,2.0,Yes
+f69f239b-578e-411f-adb4-6c7fe6d1fe21,Carmen Bailey,,Olsonside,Urban,Clothing,Risk,3.0,972.53,20%,Debit Card,2025-03-03,3.0,Returned
+6fd1134e-b25a-4809-b730-e52e2922ecb0,Michael Price,,New Kristaborough,Rural,Electronics,Bank,4.0,4389.47,0%,Credit Card,2024-12-06,,Not Returned
+2505a2b6-9dd3-415a-9417-e0f5aaff96ff,William Mcmillan,,Alexismouth,Rural,Home Decor,World,3.0,3911.14,10%,Credit Card,20/10/2024,3.0,No
+1d15571c-5100-4ab9-9d42-da677fdbabc1,Megan Baker,38.0,South Sherryberg,Urban,Home Decor,Protect,2.0,4801.97,0%,UPI,31/07/2023,0.0,Yes
+18f23999-9410-4438-b82e-5e1ba3900655,Patrick Lopez,39.0,New Nicholas,Rural,Groceries,Happen,5.0,2458.31,15%,Wallet,22/03/2024,0.0,Not Returned
+adfc1dc4-f8c4-4f7a-b0ef-cbd3f3cef8b7,Alexis Cervantes,,West Peggyhaven,Urban,Stationery,Tell,5.0,2739.86,15%,Wallet,2023-09-17,6.0,Returned
+a61f135f-7fc7-46f0-b306-72dc1fef4fb0,Mrs. Heather Clayton MD,31.0,Danielburgh,Suburban,Stationery,Low,3.0,3545.16,10%,Wallet,2025-02-10,4.0,Yes
+984ad463-8d81-4215-ad49-00585f84e3c5,Jeffrey Mitchell,,Waltersville,Urban,Stationery,Begin,3.0,391.93,0%,Wallet,05/03/2024,2.0,No
+a64dcc1d-16f2-4319-9a93-6d0cd655005d,Timothy Garcia,63.0,Lake Seanshire,Suburban,Electronics,Sure,1.0,373.74,10%,Wallet,23/12/2024,4.0,Not Returned
+6baf1e8f-da09-4b0c-8a37-2da3aaef0d3e,Ricardo Arnold,28.0,East Melissaville,Urban,Clothing,Have,4.0,3347.46,5%,Cash,03/05/2023,2.0,Returned
+e8724434-69b6-475e-b6c5-3d2be9fdd358,Michele Figueroa,27.0,West Kimberlyhaven,Suburban,Groceries,Federal,0.0,161.14,none,Debit Card,2024-12-14,2.0,N
+4eb18c88-43b6-4613-a89f-5f9de12def58,Rebecca Perry,59.0,North Rachel,Suburban,Electronics,Join,3.0,2403.9,0,Cash,01/11/2023,5.0,N
+ca5edf38-2743-4b53-86b8-1c8a03f9c74d,Robert Wilkins,,Matthewshire,Suburban,Home Decor,Law,5.0,3060.45,10%,Debit Card,2023-05-03,1.0,No
+31523136-6430-4373-b936-a9688e44f2f8,Jennifer Williams,,Andersonfurt,Urban,Clothing,Should,3.0,4603.84,20%,Credit Card,2023-10-12,5.0,Not Returned
+846c454c-5170-42ef-a777-c6646732ceca,David Mckinney,,New David,Urban,Stationery,Part,5.0,3741.36,15%,Debit Card,2023-08-20,3.0,Yes
+a097efe3-c31d-4215-97d0-dc99645ae8ee,Sara Moore,42.0,Jamesland,Urban,Clothing,Agree,,2439.34,0,Wallet,07/12/2024,6.0,N
+97e1bc36-c520-450f-a0ff-349802f4298f,Luke Stephens,19.0,New Patrickberg,Suburban,Groceries,Long,5.0,611.56,0%,Debit Card,12/03/2024,2.0,Y
+2fc2147c-5bad-4755-8710-1f3da1aa19f0,Steven Phillips,53.0,Lake Kimberly,Rural,Electronics,Stock,3.0,3025.84,none,Cash,12/08/2024,4.0,No
+0d3f69ed-a8c5-4cca-82ae-cc90c5386208,Timothy Burton,,North Stephenville,Urban,Clothing,Both,4.0,2862.32,none,Credit Card,2024-01-26,1.0,Yes
+2e3d9de2-e504-41c6-8312-153d484f7f7c,Johnny Ward,,South Craig,Urban,Electronics,Stuff,2.0,4797.82,20%,UPI,27/07/2023,5.0,Y
+f58f41b0-7c8c-45ab-92d5-dfe569eb337c,Christine Barnes,,Cynthiamouth,Suburban,Stationery,System,2.0,2560.67,none,Credit Card,25/04/2023,2.0,Yes
+e754d4c3-0298-4dd2-8c7b-34e22e07cb63,Keith Obrien,63.0,North Theresastad,Urban,Groceries,Member,,3443.63,5%,Cash,2023-08-11,3.0,Yes
+288c2222-0148-4245-8be6-4b98999921ec,Dawn Martinez,,New Andrewhaven,Urban,Home Decor,Sort,3.0,2292.65,10%,Cash,27/07/2024,,Y
+1d62c6b5-5d69-4934-9deb-78a4375fdd57,Alyssa Taylor,24.0,Lake Heatherberg,Urban,Clothing,Executive,,4794.28,20%,Debit Card,2023-08-04,2.0,N
+178b55e7-f406-46e0-b301-3b087b487db6,Juan Phillips,36.0,Grahamfurt,Urban,Clothing,Win,3.0,2544.67,15%,Debit Card,06/11/2023,2.0,No
+afe2ff5c-32a8-47cc-ac47-133640061add,Michelle Hayden,,New Laurashire,Suburban,Home Decor,Forget,0.0,448.56,0,Cash,2023-09-04,2.0,N
+b8d8f272-f429-405d-b4b1-6488cb4a1b4b,Stephen Henderson DDS,44.0,Cindyfurt,Suburban,Clothing,Laugh,3.0,294.0,none,Debit Card,2023-08-14,6.0,N
+e5dc6ce5-5fbb-4fd7-9a58-abba91303877,Amy Jackson,,New Johnnychester,Rural,Electronics,Finally,4.0,1931.05,0,Debit Card,2023-09-10,,Returned
+f34bfa59-a525-43e3-a093-97d5d3a1b88a,Heather Johnson,18.0,Port Marcus,Urban,Clothing,Street,,3731.11,10%,Wallet,20/07/2024,1.0,Returned
+37164f31-1298-4e9c-becd-2b8c5b952506,Jacqueline Chan,60.0,North Lucastown,Suburban,Home Decor,Series,4.0,4283.76,10%,Wallet,2023-08-30,0.0,N
+cb94cf8d-9145-4a38-b722-ec2c36b9ca35,David Jones,,Carolynhaven,Urban,Home Decor,Director,,634.68,10%,UPI,19/12/2023,6.0,Yes
+9b9f9efe-b75d-4f0c-872e-2f3b8f9afd51,Rhonda Powers,,Flemingchester,Urban,Clothing,Friend,2.0,4982.55,15%,Wallet,26/06/2023,,Not Returned
+0cb68029-3276-4b75-b2b9-fc5651f37a1f,Kathleen Mooney,38.0,Wilsonmouth,Rural,Home Decor,Congress,,4747.82,10%,Credit Card,2024-12-29,3.0,No
+3c862582-6202-435d-9756-fd3353ae1065,Dominique Schneider,31.0,South Justinfurt,Rural,Home Decor,Although,2.0,3968.84,15%,UPI,18/07/2024,,Yes
+0a03c8cd-870b-430c-ab04-4ecb88914b26,Alan Harrison,,Cummingsview,Rural,Home Decor,Free,3.0,509.6,5%,Wallet,2025-03-03,3.0,N
+8e738520-146b-4fbc-a67c-f7885887f3d2,Katherine Williams,,Heathermouth,Urban,Groceries,Minute,1.0,1001.98,5%,UPI,2024-11-13,5.0,N
+1f14eb34-e914-4e70-b797-4ec8a41ef111,Teresa Garcia,,North Margaret,Suburban,Stationery,Chair,0.0,2429.95,0,Wallet,2025-01-26,6.0,No
+b0067b61-dc83-496f-92a6-e3d4fe58a970,Courtney Miller,,Lisaside,Rural,Clothing,Accept,5.0,481.26,0,Credit Card,28/06/2023,4.0,Returned
+427ae472-0d70-4c8b-9e36-390ab0309415,Amanda Williams,,Charlesmouth,Suburban,Stationery,Rise,0.0,4675.72,15%,Credit Card,2025-04-02,6.0,Y
+4518f4c6-612a-4cc6-8fff-0d34caa81f13,Tammy Silva,20.0,East Luisberg,Rural,Groceries,Some,5.0,3208.04,0,Wallet,2024-07-26,3.0,Yes
+e53dfc49-f741-4b94-99a3-ac28e346c1b7,Jeremy Martinez,30.0,New Timothy,Suburban,Clothing,Might,3.0,3044.62,10%,Credit Card,04/07/2024,3.0,No
+7b92a41d-bb19-40fe-85cb-fedd5268c879,Dennis Phillips,,West Angelicabury,Suburban,Home Decor,Receive,1.0,2560.22,none,UPI,11/11/2023,5.0,Not Returned
+b1e93b1a-34b5-49be-9b19-de67bc3a8abb,Wesley Brown,,Lake Jasonfurt,Suburban,Clothing,Cup,3.0,2663.53,none,Cash,2024-08-22,0.0,Yes
+d06200e3-356a-4651-9727-bd831ac2c99a,Kelsey Garrison,,Jeanetteberg,Rural,Clothing,Thus,3.0,2759.54,15%,Debit Card,2024-04-20,3.0,Not Returned
+3802485f-214b-4540-aa04-1d0b1b0c9092,Janice Chavez,23.0,Port Ricardo,Rural,Home Decor,Authority,0.0,4977.28,none,Credit Card,03/05/2024,2.0,Yes
+4ea12bd9-afaf-40ec-aa08-c5266c4fe33d,Laura Garcia,,Walterville,Suburban,Groceries,Effect,5.0,3204.27,20%,Cash,2023-11-09,2.0,Yes
+444a2a48-2fe1-4ed8-b5fa-0ebee4e39c20,Matthew Chavez,,Davidside,Suburban,Home Decor,Become,4.0,661.06,none,Credit Card,2023-04-20,0.0,Yes
+659d12db-268f-490a-b649-f5856e750e7a,Katie Brown,,Mitchellton,Rural,Groceries,Range,,2587.05,0%,Credit Card,2024-01-08,4.0,Y
+31a580d7-6c2e-407e-ad92-b753bb647511,James Wheeler,,Stoneville,Suburban,Groceries,Responsibility,2.0,260.11,5%,Debit Card,2024-01-30,0.0,Y
+1c6fec01-f57f-4bba-bfba-cf5fa576db48,Anthony Johnson,,Johnside,Urban,Stationery,Blood,2.0,2823.12,15%,Wallet,16/05/2023,4.0,Returned
+b3133c8e-9ec6-495e-a1f2-17be39f99c64,Jenna Garcia,51.0,Tylerburgh,Suburban,Groceries,Stock,4.0,4889.04,10%,Credit Card,2023-11-07,0.0,Y
+b4b2ce14-49b9-4124-a30b-d3b558fe7bd2,Morgan Davis,,Stevensonbury,Rural,Groceries,Conference,5.0,2570.86,0,UPI,13/09/2023,3.0,N
+2ff5cdab-2aa9-46d4-91c7-c76cae7303c0,Jesse Rivers,27.0,Pattersontown,Rural,Stationery,Cost,,225.64,5%,Credit Card,2023-12-08,2.0,Returned
+ade03e6c-2bb4-4408-93b4-c4f6e19a17f6,Alexandra Bell,,Aguilarfort,Urban,Groceries,Tv,4.0,3737.46,10%,Cash,29/10/2023,1.0,Not Returned
+d1a529db-0b90-403d-9c00-b89578fa3b84,Michael Roberts,34.0,New Wesley,Suburban,Electronics,Someone,0.0,3658.93,none,Cash,2023-10-17,4.0,N
+4dfa6a17-1999-4b39-980a-7e01c67736bc,Gabriela Henry,,Veronicaview,Suburban,Groceries,Record,1.0,643.56,20%,Credit Card,30/07/2023,2.0,Yes
+0378bcb7-7570-40ac-9d42-10d540e7ca76,Elizabeth Cook,49.0,Rodriguezhaven,Suburban,Electronics,Should,4.0,4572.32,10%,Wallet,2024-04-19,,Yes
+690aa98b-fa87-4ba5-a5dc-cca2054e6210,Mary Thomas,,Johnsonshire,Urban,Groceries,Sit,4.0,1130.45,15%,UPI,16/08/2024,2.0,Y
+34d091d1-5c02-41da-ae43-b319f9299271,Cheryl Blevins,,West Natalieside,Suburban,Home Decor,Way,5.0,3332.37,0,Debit Card,2024-09-29,3.0,Yes
+e0479ecb-f553-4cd3-bcc1-c48c730350ca,Deborah Shelton,30.0,Peterchester,Rural,Electronics,You,3.0,876.1,0,Debit Card,2025-03-16,1.0,Yes
+945b3711-0a85-4722-b0c9-5ec44f2fcfd6,Gwendolyn Salazar,,Popeshire,Urban,Groceries,Structure,1.0,1159.9,0%,Credit Card,2023-11-08,3.0,No
+f82f2dc3-1c35-430b-89d5-245358d4d949,Timothy Thomas,,New Tammy,Suburban,Home Decor,Price,2.0,1411.19,15%,Wallet,2024-12-13,3.0,Yes
+7ca08cde-4dbb-47cd-a9a0-99deaa10e595,Robert Smith,,East Justinshire,Suburban,Electronics,Candidate,2.0,4619.51,0%,Debit Card,2024-06-14,0.0,No
+6e29a319-014d-4829-8e4a-516f7d05955b,Roy Williams,,West Natasha,Suburban,Stationery,Stock,,911.7,10%,UPI,2023-05-19,5.0,N
+c4d5ac13-f561-4900-aa52-cdf38082a0ee,Tiffany Reeves,,Lake James,Rural,Electronics,Pay,2.0,3075.75,15%,Wallet,03/02/2025,2.0,Returned
+083a1c27-3807-4019-8a72-007114a9ee59,Henry Cain,,Hendersonville,Suburban,Electronics,Walk,5.0,4794.68,0%,Credit Card,21/03/2025,1.0,N
+4f8c61b9-98d7-48d9-8d51-5b58eb91d7bc,Jeffrey Liu,22.0,Lake Katrina,Rural,Clothing,Enough,3.0,2204.0,10%,UPI,27/10/2023,,No
+4d126ab1-3313-436c-8de5-8a886a93716a,Edward Ho,,Gardnerfurt,Urban,Home Decor,Stay,,699.29,0%,Debit Card,2023-07-22,,Yes
+237befd1-1896-4a6e-afd8-3533d57758f5,Melissa Gordon,31.0,Taylorchester,Urban,Stationery,Man,3.0,2852.04,15%,UPI,2025-02-16,4.0,Returned
+071592d9-7616-4503-a906-b588f62162ab,Allison Wang,,Port Donaldport,Suburban,Groceries,Stop,4.0,2912.35,0,Cash,28/02/2024,2.0,Not Returned
+209515d5-5f84-4666-831f-fc009490029d,Stephanie Rich,,Port Meganberg,Urban,Stationery,Interesting,4.0,2543.39,0%,UPI,2023-10-13,6.0,Yes
+c353ac87-ceb7-438a-b67a-92b701862029,Julia Brown,54.0,West Mariaville,Suburban,Clothing,Goal,1.0,2924.43,0%,Cash,2024-09-09,4.0,Not Returned
+90c0e607-4a63-4fc3-926a-ab2718ef2501,Mr. Antonio Yang,39.0,Lake Jamieberg,Urban,Home Decor,Or,5.0,281.34,20%,Credit Card,2024-07-12,0.0,Yes
+393a26ee-22eb-4a7f-becc-492df79f8fa9,Margaret Moore,43.0,Jennifertown,Rural,Clothing,Support,3.0,3643.94,0%,Wallet,2024-11-03,0.0,Y
+1d5d8f65-3361-4134-b012-00ab9fa87040,Christian Hobbs,,East Jamesfort,Rural,Electronics,Ago,4.0,1562.37,15%,Credit Card,18/04/2024,0.0,Not Returned
+0e3f4912-6405-4362-b19d-eadd817c6779,Elizabeth Webb,,Port Jimmy,Urban,Groceries,Thus,0.0,779.8,0%,Credit Card,13/01/2025,1.0,Not Returned
+ae6b0455-9cdd-47c2-925a-0b3f42a1279b,Matthew Martinez,,Lake Andrew,Urban,Electronics,Change,1.0,4099.12,20%,Credit Card,2024-06-05,,Not Returned
+2bb7f146-3d9d-442a-a84f-a67fbe9e01a9,Melissa Gonzalez,35.0,Robertsville,Urban,Stationery,Per,5.0,1392.26,0,Wallet,02/01/2025,2.0,N
+6424fa05-4672-48f6-aaee-5d685e09f48e,Robert Marshall,,Hernandezport,Rural,Electronics,Lot,5.0,4323.29,none,Debit Card,2024-04-24,,N
+949e24ad-02d2-4ee7-a3b1-a52e907001b6,Matthew Barry,48.0,Williamsstad,Urban,Clothing,Chair,3.0,3340.22,0%,UPI,2023-07-10,6.0,Not Returned
+46e32efc-7556-4ff1-b91a-ce28e1e68d35,Christopher Mason,59.0,West Rachel,Rural,Electronics,Network,2.0,2836.72,none,Credit Card,2024-04-05,,Not Returned
+a7ea52f0-2cab-43d7-9011-6af48356ed61,Matthew Hart,42.0,Espinozaberg,Suburban,Electronics,Family,2.0,1141.13,0,UPI,05/02/2024,1.0,N
+ec68fc07-4d8c-4019-a88f-c85ac33a402e,Thomas Brewer,59.0,Estesburgh,Rural,Electronics,Parent,,3826.39,0%,Cash,07/12/2024,,N
+a8ae013a-c680-4bb4-81c9-74a0ed6ae39f,Beverly Nguyen,50.0,Breannafurt,Suburban,Groceries,Author,0.0,1989.32,15%,Credit Card,09/10/2024,,Returned
+28bfffdd-bb9d-4c31-9a1e-b729078ebe4e,Maurice Porter,24.0,Morrisbury,Suburban,Electronics,Sport,5.0,3462.7,none,Credit Card,12/05/2023,3.0,Not Returned
+3c92f1ab-cbac-43c6-bb8e-c1cbead217d1,Spencer Chandler,,Camposchester,Suburban,Clothing,Win,4.0,1016.45,5%,Credit Card,2024-12-26,6.0,Not Returned
+1d4e2772-401f-45a6-9ca5-b74f0fda6ca4,Paul Alexander,,Catherinetown,Rural,Clothing,Wind,2.0,1836.69,10%,Credit Card,27/05/2023,2.0,N
+73131038-b2df-4075-9b8f-abe952377d88,William Berry,45.0,East Johnny,Suburban,Groceries,Left,4.0,579.28,0,Wallet,21/08/2023,,Not Returned
+bdfdcc7b-3381-4e0d-b9ba-243a493d269e,Robert Stokes,24.0,North Brandi,Rural,Groceries,Professional,5.0,2694.86,15%,Credit Card,16/09/2024,5.0,N
+cf5cbd7f-0882-4d14-b41b-2c0918a0f6c0,Aaron Schroeder,22.0,West Jacobhaven,Suburban,Groceries,Model,3.0,4485.79,20%,Debit Card,2024-09-08,1.0,No
+d3dc00ee-9203-45d2-b51d-1137d5185b72,Harold Montgomery,,Port Carlos,Suburban,Groceries,Late,2.0,2020.35,5%,Cash,2023-09-02,0.0,Not Returned
+91b3f921-1224-415f-9fbc-f340604948be,Richard Evans,64.0,South Jerryside,Urban,Groceries,Give,5.0,3220.81,0,Debit Card,2024-08-05,,Y
+4a36a7c0-f0cc-4f56-9242-89ea39597465,Danielle Warner,,Port Monicaport,Rural,Electronics,Bad,,3721.54,none,Cash,25/04/2023,6.0,No
+848be725-da6b-4060-bdcc-4915934a85d9,Kathryn Ross,,New Heidiville,Urban,Groceries,Pass,,794.98,5%,UPI,2024-05-27,6.0,N
+43577225-fc24-4159-aada-2885efda70bf,Amanda Fisher,,West Pamela,Rural,Electronics,Artist,1.0,3428.09,none,Wallet,2024-04-07,3.0,Returned
+bbdf144c-d117-46d5-8c0d-ea8b3448a247,Peter Gaines,,East Trevorshire,Urban,Stationery,West,1.0,635.99,none,Debit Card,25/07/2023,6.0,Returned
+ceb7803e-c3fc-4c0e-95c2-c94db3fdc2b8,William Dodson,,New Timothyberg,Suburban,Clothing,Experience,3.0,3898.76,5%,Debit Card,24/07/2024,3.0,Not Returned
+7f20f661-091d-4643-9aa3-c18e0aaf8962,Marie Reynolds,,Kimberlybury,Rural,Stationery,Against,1.0,1342.33,15%,Wallet,20/10/2024,6.0,Y
+c82585fa-c60b-446e-86bf-1fb70e2bd8c9,Kimberly Dalton,60.0,New Timothyfurt,Suburban,Home Decor,Space,0.0,824.71,15%,Credit Card,31/03/2025,1.0,No
+b38adf82-6e02-4a88-a00f-8ed9b2086418,Chad Kim,42.0,Michaelmouth,Suburban,Stationery,Leave,1.0,1861.16,0,Wallet,2024-01-26,0.0,No
+178cb5a0-3b66-4afa-bcf8-b9130ed40264,Crystal Burgess,,Port Alexisbury,Suburban,Clothing,Tax,3.0,1400.02,0,Cash,21/03/2025,3.0,Y
+704532d5-2070-43f0-8e80-ea41139cd2b0,Andrew Bailey,,West David,Suburban,Electronics,Information,4.0,4187.44,5%,Credit Card,22/05/2023,,N
+13a96a92-a816-4d18-9f54-0e96a8575900,Todd Harris,57.0,Priscillabury,Suburban,Home Decor,Life,5.0,2384.96,10%,UPI,13/04/2024,3.0,Y
+c7bbbcf8-5def-4cc2-b101-5bfe4d7efc8e,Sheila Sanchez,55.0,Luisside,Urban,Home Decor,Most,2.0,176.4,5%,UPI,12/10/2024,5.0,Y
+692c6843-e682-4710-98bd-19da0dd2c843,Lisa Ramirez,,East Maureen,Suburban,Stationery,Near,1.0,3335.24,5%,Debit Card,28/06/2023,,Y
+35f4ffba-8d8f-4868-bded-b9cc4e107ed6,Nathaniel French,45.0,East Hollymouth,Suburban,Groceries,Build,,3594.67,10%,Credit Card,04/10/2023,2.0,No
+4532499e-08a4-4ec0-9619-68aa7fb866b2,James Wilcox,,North Joshuafurt,Urban,Clothing,Mission,,1318.77,0,UPI,2023-04-24,,N
+71ab4711-6279-4a6e-a1f1-4c98dcdeadc8,Daniel Lopez,26.0,Patelport,Suburban,Groceries,Almost,3.0,2863.15,0,Wallet,2023-04-22,3.0,Returned
+06a76b07-efed-47bb-9909-b7d6c353b9e4,Nicole Rogers,47.0,Lisashire,Suburban,Home Decor,Direction,5.0,1594.48,0%,Credit Card,01/06/2024,5.0,Not Returned
+d4490964-b9cd-413b-9748-218a07001750,Sharon Patton,,Port Danielfurt,Suburban,Home Decor,Set,,3501.25,20%,Wallet,16/11/2024,6.0,Not Returned
+fdab0afa-dbc7-445d-8994-41c5ad8f6932,Julie Armstrong,23.0,Franciscofurt,Rural,Clothing,Manage,1.0,2360.29,20%,Cash,2025-04-01,0.0,N
+21c268f3-3cfc-4050-acb6-97a2fe1be3e9,Diana Fleming,,Christopherbury,Urban,Home Decor,Spend,5.0,723.65,20%,Credit Card,07/11/2024,,Y
+650495b5-9232-48bf-9668-85304bbb2e9a,Donald Adams,59.0,Kimberlytown,Suburban,Stationery,Capital,1.0,4212.07,5%,Credit Card,2024-06-02,6.0,Y
+d604153c-522c-4c44-a928-a5b291855abd,Christopher Ford,65.0,Smithton,Rural,Groceries,Her,1.0,3483.91,none,Debit Card,02/12/2023,6.0,Yes
+37c486a1-8e7d-4390-9825-b478a34321bf,Kevin Miller,,Stephaniemouth,Rural,Electronics,Couple,,768.37,0,Wallet,2024-04-14,6.0,No
+42714418-46b1-454a-8967-82fbc4170ebd,Bethany Mccoy,25.0,Port Christine,Urban,Groceries,Appear,2.0,662.07,5%,Credit Card,25/10/2023,4.0,Returned
+2f2b5e31-09db-40a9-a793-eb811d4c5eb7,Shannon Riley,48.0,New Jenniferton,Urban,Stationery,Send,3.0,2014.5,5%,UPI,2023-10-05,6.0,N
+adaad2f9-0420-421e-81e7-ebbaf9ac1a4f,Sarah Fernandez,27.0,New Jimmyville,Urban,Groceries,Bank,1.0,4310.64,20%,Cash,26/10/2023,6.0,N
+13d3c726-82d3-4948-9cf9-8855719db54f,Gabriel Watson,,Joneschester,Suburban,Clothing,Type,3.0,2433.18,0%,Wallet,05/05/2024,4.0,Not Returned
+9b622c0a-5398-4922-8652-62a224a0db6e,Frances Russell,,Thomasport,Suburban,Electronics,Pretty,4.0,2373.42,none,Debit Card,13/11/2023,2.0,No
+4a76a0ea-0b6b-4944-9e49-08c8290a42d2,Susan Johnson,46.0,Port Lawrence,Suburban,Groceries,Senior,,267.01,0,Wallet,2023-05-02,5.0,Returned
+94dc4c97-c891-4d99-8218-3bb9bdf68eb0,Teresa Gray,50.0,Lake Jessicafurt,Suburban,Stationery,Sound,3.0,1456.83,10%,Wallet,2024-12-04,6.0,Returned
+f5687574-13ca-4eb6-b486-a2511414f827,Courtney Gordon,,Ryanville,Suburban,Groceries,Throw,,3314.0,0%,UPI,2024-08-24,3.0,Not Returned
+9b6b0992-0d2a-4d7a-8c57-32f2871b0b1f,Joseph Alexander,,Jamesshire,Suburban,Stationery,Finally,0.0,4625.04,5%,Cash,2025-02-18,5.0,Not Returned
+cc8ba760-3e3a-4dfc-9424-aae43e78af27,Heidi Bryant,,Lake Johnchester,Urban,Electronics,High,5.0,734.17,0%,Credit Card,2025-03-15,5.0,Returned
+1391d18a-8171-4955-8f7a-1e435a1ba9db,Martha Jacobs,,Hartmanbury,Suburban,Groceries,Over,1.0,1235.35,0,Cash,08/06/2023,3.0,N
+ecfbc936-2012-4ebb-bc9b-519ad3a81c4f,Paula Russell,22.0,New Jorge,Rural,Clothing,Few,0.0,3668.0,15%,Credit Card,09/01/2025,3.0,N
+6893a38a-14dd-4314-9e32-e3e150581a4a,William Johnston,19.0,East Nancy,Suburban,Electronics,Administration,5.0,2263.49,0%,Wallet,29/12/2023,2.0,Not Returned
+c3f86f2d-436c-4e18-ab2b-0c271eec0480,Tara Newton,36.0,Port Austin,Urban,Groceries,Lawyer,4.0,1059.02,15%,Wallet,2023-08-15,4.0,Not Returned
+12b1178b-fd6c-47e3-aabc-4b2fb0a6e457,Sean Sellers,24.0,Gomezfurt,Urban,Groceries,Same,,521.49,5%,Credit Card,26/04/2023,4.0,Not Returned
+1e78ba02-4b1b-4b3a-b644-8d243dcead91,Roger Rogers,,Lake Brandonstad,Urban,Groceries,List,1.0,2884.65,none,Debit Card,2024-06-13,0.0,Y
+bd9e5993-7323-4f23-a17e-34b068ac039c,Donna Woods,,Lake Isaac,Suburban,Home Decor,Space,0.0,1846.78,20%,Credit Card,2025-03-15,,No
+8266557c-efc6-4c4c-91f2-789bea956113,Steven Watkins,49.0,Emilymouth,Urban,Stationery,Hundred,1.0,3933.7,0%,Debit Card,08/07/2024,3.0,Yes
+b8f7ef48-8238-4358-ad3d-ab8a70473d9d,Theresa Davis,,Trevorton,Urban,Groceries,Organization,0.0,4124.51,0%,UPI,12/12/2023,4.0,Y
+821b390c-946f-4f07-8673-173ae5b58f30,Jessica Morris,43.0,Katherineberg,Rural,Electronics,Analysis,5.0,4280.66,20%,Debit Card,14/05/2024,4.0,Y
+fd3c902a-e1e3-4da6-bc10-6ec9f1eef895,Jessica Ramirez,34.0,Coryport,Suburban,Electronics,Company,3.0,3300.84,5%,Cash,30/12/2024,5.0,N
+705cd91e-7c94-48af-861a-ef6349b016e5,Christopher Crosby,49.0,Vanessaville,Rural,Stationery,Window,1.0,4628.45,0,Credit Card,09/07/2023,,No
+1891e25c-2418-47fd-8754-3604aa9b64ba,Ryan Fischer,,New Rachelside,Urban,Clothing,Note,,4754.55,20%,Credit Card,04/10/2023,2.0,Returned
+d51f03b1-7d05-4c07-81b4-cdfc31f436ea,Jaclyn Campbell,,Dennishaven,Urban,Electronics,Card,3.0,2587.26,0,Credit Card,18/12/2024,6.0,N
+1c0fb87f-eb01-4ba7-8b81-4a84742f790e,Tamara Wilson,61.0,Snyderland,Rural,Home Decor,Treatment,4.0,2717.51,none,Credit Card,12/01/2025,4.0,Not Returned
+ab30f1b1-bb4c-4947-8748-b576fe3a4f96,Hector Miller,53.0,Lake Charles,Urban,Home Decor,Close,,3507.66,15%,Credit Card,2023-07-23,0.0,N
+a170920c-7416-486b-86af-040d55d8a81a,Megan Jones,33.0,Patriciaton,Urban,Stationery,Lead,4.0,1823.77,0%,Credit Card,05/05/2024,,Yes
+8573b517-cb50-4544-b481-acdeeeafab56,Ryan Guerrero,33.0,Lake Courtneybury,Urban,Electronics,Certain,0.0,4955.6,5%,Cash,25/06/2023,1.0,Not Returned
+385fa73d-f173-46d5-9f42-eabd604f3c8d,Deborah Hernandez,,Lake Tyler,Urban,Stationery,Catch,5.0,314.23,0%,Wallet,06/07/2024,5.0,Not Returned
+f369c683-16b5-4f7a-a038-9eb7a2807710,Miranda Lewis,,Jonesside,Rural,Clothing,Popular,3.0,3317.29,5%,Cash,09/09/2023,2.0,Returned
+6b0c7da5-09ef-419b-ad98-f251b5c1f027,Lisa Welch,59.0,Lake Michael,Rural,Clothing,Nice,5.0,4712.99,none,UPI,2023-09-16,5.0,Y
+4cd36406-e0bd-4044-ae18-b22bf44f5031,Sheri Contreras,,Roblesfurt,Urban,Groceries,Piece,,364.59,15%,Cash,2024-08-30,2.0,Returned
+18b666f8-4ba0-468a-bb20-21f78b1d2284,Victor Prince,41.0,Robertmouth,Urban,Groceries,Gas,2.0,1594.2,20%,Wallet,2024-01-10,4.0,Yes
+2d1b143e-1da6-436d-acc3-f8aaa9943d14,Francis Wilson,,Bushfort,Rural,Home Decor,Though,4.0,4769.92,5%,UPI,2023-10-17,6.0,Yes
+697905ea-99de-4d20-bd3a-8826dd2fb568,Alyssa Adams,49.0,Port Kirsten,Suburban,Home Decor,Ask,5.0,392.63,none,Wallet,23/12/2024,2.0,N
+accc1507-42f8-4fc5-92bc-b64dc59498c5,James Ramos,,Greenton,Urban,Stationery,Executive,4.0,1958.7,0,UPI,2024-06-17,4.0,Returned
+a2e25753-56ff-4b3e-b80c-fd3dba6a741c,Elizabeth Ortiz,31.0,New Jamie,Suburban,Stationery,Process,0.0,4621.22,0%,Wallet,2024-04-19,,Returned
+9c5a342e-9d01-4d3c-b7df-9baff2a81e6e,Larry Smith,,Port Nicholasmouth,Rural,Home Decor,While,4.0,4056.24,20%,Wallet,2023-07-02,1.0,Not Returned
+103f3a46-8d8a-4957-8419-6c8ac44fc2a8,Kelly Cox,33.0,East Mary,Urban,Clothing,Individual,4.0,896.49,15%,UPI,06/01/2024,5.0,Not Returned
+cd210a34-4a49-4a1b-bab5-a9f1b7c315a2,James Gutierrez,43.0,North Barry,Rural,Clothing,Again,3.0,3879.56,0%,UPI,03/02/2025,4.0,Returned
+80624277-1a3e-4c71-86cc-556bf0bb1e32,John Moore,18.0,Andrewbury,Suburban,Stationery,Along,0.0,3933.89,none,UPI,2024-11-14,5.0,Returned
+c8b7bcd0-d020-4ede-9fa7-0e6bbffa749e,James Cardenas,47.0,Michelleland,Suburban,Home Decor,Back,4.0,2274.66,5%,Debit Card,05/11/2023,3.0,Yes
+bb8e37e2-c32b-4a73-b417-dee1b8dc6390,Adrian Greer,,North Jill,Urban,Home Decor,Structure,3.0,2939.89,5%,Cash,03/05/2024,1.0,Returned
+dbfb491a-9b0e-4a7e-94db-549631bc99e6,Franklin Hunt,58.0,West Joshuaborough,Urban,Stationery,Black,2.0,1371.75,15%,Credit Card,05/02/2024,5.0,No
+78adb182-9381-4bb3-a7f2-f07ef821947c,Jeffrey Walker,,Hoffmanfort,Urban,Stationery,Feel,0.0,1002.85,20%,Cash,30/10/2023,1.0,N
+3e9f069a-81b0-4ca4-8880-0d17b3efe892,Willie Luna,52.0,Kathrynville,Rural,Groceries,Local,,4878.88,5%,UPI,13/03/2025,5.0,Y
+65b8a38c-065f-4046-b9a6-174493efe8f0,Jillian Woods,,Lake Lanceberg,Rural,Home Decor,Take,2.0,654.59,5%,Credit Card,2023-09-29,6.0,No
+8f962ff2-186b-4a71-9569-12ddf9cf2bd2,Sean Burns,,North Donald,Rural,Clothing,Practice,5.0,801.09,0%,Wallet,2024-08-09,5.0,Y
+d6f34d9b-b918-46e8-85fd-e9e9793841a9,Crystal Saunders,36.0,Robertmouth,Rural,Electronics,They,3.0,3147.39,10%,Credit Card,2025-01-17,5.0,Yes
+90b84f94-b062-459e-924a-16520958b354,Shelby Adams,,Port Anna,Urban,Home Decor,Middle,,2602.9,none,Debit Card,02/08/2023,,Returned
+a6ea0997-f5a0-4c0a-9021-d3fc7ff3e818,Joel Webb,,North Ronaldland,Rural,Electronics,How,1.0,1967.34,0,Debit Card,2024-06-04,3.0,Yes
+851ab93f-297e-4f2f-837c-e599c1c353c4,Carol Kim,35.0,North Nicolefort,Rural,Clothing,Conference,4.0,3330.07,20%,Cash,15/07/2023,6.0,Y
+23ce37db-7cb8-449d-864b-789acd9b79fd,Kimberly Ross,62.0,Davidport,Suburban,Home Decor,Service,,1231.36,0%,UPI,06/08/2024,,Yes
+85c14181-4567-4f45-ad3b-1b9de15680e9,Steve Elliott,,East Kelly,Suburban,Groceries,Reveal,4.0,4581.71,0,Debit Card,2025-03-24,2.0,Returned
+b6e7d214-f3b5-47d7-9d2f-1794cd853347,Larry Kennedy,61.0,West Sara,Rural,Clothing,Service,0.0,4636.01,10%,UPI,13/09/2023,3.0,N
+863daa90-2a0b-43f4-a2a5-97cfed8707d5,Kara Stewart,,East Thomas,Rural,Groceries,Accept,5.0,499.38,15%,Cash,2025-01-29,2.0,No
+b1acf1dd-3303-443c-b00b-6e7bb3932fb8,Jimmy Davis,,Wheelerland,Rural,Electronics,Hard,3.0,917.18,15%,Cash,2023-12-06,1.0,Returned
+584f218a-39dd-41e1-a222-c7758f24da7e,Tanya Hill,,Silvaport,Suburban,Clothing,Hold,1.0,217.26,10%,Cash,14/08/2024,0.0,No
+41374168-ef2e-4dc9-a73c-984bc4596172,Margaret Harris,55.0,North Jessica,Rural,Electronics,Far,3.0,3588.72,5%,Credit Card,2024-08-05,4.0,Y
+206faddb-1a31-487e-904c-01a1434fe133,Laurie Miranda,,Barbarashire,Suburban,Home Decor,Point,,4754.6,15%,Cash,2023-08-24,,N
+df0fea06-bcbd-4eeb-8eab-2f76f776f4e8,Susan Clark,,Port Jesseborough,Suburban,Clothing,Benefit,5.0,846.06,5%,Wallet,09/11/2023,2.0,Returned
+24b17e45-2580-4a2c-9d6b-a3b5cda898b5,Shannon Morris,,East Williammouth,Urban,Stationery,Large,2.0,4729.36,5%,Debit Card,2025-03-30,5.0,Y
+80189536-4d74-4649-93bc-20e078c09d8b,Cynthia Long,27.0,Mccarthystad,Rural,Groceries,Forget,3.0,1497.76,15%,Wallet,2024-09-05,0.0,No
+1404e492-87db-4168-9125-126285a0daf6,Sarah Moses,,Jenniferchester,Suburban,Home Decor,Opportunity,2.0,587.39,0%,Cash,2025-01-18,,Yes
+4023539b-c9f9-4d37-b1f2-0ebf7d76c495,Kristin Graham,,Gregorystad,Urban,Electronics,Top,5.0,4702.1,0%,Cash,2024-03-16,5.0,Yes
+ba7e6b51-5892-471a-ab87-aea4c54f87ad,Luis Walter,30.0,South Neil,Suburban,Electronics,Worker,5.0,234.02,5%,UPI,04/04/2024,3.0,Returned
+712c3126-3222-404f-82bb-6d94fed50d6b,Cory Willis,36.0,Clintonstad,Rural,Electronics,Whole,2.0,3687.24,20%,Wallet,2024-11-08,0.0,N
+9b559178-0353-4b9a-abeb-9d9880b710a6,Matthew May,64.0,Williamsview,Suburban,Electronics,Eye,2.0,1388.98,none,Cash,2023-10-22,6.0,Y
+d2c57940-927a-42df-b89c-ad3f0ea66dbf,Mitchell Ruiz,58.0,Henryfort,Rural,Clothing,So,3.0,867.96,0%,Credit Card,05/08/2024,,N
+ceb3c70f-8bab-4c9c-8026-6d51a5c5bce0,Jacob Salazar,20.0,Lake Jill,Urban,Groceries,Truth,,1032.95,20%,Debit Card,15/02/2025,,Not Returned
+d5853f0b-6b69-4bd2-9533-fe8221b3b264,Amy Walsh,49.0,West Connorside,Rural,Home Decor,Fall,4.0,3399.4,0%,UPI,27/01/2025,4.0,No
+bcc9c2e6-9d2f-4a3e-a7b4-f9c831b5efb0,Ryan Charles,31.0,Rachaelburgh,Suburban,Electronics,Western,,4759.08,none,Wallet,2025-01-29,2.0,Not Returned
+842ee348-5dc2-4d9b-b1bd-b57bb8dddfc2,Matthew Butler,,North Jameshaven,Rural,Stationery,Choose,4.0,3578.95,5%,Cash,2024-07-06,4.0,Not Returned
+718296af-2c2e-4ba0-957e-f91444424098,Lee Barker,,Thompsontown,Suburban,Home Decor,Foreign,3.0,2699.26,10%,Debit Card,25/10/2024,6.0,No
+57696e2f-1e22-4ade-99c6-7a528f80d1ef,Russell Miller,,Davisland,Suburban,Groceries,Court,1.0,1547.54,10%,Wallet,06/11/2023,6.0,Y
+9755828f-5147-43ba-af87-5748161f77a1,Alicia Jackson,,East Danamouth,Rural,Groceries,Beat,1.0,4785.95,0,Wallet,2024-10-25,6.0,Y
